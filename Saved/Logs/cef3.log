@@ -1,0 +1,19 @@
+[46520:48544:1016/175929.463:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[46520:39868:1016/175929.505:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[46520:48544:1016/175929.529:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[46520:48544:1016/180028.023:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[46520:48544:1016/181336.937:ERROR:device_event_log_impl.cc(196)] [18:13:36.695] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Eleman bulunamadı. (0x490)
+[46520:48544:1016/184356.832:ERROR:browser_info_manager.cc(781)] Timeout of new browser info response for frame 8-C8E7EB3735CC9C1F84BD9ED7804ED408 (has_rfh=1)
+[37344:38168:1016/184357.168:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 7-87CF232F363B06BED7926DA04AB857F7 will be ignored
+[47576:48620:1016/185004.452:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 9-C46887E63B50CE367047BA9D36D6C866 will be ignored
+[9780:18720:1016/185502.136:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame B-30A303B556DF10D860D5FAA9B84D4E59 will be ignored
+[46520:48544:1016/185614.855:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[46520:48544:1016/190940.913:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[46520:48544:1016/190940.914:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[46520:48544:1016/191130.247:ERROR:device_event_log_impl.cc(196)] [19:11:30.046] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Eleman bulunamadı. (0x490)
+[46520:48544:1016/192021.606:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[46520:48544:1016/193707.630:ERROR:device_event_log_impl.cc(196)] [19:37:07.458] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Eleman bulunamadı. (0x490)
+[46520:48544:1016/200113.176:ERROR:device_event_log_impl.cc(196)] [20:01:13.065] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Eleman bulunamadı. (0x490)
+[46520:48544:1016/210142.309:ERROR:device_event_log_impl.cc(196)] [21:01:42.157] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Eleman bulunamadı. (0x490)
+[46520:48544:1016/210935.255:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[46520:48544:1016/210945.048:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

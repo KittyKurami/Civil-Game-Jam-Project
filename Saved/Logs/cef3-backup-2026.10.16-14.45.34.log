@@ -1,0 +1,22 @@
+[47080:46356:1016/173304.821:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[47080:1804:1016/173305.014:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[47080:46356:1016/173305.102:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[47080:46356:1016/173331.206:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[47080:46356:1016/173336.206:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[47080:43516:1016/173337.089:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[9680:21768:1016/173337.091:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[47080:46356:1016/173341.206:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[47080:1804:1016/173342.100:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[9680:44112:1016/173342.114:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[47080:1804:1016/173352.102:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[9680:44112:1016/173352.128:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[47080:46356:1016/173421.536:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[47080:46356:1016/173426.536:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[47080:46356:1016/173431.543:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[44144:40860:1016/173435.008:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[44144:49800:1016/173435.110:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[44144:40860:1016/173435.168:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[47080:46356:1016/173441.544:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[44144:40860:1016/173457.926:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[47080:46356:1016/173520.523:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[47080:46356:1016/174534.775:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
