@@ -1,3 +1,5 @@
-[55756:45008:1016/213814.085:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[55756:54260:1016/213814.193:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[55756:45008:1016/213814.261:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[54184:7748:1016/220819.481:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[54184:17488:1016/220819.835:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[54184:7748:1016/220819.992:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[54184:7748:1016/220831.974:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[54184:7748:1016/220927.118:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

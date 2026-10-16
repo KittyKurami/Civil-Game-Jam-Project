@@ -13,19 +13,11 @@
 		},
 		{
 			"Name": "Aura",
-			"Enabled": true,
+			"Enabled": false,
 			"SupportedTargetPlatforms": [
 				"Win64",
 				"Mac"
 			]
-		},
-		{
-			"Name": "ModelContextProtocol",
-			"Enabled": true
-		},
-		{
-			"Name": "MCPClientToolset",
-			"Enabled": true
 		},
 		{
 			"Name": "Terminal",

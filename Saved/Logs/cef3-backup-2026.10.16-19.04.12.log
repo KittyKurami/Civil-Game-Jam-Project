@@ -1,0 +1,18 @@
+[55756:45008:1016/213814.085:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[55756:54260:1016/213814.193:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[55756:45008:1016/213814.261:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[55756:45008:1016/213848.158:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[55756:54260:1016/215129.559:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[56564:33144:1016/215129.576:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[55756:54260:1016/215134.562:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[56564:33144:1016/215134.589:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[55756:54260:1016/215144.564:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[56564:33144:1016/215144.603:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[55756:54260:1016/215204.566:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[56564:50624:1016/215204.621:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[55756:45008:1016/215458.319:ERROR:usb_descriptors.cc(166)] Device descriptor parsing error.
+[55756:45008:1016/215458.320:ERROR:device_event_log_impl.cc(196)] [21:54:58.320] USB: usb_device_win.cc:95 Failed to read descriptors from \\?\usb#vid_04e8&pid_6860#r5gyc2x8y8z#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+[55756:11932:1016/215504.029:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[56564:33144:1016/215504.034:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[55756:45008:1016/215709.306:ERROR:device_event_log_impl.cc(196)] [21:57:09.169] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Eleman bulunamadı. (0x490)
+[55756:45008:1016/220412.274:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
