@@ -4913,3 +4913,120 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.10.17-04.36.46:021][211]LogShaderCompilers: Display: Material DDC Serialization Only: 0.01 s (2%)
 [2026.10.17-04.36.46:021][211]LogShaderCompilers: Display: Material Cache Hits: 30 (9%)
 [2026.10.17-04.36.46:021][211]LogShaderCompilers: Display: ================================================
+[2026.10.17-04.37.42:696][381]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6546.881836
+[2026.10.17-04.37.43:698][384]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.10.17-04.37.43:698][384]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6547.548828, Update Interval: 304.903717
+[2026.10.17-04.38.31:237][539]LogSlate: Window 'Message' being destroyed
+[2026.10.17-04.38.31:244][539]Message dialog closed, result: Cancel, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/RozaFile/Outline3/Outline_RozaSpecial.Outline_RozaSpecial
+(Selecting 'No' will cause all changes to be lost!)
+[2026.10.17-04.38.33:117][602]LogSlate: Window 'Message' being destroyed
+[2026.10.17-04.38.33:126][602]Message dialog closed, result: Yes, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/RozaFile/Outline3/Outline_RozaSpecial.Outline_RozaSpecial
+(Selecting 'No' will cause all changes to be lost!)
+[2026.10.17-04.38.33:247][602]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2026.10.17-04.38.34:777][602]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2026.10.17-04.38.34:814][602]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2026.10.17-04.38.36:046][602]LogSlate: Window 'Save Content' being destroyed
+[2026.10.17-04.38.36:067][602]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.10.17-04.38.36:124][602]LogFileHelpers: Saving Package: /Game/RozaFile/Outline3/Outline_RozaSpecial
+[2026.10.17-04.38.36:124][602]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/RozaFile/Outline3/Outline_RozaSpecial] ([1] browsable assets)...
+[2026.10.17-04.38.36:167][602]OBJ SavePackage:     Rendered thumbnail for [Material /Game/RozaFile/Outline3/Outline_RozaSpecial.Outline_RozaSpecial]
+[2026.10.17-04.38.36:167][602]OBJ SavePackage: Finished generating thumbnails for package [/Game/RozaFile/Outline3/Outline_RozaSpecial]
+[2026.10.17-04.38.36:174][602]LogSavePackage: Moving output files for package: /Game/RozaFile/Outline3/Outline_RozaSpecial
+[2026.10.17-04.38.36:174][602]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/Outline_RozaSpecial3BDF8FF241D7DF7BEE88E09B25380C8C.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Content/RozaFile/Outline3/Outline_RozaSpecial.uasset'
+[2026.10.17-04.38.36:185][602]LogFileHelpers: InternalPromptForCheckoutAndSave took 117.087 ms (total: 7.25 sec)
+[2026.10.17-04.38.36:245][602]LogStall: Shutdown...
+[2026.10.17-04.38.36:259][602]LogStall: Shutdown complete.
+[2026.10.17-04.38.36:627][602]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2026.10.17-04.38.36:635][602]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.17-04.38.37:145][602]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2026.10.17-04.38.37:145][602]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.17-04.38.37:336][602]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2026.10.17-04.38.37:336][602]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.17-04.38.37:503][602]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2026.10.17-04.38.37:503][602]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.17-04.38.37:606][602]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2026.10.17-04.38.37:606][602]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.17-04.38.37:737][602]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2026.10.17-04.38.37:737][602]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.17-04.38.37:890][602]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2026.10.17-04.38.37:890][602]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.17-04.38.37:988][602]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2026.10.17-04.38.37:988][602]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.17-04.38.38:115][602]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2026.10.17-04.38.38:115][602]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.17-04.38.38:224][602]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2026.10.17-04.38.38:224][602]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.17-04.38.38:334][602]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2026.10.17-04.38.38:334][602]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.17-04.38.38:410][602]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2026.10.17-04.38.38:410][602]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.17-04.38.38:466][602]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2026.10.17-04.38.38:466][602]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.17-04.38.38:480][602]LogSlate: Window 'CivilGameJamProject - Unreal Editor' being destroyed
+[2026.10.17-04.38.40:611][602]LogContentValidation: Enabled validators:
+[2026.10.17-04.38.40:611][602]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.10.17-04.38.40:611][602]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.10.17-04.38.40:611][602]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.10.17-04.38.40:611][602]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.10.17-04.38.40:611][602]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.10.17-04.38.40:611][602]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.10.17-04.38.40:611][602]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.10.17-04.38.40:611][602]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.10.17-04.38.40:611][602]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.10.17-04.38.40:611][602]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.10.17-04.38.40:611][602]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.10.17-04.38.40:611][602]AssetCheck: /Game/RozaFile/Outline3/Outline_RozaSpecial Validating asset
+[2026.10.17-04.38.40:611][602]LogContentValidation: Validated asset counts for 9 validators:
+[2026.10.17-04.38.40:611][602]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.10.17-04.38.40:611][602]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.10.17-04.38.40:611][602]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.10.17-04.38.40:611][602]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.10.17-04.38.40:611][602]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.10.17-04.38.40:611][602]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.10.17-04.38.40:611][602]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.10.17-04.38.40:611][602]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.10.17-04.38.40:611][602]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.10.17-04.38.41:043][602]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2026.10.17-04.38.41:123][602]Cmd: QUIT_EDITOR
+[2026.10.17-04.38.41:123][602]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2026.10.17-04.38.41:137][603]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2026.10.17-04.38.41:150][603]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2026.10.17-04.38.41:151][603]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2026.10.17-04.38.41:354][603]LogWorld: UWorld::CleanupWorld for RozaLEvell, bSessionEnded=true, bCleanupResources=true
+[2026.10.17-04.38.41:359][603]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.17-04.38.41:360][603]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/RozaFile/RozaLEvell.RozaLEvell
+[2026.10.17-04.38.41:390][603]LogMovieScene: USequencerBakeSubsystem subsystem deinitialized.
+[2026.10.17-04.38.41:446][603]LogTedsSettings: UTedsSettingsEditorSubsystem::Deinitialize
+[2026.10.17-04.38.41:504][603]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2026.10.17-04.38.41:629][603]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2026.10.17-04.38.41:629][603]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.17-04.38.41:630][603]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2026.10.17-04.38.41:630][603]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.17-04.38.41:657][603]LogRuntimeTelemetry: Recording EnginePreExit events
+[2026.10.17-04.38.41:669][603]LogAnalytics: Display: [UEEditor.Rocket.Release] AnalyticsET::EndSession
+[2026.10.17-04.38.41:684][603]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerWasapi)...
+[2026.10.17-04.38.41:685][603]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2026.10.17-04.38.41:685][603]LogAudio: Display: Audio Device unregistered from world 'RozaLEvell'.
+[2026.10.17-04.38.41:686][603]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2026.10.17-04.38.41:690][603]LogAudioMixer: Display: FAudioMixerWasapi::StopAudioStream() InstanceID=1, StreamState=4
+[2026.10.17-04.38.41:759][603]LogAudioMixerWasapi: Display: FWasapiServiceWatcher stopped.
+[2026.10.17-04.38.41:788][603]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2026.10.17-04.38.41:789][603]LogAudio: Display: Audio Device Manager Shutdown
+[2026.10.17-04.38.41:836][603]LogWindowsTextInputMethodSystem: Activated input method: Türkçe (Türkiye) - (Keyboard).
+[2026.10.17-04.38.41:872][603]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2026.10.17-04.38.41:875][603]LogExit: Preparing to exit.
+[2026.10.17-04.38.43:202][603]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2026.10.17-04.38.44:169][603]LogAssetRegistry: Display: CleanupOrphanedCacheFiles (PostWrite): 1 .ref files found, 1 referenced binaries
+[2026.10.17-04.38.44:169][603]LogAssetRegistry: Display: CleanupOrphanedCacheFiles: 0 total binaries, 0 referenced (kept), 0 old-style pre-migration (kept), 0 orphans deleted, 0 orphans locked (kept)
+[2026.10.17-04.38.44:200][603]LogEditorDataStorage: Deinitializing
+[2026.10.17-04.38.44:219][603]LogEditorDataStorage: De-initializing TEDS Compatibility.
+[2026.10.17-04.38.44:219][603]LogEditorDataStorage: De-initialized TEDS Compatibility.
+[2026.10.17-04.38.44:219][603]LogEditorDataStorage: De-initializing TEDS Core.
+[2026.10.17-04.38.44:219][603]LogEditorDataStorage: Resetting TEDS Core.
+[2026.10.17-04.38.44:245][603]LogEditorDataStorage: Reset TEDS Core.
+[2026.10.17-04.38.44:245][603]LogEditorDataStorage: De-initialized TEDS Core.
+[2026.10.17-04.38.44:836][603]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2026.10.17-04.38.45:118][603]LogExit: Editor shut down
+[2026.10.17-04.38.45:169][603]LogExit: Transaction tracking system shut down
