@@ -5030,3 +5030,9 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.10.17-04.38.44:836][603]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
 [2026.10.17-04.38.45:118][603]LogExit: Editor shut down
 [2026.10.17-04.38.45:169][603]LogExit: Transaction tracking system shut down
+[2026.10.17-04.38.46:514][603]LogEditorDataStorage: Destroyed TEDS Core.
+[2026.10.17-04.38.46:514][603]LogEditorDataStorage: Destroyed TEDS Compatibility.
+[2026.10.17-04.38.46:643][603]LogEditorDataStorage: Destroyed TEDS Core.
+[2026.10.17-04.38.46:644][603]LogEditorDataStorage: Destroyed TEDS Compatibility.
+[2026.10.17-04.38.46:971][603]LogExit: Object subsystem successfully closed.
+[2026.10.17-04.38.47:112][603]LogShaderCompilers: Display: Exiting ShaderCompilingThread
