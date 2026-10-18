@@ -4383,3 +4383,97 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.10.18-02.07.46:004][276]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
 [2026.10.18-02.07.46:004][276]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
 [2026.10.18-02.07.46:004][276]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.10.18-02.08.14:236][654]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2026.10.18-02.08.14:241][654]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Temp/Untitled_1] ([1] browsable assets)...
+[2026.10.18-02.08.14:241][654]OBJ SavePackage: Finished generating thumbnails for package [/Temp/Untitled_1]
+[2026.10.18-02.08.14:259][654]LogSavePackage: Moving output files for package: /Temp/Autosaves/Temp/Untitled_1_Auto6
+[2026.10.18-02.08.14:259][654]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/Untitled_1_Auto6664147B34C2409B216C3E2882E4AE68B.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/Autosaves/Temp/Untitled_1_Auto6.umap'
+[2026.10.18-02.08.14:263][654]LogFileHelpers: Editor autosave (incl. external actors) for '/Temp/Untitled_1' took 0.058
+[2026.10.18-02.08.14:263][654]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.058
+[2026.10.18-02.08.14:263][654]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/RozaFile/Mountain/snow_01_color_1k] ([1] browsable assets)...
+[2026.10.18-02.08.14:263][654]OBJ SavePackage: Finished generating thumbnails for package [/Game/RozaFile/Mountain/snow_01_color_1k]
+[2026.10.18-02.08.14:284][654]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/RozaFile/Mountain/snow_01_color_1k_Auto6
+[2026.10.18-02.08.14:284][654]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/snow_01_color_1k_Auto64F0E605845BEE3C2A430C885E9CF7DA9.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/Autosaves/Game/RozaFile/Mountain/snow_01_color_1k_Auto6.uasset'
+[2026.10.18-02.08.14:287][654]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/RozaFile/Mountain/snow_01_height_1k] ([1] browsable assets)...
+[2026.10.18-02.08.14:287][654]OBJ SavePackage: Finished generating thumbnails for package [/Game/RozaFile/Mountain/snow_01_height_1k]
+[2026.10.18-02.08.14:301][654]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/RozaFile/Mountain/snow_01_height_1k_Auto6
+[2026.10.18-02.08.14:301][654]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/snow_01_height_1k_Auto6866F6C8341DF64DDFA9924990BC9CF0B.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/Autosaves/Game/RozaFile/Mountain/snow_01_height_1k_Auto6.uasset'
+[2026.10.18-02.08.14:302][654]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/RozaFile/Mountain/snow_01_normal_dx_1k] ([1] browsable assets)...
+[2026.10.18-02.08.14:302][654]OBJ SavePackage: Finished generating thumbnails for package [/Game/RozaFile/Mountain/snow_01_normal_dx_1k]
+[2026.10.18-02.08.14:325][654]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/RozaFile/Mountain/snow_01_normal_dx_1k_Auto6
+[2026.10.18-02.08.14:325][654]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/snow_01_normal_dx_1k_Auto601B71FCE47C65E9502D72FBD28F28FFE.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/Autosaves/Game/RozaFile/Mountain/snow_01_normal_dx_1k_Auto6.uasset'
+[2026.10.18-02.08.14:327][654]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/RozaFile/Mountain/snow_01_normal_gl_1k] ([1] browsable assets)...
+[2026.10.18-02.08.14:327][654]OBJ SavePackage: Finished generating thumbnails for package [/Game/RozaFile/Mountain/snow_01_normal_gl_1k]
+[2026.10.18-02.08.14:355][654]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/RozaFile/Mountain/snow_01_normal_gl_1k_Auto6
+[2026.10.18-02.08.14:355][654]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/snow_01_normal_gl_1k_Auto6211C8F0D4F9D2FECF865FC9E120AF66B.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/Autosaves/Game/RozaFile/Mountain/snow_01_normal_gl_1k_Auto6.uasset'
+[2026.10.18-02.08.14:356][654]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/RozaFile/Mountain/snow_01_roughness_1k] ([1] browsable assets)...
+[2026.10.18-02.08.14:356][654]OBJ SavePackage: Finished generating thumbnails for package [/Game/RozaFile/Mountain/snow_01_roughness_1k]
+[2026.10.18-02.08.14:386][654]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/RozaFile/Mountain/snow_01_roughness_1k_Auto6
+[2026.10.18-02.08.14:386][654]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/snow_01_roughness_1k_Auto6785838524F832FF10F2B99928902EEB2.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/Autosaves/Game/RozaFile/Mountain/snow_01_roughness_1k_Auto6.uasset'
+[2026.10.18-02.08.14:388][654]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/RozaFile/Mountain/snow_01_ambient_occlusion_1k] ([1] browsable assets)...
+[2026.10.18-02.08.14:388][654]OBJ SavePackage: Finished generating thumbnails for package [/Game/RozaFile/Mountain/snow_01_ambient_occlusion_1k]
+[2026.10.18-02.08.14:412][654]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/RozaFile/Mountain/snow_01_ambient_occlusion_1k_Auto6
+[2026.10.18-02.08.14:412][654]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/snow_01_ambient_occlusion_1k_AutD9FB63144D17CF05628C28821DFE273B.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/Autosaves/Game/RozaFile/Mountain/snow_01_ambient_occlusion_1k_Auto6.uasset'
+[2026.10.18-02.08.14:414][654]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/RozaFile/Mountain/dark_rock_diff_1k] ([1] browsable assets)...
+[2026.10.18-02.08.14:414][654]OBJ SavePackage: Finished generating thumbnails for package [/Game/RozaFile/Mountain/dark_rock_diff_1k]
+[2026.10.18-02.08.14:456][654]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/RozaFile/Mountain/dark_rock_diff_1k_Auto6
+[2026.10.18-02.08.14:456][654]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/dark_rock_diff_1k_Auto6C54D8D174F889F12DB0ABF98228C1194.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/Autosaves/Game/RozaFile/Mountain/dark_rock_diff_1k_Auto6.uasset'
+[2026.10.18-02.08.14:458][654]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/RozaFile/Mountain/dark_rock_disp_1k] ([1] browsable assets)...
+[2026.10.18-02.08.14:458][654]OBJ SavePackage: Finished generating thumbnails for package [/Game/RozaFile/Mountain/dark_rock_disp_1k]
+[2026.10.18-02.08.14:473][654]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/RozaFile/Mountain/dark_rock_disp_1k_Auto6
+[2026.10.18-02.08.14:473][654]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/dark_rock_disp_1k_Auto65D9054F0473C14B7739F46ADBD43F1F0.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/Autosaves/Game/RozaFile/Mountain/dark_rock_disp_1k_Auto6.uasset'
+[2026.10.18-02.08.14:474][654]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/RozaFile/Mountain/dark_rock_nor_dx_1k] ([1] browsable assets)...
+[2026.10.18-02.08.14:474][654]OBJ SavePackage: Finished generating thumbnails for package [/Game/RozaFile/Mountain/dark_rock_nor_dx_1k]
+[2026.10.18-02.08.14:507][654]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/RozaFile/Mountain/dark_rock_nor_dx_1k_Auto6
+[2026.10.18-02.08.14:507][654]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/dark_rock_nor_dx_1k_Auto6CDDF18E247AF977CB3A2399DD167D087.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/Autosaves/Game/RozaFile/Mountain/dark_rock_nor_dx_1k_Auto6.uasset'
+[2026.10.18-02.08.14:508][654]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/RozaFile/Mountain/dark_rock_nor_gl_1k] ([1] browsable assets)...
+[2026.10.18-02.08.14:508][654]OBJ SavePackage: Finished generating thumbnails for package [/Game/RozaFile/Mountain/dark_rock_nor_gl_1k]
+[2026.10.18-02.08.14:538][654]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/RozaFile/Mountain/dark_rock_nor_gl_1k_Auto6
+[2026.10.18-02.08.14:538][654]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/dark_rock_nor_gl_1k_Auto63B1BD3E4402A59ED3FBCF885E42EE46B.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/Autosaves/Game/RozaFile/Mountain/dark_rock_nor_gl_1k_Auto6.uasset'
+[2026.10.18-02.08.14:539][654]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/RozaFile/Mountain/dark_rock_rough_1k] ([1] browsable assets)...
+[2026.10.18-02.08.14:539][654]OBJ SavePackage: Finished generating thumbnails for package [/Game/RozaFile/Mountain/dark_rock_rough_1k]
+[2026.10.18-02.08.14:555][654]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/RozaFile/Mountain/dark_rock_rough_1k_Auto6
+[2026.10.18-02.08.14:555][654]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/dark_rock_rough_1k_Auto665E6CAE749ED0706B3AF08946AAA2FB0.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/Autosaves/Game/RozaFile/Mountain/dark_rock_rough_1k_Auto6.uasset'
+[2026.10.18-02.08.14:557][654]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/RozaFile/Mountain/dark_rock_ao_1k] ([1] browsable assets)...
+[2026.10.18-02.08.14:557][654]OBJ SavePackage: Finished generating thumbnails for package [/Game/RozaFile/Mountain/dark_rock_ao_1k]
+[2026.10.18-02.08.14:575][654]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/RozaFile/Mountain/dark_rock_ao_1k_Auto6
+[2026.10.18-02.08.14:575][654]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/dark_rock_ao_1k_Auto6586DC68E42F4DF37E5B6E0A5CF195FE2.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/Autosaves/Game/RozaFile/Mountain/dark_rock_ao_1k_Auto6.uasset'
+[2026.10.18-02.08.14:577][654]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/RozaFile/Mountain/dark_rock_arm_1k] ([1] browsable assets)...
+[2026.10.18-02.08.14:577][654]OBJ SavePackage: Finished generating thumbnails for package [/Game/RozaFile/Mountain/dark_rock_arm_1k]
+[2026.10.18-02.08.14:615][654]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/RozaFile/Mountain/dark_rock_arm_1k_Auto6
+[2026.10.18-02.08.14:615][654]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/dark_rock_arm_1k_Auto60671FD4141AB21AB0283949D76F9B889.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/Autosaves/Game/RozaFile/Mountain/dark_rock_arm_1k_Auto6.uasset'
+[2026.10.18-02.08.14:615][654]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/RozaFile/Rozas_Tile_Collection_Try1/BurnedForest/M_Truck_AzAğaç] ([1] browsable assets)...
+[2026.10.18-02.08.14:616][654]OBJ SavePackage: Finished generating thumbnails for package [/Game/RozaFile/Rozas_Tile_Collection_Try1/BurnedForest/M_Truck_AzAğaç]
+[2026.10.18-02.08.14:623][654]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/RozaFile/Rozas_Tile_Collection_Try1/BurnedForest/M_Truck_AzAğaç_Auto6
+[2026.10.18-02.08.14:623][654]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/M_Truck_AzAğaç_Auto64846C1024BA091F084329586D24204D5.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/Autosaves/Game/RozaFile/Rozas_Tile_Collection_Try1/BurnedForest/M_Truck_AzAğaç_Auto6.uasset'
+[2026.10.18-02.08.14:624][654]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/RozaFile/Rozas_Tile_Collection_Try1/Hydrant/gri_tanker] ([1] browsable assets)...
+[2026.10.18-02.08.14:681][654]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/RozaFile/Rozas_Tile_Collection_Try1/Hydrant/gri_tanker.gri_tanker]
+[2026.10.18-02.08.14:681][654]OBJ SavePackage: Finished generating thumbnails for package [/Game/RozaFile/Rozas_Tile_Collection_Try1/Hydrant/gri_tanker]
+[2026.10.18-02.08.14:696][654]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/RozaFile/Rozas_Tile_Collection_Try1/Hydrant/gri_tanker_Auto6
+[2026.10.18-02.08.14:696][654]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/gri_tanker_Auto6255A469941989D818EB2798772CD0FC0.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/Autosaves/Game/RozaFile/Rozas_Tile_Collection_Try1/Hydrant/gri_tanker_Auto6.uasset'
+[2026.10.18-02.08.14:697][654]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/RozaFile/Rozas_Tile_Collection_Try1/Hydrant/GrassMaterial_Base] ([1] browsable assets)...
+[2026.10.18-02.08.14:697][654]OBJ SavePackage: Finished generating thumbnails for package [/Game/RozaFile/Rozas_Tile_Collection_Try1/Hydrant/GrassMaterial_Base]
+[2026.10.18-02.08.14:705][654]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/RozaFile/Rozas_Tile_Collection_Try1/Hydrant/GrassMaterial_Base_Auto6
+[2026.10.18-02.08.14:705][654]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/GrassMaterial_Base_Auto68718537A4F8B0DE1928E66A526A7FEB8.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/Autosaves/Game/RozaFile/Rozas_Tile_Collection_Try1/Hydrant/GrassMaterial_Base_Auto6.uasset'
+[2026.10.18-02.08.14:707][654]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/RozaFile/Rozas_Tile_Collection_Try1/Hydrant/M_ToonShaderColor_Grayig] ([1] browsable assets)...
+[2026.10.18-02.08.14:707][654]OBJ SavePackage: Finished generating thumbnails for package [/Game/RozaFile/Rozas_Tile_Collection_Try1/Hydrant/M_ToonShaderColor_Grayig]
+[2026.10.18-02.08.14:734][654]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2026.10.18-02.08.14:764][654]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2026.10.18-02.08.14:775][654]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/RozaFile/Rozas_Tile_Collection_Try1/Hydrant/M_ToonShaderColor_Grayig_Auto6
+[2026.10.18-02.08.14:775][654]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/M_ToonShaderColor_Grayig_Auto64AA5AAD44B4016C20F2C0285B9243A5D.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/Autosaves/Game/RozaFile/Rozas_Tile_Collection_Try1/Hydrant/M_ToonShaderColor_Grayig_Auto6.uasset'
+[2026.10.18-02.08.14:778][654]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/RozaFile/Rozas_Tile_Collection_Try1/Hydrant/M_ToonShaderColor_Grayig1] ([1] browsable assets)...
+[2026.10.18-02.08.14:778][654]OBJ SavePackage: Finished generating thumbnails for package [/Game/RozaFile/Rozas_Tile_Collection_Try1/Hydrant/M_ToonShaderColor_Grayig1]
+[2026.10.18-02.08.14:802][654]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2026.10.18-02.08.14:831][654]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2026.10.18-02.08.14:840][654]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/RozaFile/Rozas_Tile_Collection_Try1/Hydrant/M_ToonShaderColor_Grayig1_Auto6
+[2026.10.18-02.08.14:840][654]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/M_ToonShaderColor_Grayig1_Auto6563EEBE44EA61D6EE3E1C1BFCD057C44.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/Autosaves/Game/RozaFile/Rozas_Tile_Collection_Try1/Hydrant/M_ToonShaderColor_Grayig1_Auto6.uasset'
+[2026.10.18-02.08.14:844][654]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/RozaFile/Rozas_Tile_Collection_Try1/Sis/SisBase] ([1] browsable assets)...
+[2026.10.18-02.08.14:860][654]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/RozaFile/Rozas_Tile_Collection_Try1/Sis/SisBase.SisBase]
+[2026.10.18-02.08.14:860][654]OBJ SavePackage: Finished generating thumbnails for package [/Game/RozaFile/Rozas_Tile_Collection_Try1/Sis/SisBase]
+[2026.10.18-02.08.14:873][654]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/RozaFile/Rozas_Tile_Collection_Try1/Sis/SisBase_Auto6
+[2026.10.18-02.08.14:873][654]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/SisBase_Auto65537900745A8AD7C70F8F5A15CB284FA.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/Autosaves/Game/RozaFile/Rozas_Tile_Collection_Try1/Sis/SisBase_Auto6.uasset'
+[2026.10.18-02.08.14:874][654]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/RozaFile/Rozas_Tile_Collection_Try1/Sis/M_Plane_Inst] ([1] browsable assets)...
+[2026.10.18-02.08.14:874][654]OBJ SavePackage: Finished generating thumbnails for package [/Game/RozaFile/Rozas_Tile_Collection_Try1/Sis/M_Plane_Inst]
+[2026.10.18-02.08.14:882][654]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/RozaFile/Rozas_Tile_Collection_Try1/Sis/M_Plane_Inst_Auto6
+[2026.10.18-02.08.14:882][654]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/M_Plane_Inst_Auto681A53B734D9120672BB567AE69BF2CCD.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/Autosaves/Game/RozaFile/Rozas_Tile_Collection_Try1/Sis/M_Plane_Inst_Auto6.uasset'
+[2026.10.18-02.08.14:883][654]LogFileHelpers: Auto-saving content packages took 0.621
