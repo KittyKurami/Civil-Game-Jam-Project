@@ -11342,3 +11342,134 @@ Continue: Skip saving this asset only.
 [2026.10.18-00.09.25:279][509]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
 [2026.10.18-00.09.25:279][509]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
 [2026.10.18-00.09.25:326][509]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/SourceControl/UncontrolledChangelists.json
+[2026.10.18-00.11.23:274][934]LogSlate: Window 'Save Level As' being destroyed
+[2026.10.18-00.11.26:496][955]LogSlate: Window 'Message' being destroyed
+[2026.10.18-00.11.26:502][955]Message dialog closed, result: Yes, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/RozaFile/ToonShader/M_ToonShader.M_ToonShader
+(Selecting 'No' will cause all changes to be lost!)
+[2026.10.18-00.11.27:075][955]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2026.10.18-00.11.28:426][955]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2026.10.18-00.11.28:464][955]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2026.10.18-00.11.30:040][955]LogSlate: Window 'Save Content' being destroyed
+[2026.10.18-00.11.30:063][955]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.10.18-00.11.30:119][955]LogFileHelpers: Saving Package: /Game/RozaFile/ToonShader/M_ToonShader
+[2026.10.18-00.11.30:119][955]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/RozaFile/ToonShader/M_ToonShader] ([1] browsable assets)...
+[2026.10.18-00.11.30:165][955]OBJ SavePackage:     Rendered thumbnail for [Material /Game/RozaFile/ToonShader/M_ToonShader.M_ToonShader]
+[2026.10.18-00.11.30:165][955]OBJ SavePackage: Finished generating thumbnails for package [/Game/RozaFile/ToonShader/M_ToonShader]
+[2026.10.18-00.11.30:165][955]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RozaFile/ToonShader/M_ToonShader" FILE="../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Content/RozaFile/ToonShader/M_ToonShader.uasset" SILENT=true
+[2026.10.18-00.11.30:174][955]LogSavePackage: Moving output files for package: /Game/RozaFile/ToonShader/M_ToonShader
+[2026.10.18-00.11.30:176][955]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/M_ToonShader0DA7F7954C5AD769392E65908F3979EE.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Content/RozaFile/ToonShader/M_ToonShader.uasset'
+[2026.10.18-00.11.30:184][955]LogFileHelpers: InternalPromptForCheckoutAndSave took 122.819 ms (total: 8:50 min)
+[2026.10.18-00.11.30:235][955]LogStall: Shutdown...
+[2026.10.18-00.11.30:253][955]LogStall: Shutdown complete.
+[2026.10.18-00.11.30:826][955]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2026.10.18-00.11.30:834][955]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.18-00.11.31:636][955]LogWorld: UWorld::CleanupWorld for World_57, bSessionEnded=true, bCleanupResources=true
+[2026.10.18-00.11.31:636][955]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.18-00.11.31:942][955]LogWorld: UWorld::CleanupWorld for World_55, bSessionEnded=true, bCleanupResources=true
+[2026.10.18-00.11.31:942][955]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.18-00.11.32:287][955]LogWorld: UWorld::CleanupWorld for World_56, bSessionEnded=true, bCleanupResources=true
+[2026.10.18-00.11.32:287][955]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.18-00.11.32:604][955]LogWorld: UWorld::CleanupWorld for World_54, bSessionEnded=true, bCleanupResources=true
+[2026.10.18-00.11.32:604][955]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.18-00.11.33:060][955]LogWorld: UWorld::CleanupWorld for World_53, bSessionEnded=true, bCleanupResources=true
+[2026.10.18-00.11.33:061][955]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.18-00.11.33:693][955]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
+[2026.10.18-00.11.33:693][955]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.18-00.11.34:251][955]LogWorld: UWorld::CleanupWorld for World_58, bSessionEnded=true, bCleanupResources=true
+[2026.10.18-00.11.34:251][955]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.18-00.11.34:506][955]LogWorld: UWorld::CleanupWorld for World_52, bSessionEnded=true, bCleanupResources=true
+[2026.10.18-00.11.34:506][955]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.18-00.11.34:852][955]LogWorld: UWorld::CleanupWorld for World_51, bSessionEnded=true, bCleanupResources=true
+[2026.10.18-00.11.34:852][955]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.18-00.11.35:365][955]LogWorld: UWorld::CleanupWorld for World_49, bSessionEnded=true, bCleanupResources=true
+[2026.10.18-00.11.35:365][955]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.18-00.11.35:764][955]LogWorld: UWorld::CleanupWorld for World_50, bSessionEnded=true, bCleanupResources=true
+[2026.10.18-00.11.35:764][955]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.18-00.11.36:336][955]LogWorld: UWorld::CleanupWorld for World_43, bSessionEnded=true, bCleanupResources=true
+[2026.10.18-00.11.36:336][955]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.18-00.11.37:390][955]LogWorld: UWorld::CleanupWorld for World_47, bSessionEnded=true, bCleanupResources=true
+[2026.10.18-00.11.37:390][955]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.18-00.11.38:039][955]LogWorld: UWorld::CleanupWorld for World_46, bSessionEnded=true, bCleanupResources=true
+[2026.10.18-00.11.38:039][955]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.18-00.11.38:527][955]LogWorld: UWorld::CleanupWorld for World_41, bSessionEnded=true, bCleanupResources=true
+[2026.10.18-00.11.38:527][955]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.18-00.11.39:087][955]LogWorld: UWorld::CleanupWorld for World_42, bSessionEnded=true, bCleanupResources=true
+[2026.10.18-00.11.39:088][955]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.18-00.11.39:515][955]LogWorld: UWorld::CleanupWorld for World_44, bSessionEnded=true, bCleanupResources=true
+[2026.10.18-00.11.39:516][955]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.18-00.11.39:913][955]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2026.10.18-00.11.39:913][955]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.18-00.11.40:605][955]LogWorld: UWorld::CleanupWorld for World_59, bSessionEnded=true, bCleanupResources=true
+[2026.10.18-00.11.40:605][955]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.18-00.11.40:811][955]LogWorld: UWorld::CleanupWorld for World_61, bSessionEnded=true, bCleanupResources=true
+[2026.10.18-00.11.40:811][955]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.18-00.11.40:975][955]LogWorld: UWorld::CleanupWorld for World_62, bSessionEnded=true, bCleanupResources=true
+[2026.10.18-00.11.40:975][955]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.18-00.11.41:119][955]LogWorld: UWorld::CleanupWorld for World_63, bSessionEnded=true, bCleanupResources=true
+[2026.10.18-00.11.41:119][955]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.18-00.11.41:297][955]LogWorld: UWorld::CleanupWorld for World_64, bSessionEnded=true, bCleanupResources=true
+[2026.10.18-00.11.41:297][955]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.18-00.11.41:460][955]LogWorld: UWorld::CleanupWorld for World_65, bSessionEnded=true, bCleanupResources=true
+[2026.10.18-00.11.41:461][955]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.18-00.11.41:574][955]LogWorld: UWorld::CleanupWorld for World_70, bSessionEnded=true, bCleanupResources=true
+[2026.10.18-00.11.41:574][955]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.18-00.11.41:694][955]LogWorld: UWorld::CleanupWorld for World_72, bSessionEnded=true, bCleanupResources=true
+[2026.10.18-00.11.41:694][955]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.18-00.11.41:767][955]LogWorld: UWorld::CleanupWorld for World_76, bSessionEnded=true, bCleanupResources=true
+[2026.10.18-00.11.41:767][955]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.18-00.11.41:835][955]LogWorld: UWorld::CleanupWorld for World_71, bSessionEnded=true, bCleanupResources=true
+[2026.10.18-00.11.41:836][955]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.18-00.11.41:932][955]LogWorld: UWorld::CleanupWorld for World_74, bSessionEnded=true, bCleanupResources=true
+[2026.10.18-00.11.41:933][955]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.18-00.11.42:002][955]LogWorld: UWorld::CleanupWorld for World_75, bSessionEnded=true, bCleanupResources=true
+[2026.10.18-00.11.42:002][955]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.18-00.11.42:024][955]LogSlate: Window 'CivilGameJamProject - Unreal Editor' being destroyed
+[2026.10.18-00.11.49:539][955]LogContentValidation: Enabled validators:
+[2026.10.18-00.11.49:539][955]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.10.18-00.11.49:539][955]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.10.18-00.11.49:539][955]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.10.18-00.11.49:539][955]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.10.18-00.11.49:539][955]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.10.18-00.11.49:539][955]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.10.18-00.11.49:539][955]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.10.18-00.11.49:539][955]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.10.18-00.11.49:539][955]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.10.18-00.11.49:539][955]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.10.18-00.11.49:539][955]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.10.18-00.11.49:540][955]AssetCheck: /Game/RozaFile/ToonShader/M_ToonShader Validating asset
+[2026.10.18-00.11.49:540][955]LogContentValidation: Validated asset counts for 9 validators:
+[2026.10.18-00.11.49:540][955]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.10.18-00.11.49:540][955]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.10.18-00.11.49:540][955]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.10.18-00.11.49:540][955]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.10.18-00.11.49:540][955]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.10.18-00.11.49:540][955]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.10.18-00.11.49:540][955]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.10.18-00.11.49:540][955]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.10.18-00.11.49:540][955]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.10.18-00.11.50:210][955]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2026.10.18-00.11.50:277][955]Cmd: QUIT_EDITOR
+[2026.10.18-00.11.50:279][955]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2026.10.18-00.11.50:291][956]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2026.10.18-00.11.50:309][956]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2026.10.18-00.11.50:309][956]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2026.10.18-00.11.50:512][956]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2026.10.18-00.11.50:515][956]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.18-00.11.50:516][956]LogWorldPartition: UWorldPartition::Uninitialize : World = /Temp/Untitled_1.Untitled_1
+[2026.10.18-00.11.50:550][956]LogMovieScene: USequencerBakeSubsystem subsystem deinitialized.
+[2026.10.18-00.11.50:605][956]LogTedsSettings: UTedsSettingsEditorSubsystem::Deinitialize
+[2026.10.18-00.11.50:689][956]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2026.10.18-00.11.50:965][956]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2026.10.18-00.11.50:965][956]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.18-00.11.50:966][956]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2026.10.18-00.11.50:966][956]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.18-00.11.50:968][956]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2026.10.18-00.11.50:968][956]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.18-00.11.50:977][956]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2026.10.18-00.11.50:977][956]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.18-00.11.50:978][956]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2026.10.18-00.11.50:978][956]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.18-00.11.50:978][956]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2026.10.18-00.11.50:978][956]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.18-00.11.51:009][956]LogRuntimeTelemetry: Recording EnginePreExit events
