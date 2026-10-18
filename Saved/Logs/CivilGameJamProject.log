@@ -3911,3 +3911,475 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.10.18-01.56.07:450][ 88]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
 [2026.10.18-01.56.07:450][ 88]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
 [2026.10.18-01.56.07:450][ 88]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.10.18-01.57.53:652][513]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2026.10.18-01.57.53:658][513]LogFileHelpers: Editor autosave (incl. external actors) for '/Temp/Untitled_1' took 0.028
+[2026.10.18-01.57.53:659][513]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/RozaFile/Rozas_Tile_Collection_Try1/BurnedForest/M_Truck_AzAğaç] ([1] browsable assets)...
+[2026.10.18-01.57.53:709][513]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/RozaFile/Rozas_Tile_Collection_Try1/BurnedForest/M_Truck_AzAğaç.M_Truck_AzAğaç]
+[2026.10.18-01.57.53:709][513]OBJ SavePackage: Finished generating thumbnails for package [/Game/RozaFile/Rozas_Tile_Collection_Try1/BurnedForest/M_Truck_AzAğaç]
+[2026.10.18-01.57.53:729][513]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2026.10.18-01.57.53:919][513]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2026.10.18-01.57.53:929][513]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/RozaFile/Rozas_Tile_Collection_Try1/BurnedForest/M_Truck_AzAğaç_Auto5
+[2026.10.18-01.57.53:929][513]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/M_Truck_AzAğaç_Auto56B9B8E5C43DDC75ABB3BEEBB59AB3A92.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/Autosaves/Game/RozaFile/Rozas_Tile_Collection_Try1/BurnedForest/M_Truck_AzAğaç_Auto5.uasset'
+[2026.10.18-01.57.53:932][513]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/RozaFile/Rozas_Tile_Collection_Try1/Hydrant/GrassMaterial_Base] ([1] browsable assets)...
+[2026.10.18-01.57.53:973][513]OBJ SavePackage:     Rendered thumbnail for [Material /Game/RozaFile/Rozas_Tile_Collection_Try1/Hydrant/GrassMaterial_Base.GrassMaterial_Base]
+[2026.10.18-01.57.53:974][513]OBJ SavePackage: Finished generating thumbnails for package [/Game/RozaFile/Rozas_Tile_Collection_Try1/Hydrant/GrassMaterial_Base]
+[2026.10.18-01.57.53:982][513]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/RozaFile/Rozas_Tile_Collection_Try1/Hydrant/GrassMaterial_Base_Auto5
+[2026.10.18-01.57.53:982][513]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/GrassMaterial_Base_Auto5DA2AB76F466362778652CD8D54E3632E.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/Autosaves/Game/RozaFile/Rozas_Tile_Collection_Try1/Hydrant/GrassMaterial_Base_Auto5.uasset'
+[2026.10.18-01.57.53:984][513]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/RozaFile/Rozas_Tile_Collection_Try1/Hydrant/M_ToonShaderColor_Grayig] ([1] browsable assets)...
+[2026.10.18-01.57.53:989][513]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/RozaFile/Rozas_Tile_Collection_Try1/Hydrant/M_ToonShaderColor_Grayig.M_ToonShaderColor_Grayig]
+[2026.10.18-01.57.53:989][513]OBJ SavePackage: Finished generating thumbnails for package [/Game/RozaFile/Rozas_Tile_Collection_Try1/Hydrant/M_ToonShaderColor_Grayig]
+[2026.10.18-01.57.54:012][513]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2026.10.18-01.57.54:037][513]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2026.10.18-01.57.54:047][513]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/RozaFile/Rozas_Tile_Collection_Try1/Hydrant/M_ToonShaderColor_Grayig_Auto5
+[2026.10.18-01.57.54:047][513]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/M_ToonShaderColor_Grayig_Auto5D7C6C3B449E7DAF7FF7BDD9B0B650E2A.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/Autosaves/Game/RozaFile/Rozas_Tile_Collection_Try1/Hydrant/M_ToonShaderColor_Grayig_Auto5.uasset'
+[2026.10.18-01.57.54:048][513]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/RozaFile/Rozas_Tile_Collection_Try1/Hydrant/M_ToonShaderColor_Grayig1] ([1] browsable assets)...
+[2026.10.18-01.57.54:054][513]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/RozaFile/Rozas_Tile_Collection_Try1/Hydrant/M_ToonShaderColor_Grayig1.M_ToonShaderColor_Grayig1]
+[2026.10.18-01.57.54:054][513]OBJ SavePackage: Finished generating thumbnails for package [/Game/RozaFile/Rozas_Tile_Collection_Try1/Hydrant/M_ToonShaderColor_Grayig1]
+[2026.10.18-01.57.54:077][513]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2026.10.18-01.57.54:098][513]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2026.10.18-01.57.54:107][513]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/RozaFile/Rozas_Tile_Collection_Try1/Hydrant/M_ToonShaderColor_Grayig1_Auto5
+[2026.10.18-01.57.54:107][513]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/M_ToonShaderColor_Grayig1_Auto509DB9C7E4EC7B75B67424AA19939230D.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/Autosaves/Game/RozaFile/Rozas_Tile_Collection_Try1/Hydrant/M_ToonShaderColor_Grayig1_Auto5.uasset'
+[2026.10.18-01.57.54:108][513]LogFileHelpers: Auto-saving content packages took 0.450
+[2026.10.18-01.58.16:446][128]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2026.10.18-01.58.16:475][128]LogContentBrowser: Creating deferred item: NewFolder
+[2026.10.18-01.58.16:497][129]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2026.10.18-01.58.21:801][650]LogContentBrowser: Attempting asset rename: NewFolder -> Sis
+[2026.10.18-01.58.21:804][650]LogContentBrowser: End creating deferred item NewFolder
+[2026.10.18-01.58.21:923][657]LogDerivedDataCache: C:/Users/DELL/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:58.623 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 30412 files in 31274 folders with total size 823 MiB.
+[2026.10.18-02.00.11:028][219]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3570.974609
+[2026.10.18-02.00.11:259][236]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.10.18-02.00.11:260][237]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3571.194336, Update Interval: 326.424744
+[2026.10.18-02.00.17:740][326]LogStreaming: Display: FlushAsyncLoading(668): 1 QueuedPackages, 0 AsyncPackages
+[2026.10.18-02.00.17:795][326]LogInterchangeEngine: Display: Interchange start importing source [D:/Game Jam blend/Game Jam/SisBase.fbx]
+[2026.10.18-02.00.17:851][326]LogInterchangeImport: Translation (FBXSDK) of SisBase.fbx in [0 min 0.055 s]
+[2026.10.18-02.00.19:371][326]LogSlate: Window 'Import Content' being destroyed
+[2026.10.18-02.00.19:409][326]LogInterchangeEngine: [Pending] Importing
+[2026.10.18-02.00.19:522][327]LogStreaming: Display: FlushAsyncLoading(669): 1 QueuedPackages, 0 AsyncPackages
+[2026.10.18-02.00.19:591][329]LogStaticMesh: Display: Building static mesh SisBase (Required Memory Estimate: 6.279596 MB)...
+[2026.10.18-02.00.19:620][329]LogStaticMesh: Adjacency [0.00s], tris: 4096, UVs 1
+[2026.10.18-02.00.19:626][329]LogStaticMesh: Clustering [0.01s]. Ratio: 1.031250
+[2026.10.18-02.00.19:627][329]LogStaticMesh: Leaves [0.00s]
+[2026.10.18-02.00.19:723][331]LogStaticMesh: Reduce [0.10s]
+[2026.10.18-02.00.19:724][331]LogStaticMesh: Fallback [0.00s], num tris: 252
+[2026.10.18-02.00.19:724][331]LogStaticMesh: Fallback [0.00s], num tris: 252
+[2026.10.18-02.00.19:725][331]LogStaticMesh: ConstrainClusters:
+[2026.10.18-02.00.19:725][331]LogStaticMesh:   Input: 70 Clusters, 8755 Triangles and 5678 Vertices
+[2026.10.18-02.00.19:725][331]LogStaticMesh:   Output without splits: 70 Clusters, 8755 Triangles and 5960 Vertices
+[2026.10.18-02.00.19:725][331]LogStaticMesh:   Output with splits: 70 Clusters, 8755 Triangles and 5960 Vertices
+[2026.10.18-02.00.19:726][331]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 70, Slow Path Clusters: 0, 1 Material: 70, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.10.18-02.00.19:727][331]LogStaticMesh: WritePages: 2
+[2026.10.18-02.00.19:727][331]LogStaticMesh:   Root: GPU size: 32524 bytes. 1 Pages. 32524.000 bytes per page (99.255% utilization).
+[2026.10.18-02.00.19:727][331]LogStaticMesh:   Streaming: GPU size: 42384 bytes. 1 Pages (1 with relative encoding). 42384.000 bytes per page (32.336% utilization).
+[2026.10.18-02.00.19:727][331]LogStaticMesh:   Page data disk size: 66472 bytes. Fixup data size: 396 bytes.
+[2026.10.18-02.00.19:727][331]LogStaticMesh:   Total GPU size: 74908 bytes, Total disk size: 66868 bytes.
+[2026.10.18-02.00.19:727][331]LogStaticMesh: Encode [0.00s]
+[2026.10.18-02.00.19:727][331]LogStaticMesh: NaniteBuild [0.11s]
+[2026.10.18-02.00.19:741][331]LogStaticMesh: Built static mesh [0.15s] /Game/RozaFile/Rozas_Tile_Collection_Try1/Sis/SisBase.SisBase
+[2026.10.18-02.00.19:813][332]LogInterchangeImport: Imported (FBXSDK) of SisBase.fbx in [0 min 2.017 s]
+[2026.10.18-02.00.19:813][332]LogInterchangeImport: MeshPayload (FBXSDK) of SisBase.fbx, [1 4096 2176], in [0 min 0.012 s]
+[2026.10.18-02.00.19:816][332]LogInterchangeEngine: Display: Interchange import completed [D:/Game Jam blend/Game Jam/SisBase.fbx]
+[2026.10.18-02.00.19:820][332]LogInterchangeEngine: Warning: [D:/Game Jam blend/Game Jam/SisBase.fbx : 'SisBase', StaticMesh] No smoothing group information was found for this mesh 'Plane_001' in the FBX file. Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter before exporting the file.
+[2026.10.18-02.00.19:820][332]LogInterchangeEngine: Display: Import Done in 0.432035 seconds.
+[2026.10.18-02.00.19:820][332]LogInterchangeEngine: [Pending] Importing - Operation Completed.
+[2026.10.18-02.00.19:820][332]LogInterchangeEngine: [Success] Import Done
+[2026.10.18-02.00.26:963][809]LogStreaming: Display: FlushAsyncLoading(670): 1 QueuedPackages, 0 AsyncPackages
+[2026.10.18-02.00.27:075][809]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2026.10.18-02.00.30:246][ 20]Cmd: TRANSACTION UNDO
+[2026.10.18-02.00.30:246][ 20]LogEditorTransaction: Undo Clicking on Elements
+[2026.10.18-02.00.31:002][ 32]Cmd: TRANSACTION UNDO
+[2026.10.18-02.00.31:002][ 32]LogEditorTransaction: Undo Clicking on Elements
+[2026.10.18-02.00.37:876][500]Cmd: TRANSACTION UNDO
+[2026.10.18-02.00.37:876][500]LogEditorTransaction: Undo StaticMesh: Material changed
+[2026.10.18-02.00.44:924][930]LogContentBrowser: Attempting asset rename: M_Plane_Inst -> M_Plane_Inst
+[2026.10.18-02.00.49:656][305]LogDatasmithContent: Do not use the UDatasmithStaticMeshCADImportData to store CAD data as the class is now deprecated.
+[2026.10.18-02.00.49:855][305]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.10.18-02.00.49:894][305]LogFileHelpers: Saving Package: /Game/RozaFile/Rozas_Tile_Collection_Try1/Sis/M_Plane_Inst
+[2026.10.18-02.00.49:894][305]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/RozaFile/Rozas_Tile_Collection_Try1/Sis/M_Plane_Inst] ([1] browsable assets)...
+[2026.10.18-02.00.49:894][305]OBJ SavePackage: Finished generating thumbnails for package [/Game/RozaFile/Rozas_Tile_Collection_Try1/Sis/M_Plane_Inst]
+[2026.10.18-02.00.49:902][305]LogSavePackage: Moving output files for package: /Game/RozaFile/Rozas_Tile_Collection_Try1/Sis/M_Plane_Inst
+[2026.10.18-02.00.49:902][305]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/M_Plane_InstD7E1D2784DAC40EF61AE40A785829428.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Content/RozaFile/Rozas_Tile_Collection_Try1/Sis/M_Plane_Inst.uasset'
+[2026.10.18-02.00.49:902][305]LogFileHelpers: Saving Package: /Game/RozaFile/FogOfWar/M_Plane_Inst
+[2026.10.18-02.00.49:902][305]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/RozaFile/FogOfWar/M_Plane_Inst] ([1] browsable assets)...
+[2026.10.18-02.00.49:902][305]OBJ SavePackage: Finished generating thumbnails for package [/Game/RozaFile/FogOfWar/M_Plane_Inst]
+[2026.10.18-02.00.49:902][305]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RozaFile/FogOfWar/M_Plane_Inst" FILE="../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Content/RozaFile/FogOfWar/M_Plane_Inst.uasset" SILENT=true
+[2026.10.18-02.00.49:910][305]LogSavePackage: Moving output files for package: /Game/RozaFile/FogOfWar/M_Plane_Inst
+[2026.10.18-02.00.49:910][305]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/M_Plane_InstC8DA02AF4A2E1BE1D074F7B6572F31CC.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Content/RozaFile/FogOfWar/M_Plane_Inst.uasset'
+[2026.10.18-02.00.49:913][305]LogFileHelpers: InternalPromptForCheckoutAndSave took 56.710 ms (total: 2.77 sec)
+[2026.10.18-02.00.49:941][305]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2026.10.18-02.00.49:941][305]LogContentValidation: Enabled validators:
+[2026.10.18-02.00.49:941][305]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.10.18-02.00.49:941][305]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.10.18-02.00.49:943][305]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.10.18-02.00.49:943][305]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.10.18-02.00.49:943][305]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.10.18-02.00.49:943][305]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.10.18-02.00.49:943][305]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.10.18-02.00.49:943][305]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.10.18-02.00.49:943][305]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.10.18-02.00.49:943][305]LogContentValidation: Display: Starting to validate 2 assets (0 associated objects such as actors)
+[2026.10.18-02.00.49:943][305]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.10.18-02.00.49:943][305]AssetCheck: /Game/RozaFile/Rozas_Tile_Collection_Try1/Sis/M_Plane_Inst Validating asset
+[2026.10.18-02.00.49:943][305]AssetCheck: /Game/RozaFile/FogOfWar/M_Plane_Inst Validating asset
+[2026.10.18-02.00.49:943][305]LogContentValidation: Validated asset counts for 9 validators:
+[2026.10.18-02.00.49:943][305]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.10.18-02.00.49:943][305]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.10.18-02.00.49:943][305]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 2
+[2026.10.18-02.00.49:943][305]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.10.18-02.00.49:943][305]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.10.18-02.00.49:943][305]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.10.18-02.00.49:943][305]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.10.18-02.00.49:943][305]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.10.18-02.00.49:943][305]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.10.18-02.00.49:977][305]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/SourceControl/UncontrolledChangelists.json
+[2026.10.18-02.00.51:259][403]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/RozaFile/Rozas_Tile_Collection_Try1/Sis/SisBase.SisBase
+[2026.10.18-02.00.51:259][403]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/RozaFile/Rozas_Tile_Collection_Try1/Sis/SisBase.SisBase
+[2026.10.18-02.00.51:263][403]LogActorFactory: Actor Factory spawned StaticMesh /Game/RozaFile/Rozas_Tile_Collection_Try1/Sis/SisBase.SisBase as actor: StaticMeshActor /Temp/Untitled_1.Untitled_1:PersistentLevel.StaticMeshActor_0
+[2026.10.18-02.00.51:920][427]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2026.10.18-02.00.51:925][427]LogEditorActor: Deleted 0 Actors (0.054 secs)
+[2026.10.18-02.00.51:931][427]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/RozaFile/Rozas_Tile_Collection_Try1/Sis/SisBase.SisBase
+[2026.10.18-02.00.51:931][427]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/RozaFile/Rozas_Tile_Collection_Try1/Sis/SisBase.SisBase
+[2026.10.18-02.00.51:942][427]LogActorFactory: Actor Factory spawned StaticMesh /Game/RozaFile/Rozas_Tile_Collection_Try1/Sis/SisBase.SisBase as actor: StaticMeshActor /Temp/Untitled_1.Untitled_1:PersistentLevel.StaticMeshActor_UAID_F4B5207A4107360C03_1176199007
+[2026.10.18-02.01.00:711][989]LogModuleManager: InternalLoadLibrary: 'HierarchicalLODUtilities' ('C:/Program Files/Epic Games/UE_5.8/Engine/Binaries/Win64/UnrealEditor-HierarchicalLODUtilities.dll')
+[2026.10.18-02.01.00:766][989]LogMaterial: Display: Material /Game/RozaFile/Rozas_Tile_Collection_Try1/Sis/M_Plane_Inst.M_Plane_Inst needed to set usage flag Nanite
+[2026.10.18-02.01.00:787][989]LogStaticMesh: Warning: Invalid material [M_Plane_Inst] used on Nanite static mesh [SisBase]. Only opaque or masked blend modes are currently supported, [BLEND_TranslucentGreyTransmittance] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.10.18-02.01.07:751][350]LogSlate: Window 'Save Level As' being destroyed
+[2026.10.18-02.01.16:020][931]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2026.10.18-02.01.16:044][931]LogContentBrowser: Creating deferred item: NewFolder
+[2026.10.18-02.01.16:073][932]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2026.10.18-02.01.17:517][ 24]LogContentBrowser: Attempting asset rename: NewFolder -> Water
+[2026.10.18-02.01.17:518][ 24]LogContentBrowser: End creating deferred item NewFolder
+[2026.10.18-02.01.33:662][626]LogStreaming: Display: FlushAsyncLoading(671): 1 QueuedPackages, 0 AsyncPackages
+[2026.10.18-02.01.33:698][626]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/RozaFile/WaterShader/M_StylizedWater.M_StylizedWater
+[2026.10.18-02.01.48:080][646]LogEditorTransaction: Undo Change Number Pin Value
+[2026.10.18-02.01.48:338][646]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2026.10.18-02.01.48:964][646]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2026.10.18-02.01.49:328][646]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2026.10.18-02.01.50:028][646]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2026.10.18-02.01.50:164][646]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2026.10.18-02.01.50:360][646]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2026.10.18-02.01.50:549][646]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2026.10.18-02.01.51:242][646]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2026.10.18-02.01.51:412][646]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2026.10.18-02.01.51:702][646]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2026.10.18-02.01.59:410][141]LogStreaming: Display: FlushAsyncLoading(672): 1 QueuedPackages, 0 AsyncPackages
+[2026.10.18-02.01.59:418][141]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/RozaFile/WaterShader/M_StylizedWater_Inst.M_StylizedWater_Inst
+[2026.10.18-02.02.10:559][846]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Plane.Plane
+[2026.10.18-02.02.10:559][846]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Plane.Plane
+[2026.10.18-02.02.10:565][846]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Plane.Plane as actor: StaticMeshActor /Temp/Untitled_1.Untitled_1:PersistentLevel.StaticMeshActor_UAID_F4B5207A4107360C03_1254826008
+[2026.10.18-02.02.10:567][846]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Plane.Plane as actor: StaticMeshActor /Temp/Untitled_1.Untitled_1:PersistentLevel.StaticMeshActor_UAID_F4B5207A4107360C03_1254826008
+[2026.10.18-02.02.23:968][547]LogSlate: Window 'Save Level As' being destroyed
+[2026.10.18-02.02.51:331][554]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.10.18-02.02.51:385][554]LogFileHelpers: Saving Package: /Game/RozaFile/WaterShader/M_StylizedWater_Inst
+[2026.10.18-02.02.51:385][554]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/RozaFile/WaterShader/M_StylizedWater_Inst] ([1] browsable assets)...
+[2026.10.18-02.02.51:425][554]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/RozaFile/WaterShader/M_StylizedWater_Inst.M_StylizedWater_Inst]
+[2026.10.18-02.02.51:425][554]OBJ SavePackage: Finished generating thumbnails for package [/Game/RozaFile/WaterShader/M_StylizedWater_Inst]
+[2026.10.18-02.02.51:472][554]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2026.10.18-02.02.51:604][554]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2026.10.18-02.02.51:618][554]LogSavePackage: Moving output files for package: /Game/RozaFile/WaterShader/M_StylizedWater_Inst
+[2026.10.18-02.02.51:619][554]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/M_StylizedWater_Inst0C94F97C4EEE7FCC1593658C8F880E4E.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Content/RozaFile/WaterShader/M_StylizedWater_Inst.uasset'
+[2026.10.18-02.02.51:648][554]LogFileHelpers: InternalPromptForCheckoutAndSave took 316.401 ms (total: 3.08 sec)
+[2026.10.18-02.02.51:700][554]LogContentValidation: Enabled validators:
+[2026.10.18-02.02.51:700][554]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.10.18-02.02.51:700][554]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.10.18-02.02.51:700][554]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.10.18-02.02.51:700][554]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.10.18-02.02.51:700][554]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.10.18-02.02.51:700][554]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.10.18-02.02.51:700][554]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.10.18-02.02.51:700][554]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.10.18-02.02.51:700][554]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.10.18-02.02.51:700][554]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.10.18-02.02.51:700][554]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.10.18-02.02.51:700][554]AssetCheck: /Game/RozaFile/WaterShader/M_StylizedWater_Inst Validating asset
+[2026.10.18-02.02.51:700][554]LogContentValidation: Validated asset counts for 9 validators:
+[2026.10.18-02.02.51:700][554]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.10.18-02.02.51:700][554]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.10.18-02.02.51:700][554]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.10.18-02.02.51:700][554]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.10.18-02.02.51:701][554]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.10.18-02.02.51:701][554]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.10.18-02.02.51:701][554]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.10.18-02.02.51:701][554]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.10.18-02.02.51:701][554]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.10.18-02.03.12:504][150]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.10.18-02.03.12:569][150]LogFileHelpers: Saving Package: /Game/RozaFile/WaterShader/M_StylizedWater_Inst
+[2026.10.18-02.03.12:569][150]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/RozaFile/WaterShader/M_StylizedWater_Inst] ([1] browsable assets)...
+[2026.10.18-02.03.12:609][150]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/RozaFile/WaterShader/M_StylizedWater_Inst.M_StylizedWater_Inst]
+[2026.10.18-02.03.12:609][150]OBJ SavePackage: Finished generating thumbnails for package [/Game/RozaFile/WaterShader/M_StylizedWater_Inst]
+[2026.10.18-02.03.12:631][150]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2026.10.18-02.03.12:657][150]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2026.10.18-02.03.12:669][150]LogSavePackage: Moving output files for package: /Game/RozaFile/WaterShader/M_StylizedWater_Inst
+[2026.10.18-02.03.12:669][150]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/M_StylizedWater_Inst19EA5C624390CF34E9C514B0FD47DB11.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Content/RozaFile/WaterShader/M_StylizedWater_Inst.uasset'
+[2026.10.18-02.03.12:682][150]LogFileHelpers: InternalPromptForCheckoutAndSave took 177.098 ms (total: 3.26 sec)
+[2026.10.18-02.03.12:735][150]LogContentValidation: Enabled validators:
+[2026.10.18-02.03.12:735][150]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.10.18-02.03.12:735][150]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.10.18-02.03.12:735][150]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.10.18-02.03.12:735][150]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.10.18-02.03.12:735][150]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.10.18-02.03.12:735][150]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.10.18-02.03.12:735][150]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.10.18-02.03.12:735][150]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.10.18-02.03.12:735][150]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.10.18-02.03.12:735][150]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.10.18-02.03.12:735][150]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.10.18-02.03.12:735][150]AssetCheck: /Game/RozaFile/WaterShader/M_StylizedWater_Inst Validating asset
+[2026.10.18-02.03.12:735][150]LogContentValidation: Validated asset counts for 9 validators:
+[2026.10.18-02.03.12:735][150]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.10.18-02.03.12:735][150]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.10.18-02.03.12:735][150]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.10.18-02.03.12:735][150]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.10.18-02.03.12:735][150]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.10.18-02.03.12:735][150]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.10.18-02.03.12:735][150]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.10.18-02.03.12:735][150]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.10.18-02.03.12:735][150]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.10.18-02.03.21:019][827]LogSlate: Window 'Color Picker' being destroyed
+[2026.10.18-02.03.47:263][627]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_2: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Only transparent or postprocess materials can read from scene depth.
+
+[2026.10.18-02.03.53:391][ 26]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_2: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Only transparent or postprocess materials can read from scene depth.
+
+[2026.10.18-02.03.53:397][ 26]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_2: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Only transparent or postprocess materials can read from scene depth.
+
+[2026.10.18-02.03.58:307][390]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_2: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Only transparent or postprocess materials can read from scene depth.
+
+[2026.10.18-02.03.58:308][390]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_2: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Only transparent or postprocess materials can read from scene depth.
+
+[2026.10.18-02.04.00:252][509]LogMaterialEditor: Saving and Compiling material M_StylizedWater
+[2026.10.18-02.04.00:298][509]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_2: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Only transparent or postprocess materials can read from scene depth.
+
+[2026.10.18-02.04.00:401][509]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2026.10.18-02.04.01:804][509]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2026.10.18-02.04.01:815][509]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.10.18-02.04.01:869][509]LogFileHelpers: Saving Package: /Game/RozaFile/WaterShader/M_StylizedWater
+[2026.10.18-02.04.01:869][509]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/RozaFile/WaterShader/M_StylizedWater] ([1] browsable assets)...
+[2026.10.18-02.04.01:992][509]OBJ SavePackage:     Rendered thumbnail for [Material /Game/RozaFile/WaterShader/M_StylizedWater.M_StylizedWater]
+[2026.10.18-02.04.01:992][509]OBJ SavePackage: Finished generating thumbnails for package [/Game/RozaFile/WaterShader/M_StylizedWater]
+[2026.10.18-02.04.02:005][509]LogSavePackage: Moving output files for package: /Game/RozaFile/WaterShader/M_StylizedWater
+[2026.10.18-02.04.02:005][509]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/M_StylizedWater5C1FE86447EDF75837142BA516836F34.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Content/RozaFile/WaterShader/M_StylizedWater.uasset'
+[2026.10.18-02.04.02:015][509]LogFileHelpers: InternalPromptForCheckoutAndSave took 200.770 ms (total: 3.46 sec)
+[2026.10.18-02.04.02:067][509]LogContentValidation: Enabled validators:
+[2026.10.18-02.04.02:067][509]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.10.18-02.04.02:067][509]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.10.18-02.04.02:067][509]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.10.18-02.04.02:067][509]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.10.18-02.04.02:067][509]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.10.18-02.04.02:067][509]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.10.18-02.04.02:067][509]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.10.18-02.04.02:067][509]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.10.18-02.04.02:067][509]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.10.18-02.04.02:067][509]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.10.18-02.04.02:067][509]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.10.18-02.04.02:067][509]AssetCheck: /Game/RozaFile/WaterShader/M_StylizedWater Validating asset
+[2026.10.18-02.04.02:067][509]LogContentValidation: Validated asset counts for 9 validators:
+[2026.10.18-02.04.02:067][509]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.10.18-02.04.02:067][509]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.10.18-02.04.02:067][509]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.10.18-02.04.02:068][509]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.10.18-02.04.02:068][509]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.10.18-02.04.02:068][509]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.10.18-02.04.02:068][509]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.10.18-02.04.02:068][509]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.10.18-02.04.02:068][509]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.10.18-02.04.15:664][425]LogShaderCompilers: Display: ================================================
+[2026.10.18-02.04.15:664][425]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.10.18-02.04.15:664][425]LogShaderCompilers: Display: Total job queries 22.536, among them cache hits 4.422 (19.62%), DDC hits 9.567 (42.45%), Duplicates 2.275 (10.09%)
+[2026.10.18-02.04.15:664][425]LogShaderCompilers: Display: Tracking 15.276 distinct input hashes that result in 13.843 distinct outputs (90.62%)
+[2026.10.18-02.04.15:666][425]LogShaderCompilers: Display: RAM used: 200,57 MiB of 819,20 MiB budget. Usage: 24.48%
+[2026.10.18-02.04.15:666][425]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.10.18-02.04.15:666][425]LogShaderCompilers: Display: Shaders Compiled: 6.513
+[2026.10.18-02.04.15:666][425]LogShaderCompilers: Display: Jobs assigned 6.513, completed 6.513 (100%)
+[2026.10.18-02.04.15:666][425]LogShaderCompilers: Display: Average time worker was idle: 18.20 s
+[2026.10.18-02.04.15:666][425]LogShaderCompilers: Display: Time job spent in pending queue: average 135.77 s, longest 273.74 s
+[2026.10.18-02.04.15:666][425]LogShaderCompilers: Display: Job execution time: average 3.81 s, max 87.02 s
+[2026.10.18-02.04.15:666][425]LogShaderCompilers: Display: Job life time (pending + execution): average 139.58 s, max 276.45
+[2026.10.18-02.04.15:666][425]LogShaderCompilers: Display: Shader code size: total 156,9 MiB, numShaders 6.543, average 24,555 KiB, min 1,258 KiB, max 360,525 KiB
+[2026.10.18-02.04.15:666][425]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 440.26 s
+[2026.10.18-02.04.15:666][425]LogShaderCompilers: Display: Jobs were issued in 1.864 batches (only local compilation was used), average 3.49 jobs/batch
+[2026.10.18-02.04.15:666][425]LogShaderCompilers: Display: Average processing rate: 14.79 jobs/sec
+[2026.10.18-02.04.15:666][425]LogShaderCompilers: Display: Total thread time: 3.010,155 s
+[2026.10.18-02.04.15:666][425]LogShaderCompilers: Display: Total thread preprocess time: 271,932 s
+[2026.10.18-02.04.15:666][425]LogShaderCompilers: Display: Percentage time preprocessing: 9.03%
+[2026.10.18-02.04.15:666][425]LogShaderCompilers: Display: Effective parallelization: 6.84 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.854655
+[2026.10.18-02.04.15:666][425]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.10.18-02.04.15:666][425]LogShaderCompilers: Display:                                               FPathTracingRG (compiled   24 times, average 10.33 sec, max 23.52 sec, min 5.92 sec)
+[2026.10.18-02.04.15:666][425]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS (compiled    9 times, average 8.80 sec, max 15.97 sec, min 5.59 sec)
+[2026.10.18-02.04.15:666][425]LogShaderCompilers: Display:                    TVirtualTextureVSBaseColorNormalRoughness (compiled    4 times, average 2.24 sec, max 5.81 sec, min 0.17 sec)
+[2026.10.18-02.04.15:666][425]LogShaderCompilers: Display:                                      FGenerateLightSamplesCS (compiled  216 times, average 1.94 sec, max 3.97 sec, min 0.52 sec)
+[2026.10.18-02.04.15:666][425]LogShaderCompilers: Display:                                                 FLumenCardCS (compiled   13 times, average 1.76 sec, max 12.20 sec, min 0.65 sec)
+[2026.10.18-02.04.15:666][425]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.10.18-02.04.15:666][425]LogShaderCompilers: Display:                                      FGenerateLightSamplesCS - 13.95% of total time (compiled  216 times, average 1.94 sec, max 3.97 sec, min 0.52 sec)
+[2026.10.18-02.04.15:666][425]LogShaderCompilers: Display:                                               FPathTracingRG - 8.24% of total time (compiled   24 times, average 10.33 sec, max 23.52 sec, min 5.92 sec)
+[2026.10.18-02.04.15:666][425]LogShaderCompilers: Display:                                         FShadeLightSamplesCS - 7.91% of total time (compiled  432 times, average 0.55 sec, max 1.03 sec, min 0.22 sec)
+[2026.10.18-02.04.15:666][425]LogShaderCompilers: Display:                                             FDeferredLightPS - 7.28% of total time (compiled  472 times, average 0.46 sec, max 4.16 sec, min 0.13 sec)
+[2026.10.18-02.04.15:666][425]LogShaderCompilers: Display:                                      FScreenProbeIntegrateCS - 4.99% of total time (compiled  512 times, average 0.29 sec, max 0.36 sec, min 0.23 sec)
+[2026.10.18-02.04.15:666][425]LogShaderCompilers: Display: === Material stats ===
+[2026.10.18-02.04.15:666][425]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.10.18-02.04.15:666][425]LogShaderCompilers: Display: Materials Translated:    632
+[2026.10.18-02.04.15:666][425]LogShaderCompilers: Display: Material Total Translate Time: 0.31 s
+[2026.10.18-02.04.15:666][425]LogShaderCompilers: Display: Material Translation Only: 0.16 s (53%)
+[2026.10.18-02.04.15:666][425]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2026.10.18-02.04.15:666][425]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2026.10.18-02.04.15:666][425]LogShaderCompilers: Display: ================================================
+[2026.10.18-02.04.21:287][813]LogEditorTransaction: Undo Create Pin Link
+[2026.10.18-02.04.21:460][813]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2026.10.18-02.04.22:073][813]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2026.10.18-02.04.22:359][813]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2026.10.18-02.04.23:060][813]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2026.10.18-02.04.23:172][813]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2026.10.18-02.04.23:373][813]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2026.10.18-02.04.23:541][813]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2026.10.18-02.04.24:241][813]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2026.10.18-02.04.24:453][813]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2026.10.18-02.04.24:633][813]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2026.10.18-02.05.25:922][518]LogEditorTransaction: Undo Create Pin Link
+[2026.10.18-02.05.26:101][518]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2026.10.18-02.05.26:618][518]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2026.10.18-02.05.26:903][518]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2026.10.18-02.05.27:605][518]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2026.10.18-02.05.27:718][518]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2026.10.18-02.05.27:907][518]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2026.10.18-02.05.28:072][518]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2026.10.18-02.05.28:776][518]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2026.10.18-02.05.28:979][518]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2026.10.18-02.05.30:280][518]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2026.10.18-02.05.31:716][585]LogEditorTransaction: Undo Create Pin Link
+[2026.10.18-02.05.31:893][585]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2026.10.18-02.05.32:305][585]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2026.10.18-02.05.32:605][585]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2026.10.18-02.05.33:311][585]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2026.10.18-02.05.33:424][585]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2026.10.18-02.05.33:631][585]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2026.10.18-02.05.33:803][585]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2026.10.18-02.05.34:506][585]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2026.10.18-02.05.34:713][585]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2026.10.18-02.05.36:026][585]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2026.10.18-02.05.38:334][678]LogEditorTransaction: Undo Create Pin Link
+[2026.10.18-02.05.38:501][678]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2026.10.18-02.05.39:018][678]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2026.10.18-02.05.39:296][678]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2026.10.18-02.05.39:994][678]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2026.10.18-02.05.40:127][678]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2026.10.18-02.05.40:325][678]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2026.10.18-02.05.40:520][678]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2026.10.18-02.05.41:538][678]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2026.10.18-02.05.41:770][678]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2026.10.18-02.05.41:972][678]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2026.10.18-02.06.15:850][135]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_3: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Only transparent or postprocess materials can read from scene depth.
+
+[2026.10.18-02.06.32:100][738]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3952.016113
+[2026.10.18-02.06.32:315][747]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.10.18-02.06.32:315][748]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3952.215088, Update Interval: 302.653290
+[2026.10.18-02.06.32:989][791]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_3: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Only transparent or postprocess materials can read from scene depth.
+
+[2026.10.18-02.06.32:997][791]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_3: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Only transparent or postprocess materials can read from scene depth.
+
+[2026.10.18-02.06.41:544][188]LogSlate: Window 'Color Picker' being destroyed
+[2026.10.18-02.06.44:673][378]LogEditorTransaction: Undo Change Color Pin Value
+[2026.10.18-02.06.44:857][378]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2026.10.18-02.06.45:270][378]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2026.10.18-02.06.45:574][378]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2026.10.18-02.06.46:274][378]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2026.10.18-02.06.46:391][378]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2026.10.18-02.06.46:595][378]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2026.10.18-02.06.46:765][378]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2026.10.18-02.06.47:459][378]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2026.10.18-02.06.47:671][378]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2026.10.18-02.06.47:872][378]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2026.10.18-02.06.49:076][422]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_4: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Only transparent or postprocess materials can read from scene depth.
+
+[2026.10.18-02.07.02:584][181]LogEditorTransaction: Undo Break Pin Links
+[2026.10.18-02.07.02:756][181]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2026.10.18-02.07.03:269][181]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2026.10.18-02.07.03:571][181]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2026.10.18-02.07.04:279][181]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2026.10.18-02.07.04:394][181]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2026.10.18-02.07.04:599][181]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2026.10.18-02.07.04:762][181]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2026.10.18-02.07.05:459][181]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2026.10.18-02.07.05:665][181]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2026.10.18-02.07.05:852][181]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2026.10.18-02.07.15:672][874]LogShaderCompilers: Display: ================================================
+[2026.10.18-02.07.15:672][874]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.10.18-02.07.15:672][874]LogShaderCompilers: Display: Total job queries 23.396, among them cache hits 5.064 (21.64%), DDC hits 9.569 (40.90%), Duplicates 2.369 (10.13%)
+[2026.10.18-02.07.15:672][874]LogShaderCompilers: Display: Tracking 15.309 distinct input hashes that result in 13.851 distinct outputs (90.48%)
+[2026.10.18-02.07.15:672][874]LogShaderCompilers: Display: RAM used: 200,73 MiB of 819,20 MiB budget. Usage: 24.50%
+[2026.10.18-02.07.15:672][874]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.10.18-02.07.15:672][874]LogShaderCompilers: Display: Shaders Compiled: 6.773
+[2026.10.18-02.07.15:672][874]LogShaderCompilers: Display: Jobs assigned 6.773, completed 6.773 (100%)
+[2026.10.18-02.07.15:672][874]LogShaderCompilers: Display: Average time worker was idle: 16.68 s
+[2026.10.18-02.07.15:672][874]LogShaderCompilers: Display: Time job spent in pending queue: average 130.56 s, longest 273.74 s
+[2026.10.18-02.07.15:672][874]LogShaderCompilers: Display: Job execution time: average 3.68 s, max 87.02 s
+[2026.10.18-02.07.15:672][874]LogShaderCompilers: Display: Job life time (pending + execution): average 134.24 s, max 276.45
+[2026.10.18-02.07.15:672][874]LogShaderCompilers: Display: Shader code size: total 159,63 MiB, numShaders 6.803, average 24,027 KiB, min 1,258 KiB, max 360,525 KiB
+[2026.10.18-02.07.15:672][874]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 475.94 s
+[2026.10.18-02.07.15:672][874]LogShaderCompilers: Display: Jobs were issued in 2.124 batches (only local compilation was used), average 3.19 jobs/batch
+[2026.10.18-02.07.15:672][874]LogShaderCompilers: Display: Average processing rate: 14.23 jobs/sec
+[2026.10.18-02.07.15:672][874]LogShaderCompilers: Display: Total thread time: 3.094,849 s
+[2026.10.18-02.07.15:672][874]LogShaderCompilers: Display: Total thread preprocess time: 286,276 s
+[2026.10.18-02.07.15:672][874]LogShaderCompilers: Display: Percentage time preprocessing: 9.25%
+[2026.10.18-02.07.15:672][874]LogShaderCompilers: Display: Effective parallelization: 6.50 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.812824
+[2026.10.18-02.07.15:672][874]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.10.18-02.07.15:672][874]LogShaderCompilers: Display:                                               FPathTracingRG (compiled   24 times, average 10.33 sec, max 23.52 sec, min 5.92 sec)
+[2026.10.18-02.07.15:672][874]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS (compiled    9 times, average 8.80 sec, max 15.97 sec, min 5.59 sec)
+[2026.10.18-02.07.15:672][874]LogShaderCompilers: Display:                    TVirtualTextureVSBaseColorNormalRoughness (compiled    4 times, average 2.24 sec, max 5.81 sec, min 0.17 sec)
+[2026.10.18-02.07.15:672][874]LogShaderCompilers: Display:                                      FGenerateLightSamplesCS (compiled  216 times, average 1.94 sec, max 3.97 sec, min 0.52 sec)
+[2026.10.18-02.07.15:672][874]LogShaderCompilers: Display:                                                 FLumenCardCS (compiled   13 times, average 1.76 sec, max 12.20 sec, min 0.65 sec)
+[2026.10.18-02.07.15:673][874]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.10.18-02.07.15:673][874]LogShaderCompilers: Display:                                      FGenerateLightSamplesCS - 13.57% of total time (compiled  216 times, average 1.94 sec, max 3.97 sec, min 0.52 sec)
+[2026.10.18-02.07.15:673][874]LogShaderCompilers: Display:                                               FPathTracingRG - 8.01% of total time (compiled   24 times, average 10.33 sec, max 23.52 sec, min 5.92 sec)
+[2026.10.18-02.07.15:673][874]LogShaderCompilers: Display:                                         FShadeLightSamplesCS - 7.69% of total time (compiled  432 times, average 0.55 sec, max 1.03 sec, min 0.22 sec)
+[2026.10.18-02.07.15:673][874]LogShaderCompilers: Display:                                             FDeferredLightPS - 7.08% of total time (compiled  472 times, average 0.46 sec, max 4.16 sec, min 0.13 sec)
+[2026.10.18-02.07.15:673][874]LogShaderCompilers: Display:                                      FScreenProbeIntegrateCS - 4.86% of total time (compiled  512 times, average 0.29 sec, max 0.36 sec, min 0.23 sec)
+[2026.10.18-02.07.15:673][874]LogShaderCompilers: Display: === Material stats ===
+[2026.10.18-02.07.15:673][874]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.10.18-02.07.15:673][874]LogShaderCompilers: Display: Materials Translated:    767
+[2026.10.18-02.07.15:673][874]LogShaderCompilers: Display: Material Total Translate Time: 0.38 s
+[2026.10.18-02.07.15:673][874]LogShaderCompilers: Display: Material Translation Only: 0.21 s (55%)
+[2026.10.18-02.07.15:673][874]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2026.10.18-02.07.15:673][874]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2026.10.18-02.07.15:673][874]LogShaderCompilers: Display: ================================================
+[2026.10.18-02.07.16:905][962]LogSlate: Window 'Color Picker' being destroyed
+[2026.10.18-02.07.45:651][276]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.10.18-02.07.45:701][276]LogFileHelpers: Saving Package: /Game/RozaFile/WaterShader/M_StylizedWater_Inst
+[2026.10.18-02.07.45:701][276]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/RozaFile/WaterShader/M_StylizedWater_Inst] ([1] browsable assets)...
+[2026.10.18-02.07.45:744][276]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/RozaFile/WaterShader/M_StylizedWater_Inst.M_StylizedWater_Inst]
+[2026.10.18-02.07.45:744][276]OBJ SavePackage: Finished generating thumbnails for package [/Game/RozaFile/WaterShader/M_StylizedWater_Inst]
+[2026.10.18-02.07.45:767][276]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2026.10.18-02.07.45:898][276]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2026.10.18-02.07.45:910][276]LogSavePackage: Moving output files for package: /Game/RozaFile/WaterShader/M_StylizedWater_Inst
+[2026.10.18-02.07.45:910][276]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/M_StylizedWater_Inst02F836A94B5594720C0351AC176EC834.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Content/RozaFile/WaterShader/M_StylizedWater_Inst.uasset'
+[2026.10.18-02.07.45:931][276]LogFileHelpers: InternalPromptForCheckoutAndSave took 279.542 ms (total: 3.74 sec)
+[2026.10.18-02.07.46:003][276]LogContentValidation: Enabled validators:
+[2026.10.18-02.07.46:003][276]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.10.18-02.07.46:003][276]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.10.18-02.07.46:003][276]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.10.18-02.07.46:003][276]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.10.18-02.07.46:003][276]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.10.18-02.07.46:003][276]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.10.18-02.07.46:003][276]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.10.18-02.07.46:003][276]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.10.18-02.07.46:003][276]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.10.18-02.07.46:003][276]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.10.18-02.07.46:003][276]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.10.18-02.07.46:004][276]AssetCheck: /Game/RozaFile/WaterShader/M_StylizedWater_Inst Validating asset
+[2026.10.18-02.07.46:004][276]LogContentValidation: Validated asset counts for 9 validators:
+[2026.10.18-02.07.46:004][276]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.10.18-02.07.46:004][276]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.10.18-02.07.46:004][276]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.10.18-02.07.46:004][276]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.10.18-02.07.46:004][276]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.10.18-02.07.46:004][276]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.10.18-02.07.46:004][276]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.10.18-02.07.46:004][276]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.10.18-02.07.46:004][276]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
