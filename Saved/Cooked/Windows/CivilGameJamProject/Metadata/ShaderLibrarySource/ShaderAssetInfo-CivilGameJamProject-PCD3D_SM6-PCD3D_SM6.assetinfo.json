@@ -1,0 +1,789 @@
+{
+	"AssetInfoVersion": 2,
+	"ShaderCodeToAssets": [
+		{
+			"ShaderMapHash": "E7315FFD00AB897B",
+			"Assets": [
+				"/DeformerGraph/Deformers/DG_LinearBlendSkin_Morph_Cloth"
+			]
+		},
+		{
+			"ShaderMapHash": "FF78E50C00B75AFD",
+			"Assets": [
+				"/Engine/EditorMaterials/Dataflow/DataflowTwoSidedVertexMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "80D9D85B0106DBF3",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Opaque_OneSided"
+			]
+		},
+		{
+			"ShaderMapHash": "49D4D32101BFCCCE",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Default_Blend"
+			]
+		},
+		{
+			"ShaderMapHash": "9CAD05E70505923C",
+			"Assets": [
+				"/HairStrands/Materials/HairCardsDefaultMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "89780FD70675B985",
+			"Assets": [
+				"/Engine/EditorLandscapeResources/ColorMaskBrushMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "DFDC2F7207870AA5",
+			"Assets": [
+				"/Engine/EditorMaterials/PhAT_UnselectedMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "3304103008313B0D",
+			"Assets": [
+				"/Game/RozaFile/FogOfWar/M_Plane"
+			]
+		},
+		{
+			"ShaderMapHash": "97407FEA0D123AE1",
+			"Assets": [
+				"/InterchangeAssets/gltf/Substrate/M_GLTF"
+			]
+		},
+		{
+			"ShaderMapHash": "7D70A2AE0EA455DE",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Masked_OneSided"
+			]
+		},
+		{
+			"ShaderMapHash": "C2656D7413B0AF05",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Sheen_Mask_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "4598B3AE146AAA3D",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Default_Blend_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "92AC77B715F9A169",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/DebugMeshMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "FC14D70E1643D8CF",
+			"Assets": [
+				"/HairStrands/Materials/HairDebugMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "4BE1B6EE166790B1",
+			"Assets": [
+				"/Game/RozaFile/Grass_Material/GrassMaterial",
+				"/Game/RozaFile/Rozas_Tile_Collection_Try1/Base/GrassMaterial_Base",
+				"/Game/RozaFile/Rozas_Tile_Collection_Try1/Construction_ZONE/GrassMaterial_Base",
+				"/Game/RozaFile/Rozas_Tile_Collection_Try1/DağEvi/GrassMaterial_Base",
+				"/Game/RozaFile/Rozas_Tile_Collection_Try1/HunterHouse/GrassMaterial_Base",
+				"/Game/RozaFile/Rozas_Tile_Collection_Try1/Hydrant/GrassMaterial_Base",
+				"/Game/RozaFile/Rozas_Tile_Collection_Try1/Koni_Tower/GrassMaterial_Base",
+				"/Game/RozaFile/Rozas_Tile_Collection_Try1/Sniper_Tower/GrassMaterial_Base",
+				"/Game/RozaFile/Rozas_Tile_Collection_Try1/Sprinkle_Turret/GrassMaterial_Base",
+				"/Game/RozaFile/Rozas_Tile_Collection_Try1/WaterTower/GrassMaterial_Base"
+			]
+		},
+		{
+			"ShaderMapHash": "1761030E169D9E94",
+			"Assets": [
+				"/Engine/EngineMaterials/FlattenMaterial_VT"
+			]
+		},
+		{
+			"ShaderMapHash": "3202DDC218734F0C",
+			"Assets": [
+				"/Engine/EditorLandscapeResources/SelectBrushMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "429479EF1A51204E",
+			"Assets": [
+				"/Game/RozaFile/Mountain/Dark_Stone"
+			]
+		},
+		{
+			"ShaderMapHash": "C2660C5A1CB4B227",
+			"Assets": [
+				"/Engine/EngineMaterials/EmissiveMeshMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "A93E74C120913DC9",
+			"Assets": [
+				"/Engine/EditorLandscapeResources/SplineEditorMeshMat"
+			]
+		},
+		{
+			"ShaderMapHash": "D2BB44F023A84B26",
+			"Assets": [
+				"/Game/RozaFile/Mountain/M_Snow"
+			]
+		},
+		{
+			"ShaderMapHash": "BC7335D22422A6E6",
+			"Assets": [
+				"/Game/RozaFile/Tile/M_Truck"
+			]
+		},
+		{
+			"ShaderMapHash": "8B741ED0242540D9",
+			"Assets": [
+				"/ControlRig/M_Manip"
+			]
+		},
+		{
+			"ShaderMapHash": "A2CC7A60286B4C99",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "07F43B242ACB90F2",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultPostProcessMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "9DF870252EF13D81",
+			"Assets": [
+				"/Engine/EditorMaterials/Dataflow/M_Dataflow_CheckerBoard"
+			]
+		},
+		{
+			"ShaderMapHash": "7FD4670231E86762",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Transmission_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "7E7C317733ED044F",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough",
+				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent_OneSided"
+			]
+		},
+		{
+			"ShaderMapHash": "58BF06B0340FBA65",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "8465FA60353DCC4B",
+			"Assets": [
+				"/Engine/EditorMaterials/Dataflow/DataflowVertexMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "EC56DE443556D2F6",
+			"Assets": [
+				"/Engine/OpenWorldTemplate/LandscapeMaterial/M_ProcGrid"
+			]
+		},
+		{
+			"ShaderMapHash": "3F4BF39835F34B89",
+			"Assets": [
+				"/Engine/EditorLandscapeResources/LandscapeDirtyMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "38ABF3F13672DFB0",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_SpecularGlossiness_Mask"
+			]
+		},
+		{
+			"ShaderMapHash": "3BC2BBCF387F8536",
+			"Assets": [
+				"/Game/RozaFile/Rozas_Tile_Collection_Try1/Geyser/RockyMaterial_Gayser",
+				"/Game/RozaFile/Rozas_Tile_Collection_Try1/Hills/RockyMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "B5F73D2F3A91E822",
+			"Assets": [
+				"/InterchangeAssets/gltf/M_Sheen"
+			]
+		},
+		{
+			"ShaderMapHash": "C7871F533D17E322",
+			"Assets": [
+				"/Engine/EditorLandscapeResources/LayerVisMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "AFB0ED543FD103B2",
+			"Assets": [
+				"/Engine/EngineMaterials/FlattenMaterial_WS_Normal_VT"
+			]
+		},
+		{
+			"ShaderMapHash": "52005DF341524F50",
+			"Assets": [
+				"/Game/RozaFile/Rozas_Tile_Collection_Try1/HunterHouse/M_ToonShader_GreenRoof"
+			]
+		},
+		{
+			"ShaderMapHash": "91B6D40243E3E273",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Sheen_Mask"
+			]
+		},
+		{
+			"ShaderMapHash": "A736CC9B46C8E634",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/Xray"
+			]
+		},
+		{
+			"ShaderMapHash": "42E5324147892332",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Default_Mask_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "909A17C54B33F960",
+			"Assets": [
+				"/Engine/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud"
+			]
+		},
+		{
+			"ShaderMapHash": "74CE8C204CEF1265",
+			"Assets": [
+				"/HairStrands/Materials/HairDefaultMaterial",
+				"/HairStrands/Materials/HairMeshesDefaultMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "CF62ECD74CF686BF",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_SpecularGlossiness_Opaque_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "FB44D6B15090D69E",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_SpecularGlossiness_Mask_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "F9C38CDF537C0D76",
+			"Assets": [
+				"/Game/RozaFile/Outline3/M_Outline_Outline"
+			]
+		},
+		{
+			"ShaderMapHash": "42E45707537F639E",
+			"Assets": [
+				"/ControlRig/Controls/ControlRigXRayMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "16586A2D543833B3",
+			"Assets": [
+				"/Engine/EditorMaterials/PreviewShadowIndicatorMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "D30772E555FBDA23",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/TransformGizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "1838F24E5633AEAB",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Opaque"
+			]
+		},
+		{
+			"ShaderMapHash": "96BB938E5C5A3A3F",
+			"Assets": [
+				"/DeformerGraph/Deformers/DG_LinearBlendSkin_Morph_Cloth_RecomputeNormals"
+			]
+		},
+		{
+			"ShaderMapHash": "22589AF764E33A42",
+			"Assets": [
+				"/DeformerGraph/Deformers/DG_LinearBlendSkin_Morph_Cloth_RecomputeNormals"
+			]
+		},
+		{
+			"ShaderMapHash": "6BFA874467CB1296",
+			"Assets": [
+				"/Game/RozaFile/Tile/M_Pine_Try"
+			]
+		},
+		{
+			"ShaderMapHash": "A1935E05692659EE",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultDeferredDecalMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "D91856AE6C62524A",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultLightFunctionMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "E6A0D4C06CAF57BC",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/DebugEditorMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "55D37CA26D8885B7",
+			"Assets": [
+				"/Game/RozaFile/Fire2/M_Smoke"
+			]
+		},
+		{
+			"ShaderMapHash": "F8E4EA696E9C7B86",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultTextMaterialOpaque"
+			]
+		},
+		{
+			"ShaderMapHash": "CBCBEFDC7125244A",
+			"Assets": [
+				"/Paper2D/OpaqueUnlitSpriteMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "6C46393871A273C5",
+			"Assets": [
+				"/SpeedTreeImporter/SpeedTree9/SpeedTreeBillboardMaster"
+			]
+		},
+		{
+			"ShaderMapHash": "7CEDA72371FF396F",
+			"Assets": [
+				"/Engine/EngineMaterials/WorldGridMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "471F0685762F6AE0",
+			"Assets": [
+				"/Game/RozaFile/WaterBeam/M_WaterBeam2"
+			]
+		},
+		{
+			"ShaderMapHash": "EE8E35F0783092C3",
+			"Assets": [
+				"/Engine/EngineMaterials/NaniteHiddenSectionMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "C75935157C5B28B5",
+			"Assets": [
+				"/InterchangeAssets/gltf/M_Default"
+			]
+		},
+		{
+			"ShaderMapHash": "9EF4FDF780B506B6",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Unlit_Mask"
+			]
+		},
+		{
+			"ShaderMapHash": "F2803B1680F03B64",
+			"Assets": [
+				"/InterchangeAssets/gltf/M_Unlit"
+			]
+		},
+		{
+			"ShaderMapHash": "37E1D5D181A27F4F",
+			"Assets": [
+				"/Engine/EngineMaterials/PhAT_JointLimitMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "1802CD558483E049",
+			"Assets": [
+				"/Game/RozaFile/Rozas_Tile_Collection_Try1/BurnedForest/GrassMaterial_Base"
+			]
+		},
+		{
+			"ShaderMapHash": "6363714B84BD8157",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Sheen_Blend_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "0F81250585DEA4B8",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Default_Mask"
+			]
+		},
+		{
+			"ShaderMapHash": "121565F58669EA1E",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_ClearCoat_Opaque_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "42AC032189B719B9",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Sheen_Opaque_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "4C9149558A847815",
+			"Assets": [
+				"/Landmass/Landscape/BlueprintBrushes/Materials/Internal/BrushBounds"
+			]
+		},
+		{
+			"ShaderMapHash": "2F92960D8CDF87F8",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_ClearCoat_Mask_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "196D4E868D61E21A",
+			"Assets": [
+				"/Engine/EngineMaterials/PPM_DefaultCalibrationColor"
+			]
+		},
+		{
+			"ShaderMapHash": "9A5E88F58E7B22CA",
+			"Assets": [
+				"/Game/RozaFile/Rozas_Tile_Collection_Try1/Base/M_ToonShader_Roof",
+				"/Game/RozaFile/Rozas_Tile_Collection_Try1/Construction_ZONE/M_ToonShader_Wood1",
+				"/Game/RozaFile/Rozas_Tile_Collection_Try1/DağEvi/M_ToonShader_Wall",
+				"/Game/RozaFile/Rozas_Tile_Collection_Try1/HunterHouse/M_ToonShader_DetayTahta",
+				"/Game/RozaFile/Rozas_Tile_Collection_Try1/Koni_Tower/M_ToonShader_DetayTahta",
+				"/Game/RozaFile/Rozas_Tile_Collection_Try1/Sniper_Tower/M_ToonShader_DetayTahta",
+				"/Game/RozaFile/Rozas_Tile_Collection_Try1/WaterTower/M_ToonShader_DetayTahta"
+			]
+		},
+		{
+			"ShaderMapHash": "7588306A8EC94C83",
+			"Assets": [
+				"/ControlRig/Controls/ControlRigGizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "00A305DA8EFE8A8B",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Unlit_Mask_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "D062631E90787910",
+			"Assets": [
+				"/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale"
+			]
+		},
+		{
+			"ShaderMapHash": "7FB4F8589176F5A5",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent"
+			]
+		},
+		{
+			"ShaderMapHash": "3FE30CE692A07627",
+			"Assets": [
+				"/Engine/EditorMaterials/WidgetVertexColorMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "4E3FE7B792AD8328",
+			"Assets": [
+				"/Engine/VREditor/SnapGrid/SnapGridMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "A057A79492BAD958",
+			"Assets": [
+				"/Engine/EditorLandscapeResources/LandscapeLayerUsageMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "103637799A727F4E",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_SpecularGlossiness_Blend"
+			]
+		},
+		{
+			"ShaderMapHash": "126F43539B17C9A3",
+			"Assets": [
+				"/Engine/EditorMaterials/Dataflow/DataflowTwoSidedVertexMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "B95079049CDBFFE8",
+			"Assets": [
+				"/Game/RozaFile/Fire2/M_Smoke_Inst",
+				"/Game/RozaFile/Fire2/M_Smoke_Inst1"
+			]
+		},
+		{
+			"ShaderMapHash": "97A1F23D9DC40A2D",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Unlit_Blend"
+			]
+		},
+		{
+			"ShaderMapHash": "BD2C47279ECAC92C",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Sheen_Blend"
+			]
+		},
+		{
+			"ShaderMapHash": "25EC6161A0B39EEF",
+			"Assets": [
+				"/Game/RozaFile/Tile/M_Foliage"
+			]
+		},
+		{
+			"ShaderMapHash": "550B62BFA313B5F7",
+			"Assets": [
+				"/Game/RozaFile/WaterShader/M_StylizedWater",
+				"/Game/RozaFile/WaterShader/M_StylizedWater_Inst"
+			]
+		},
+		{
+			"ShaderMapHash": "476841A8A3D47E4B",
+			"Assets": [
+				"/Game/RozaFile/UI_Try/NextButton/M_UI_Water"
+			]
+		},
+		{
+			"ShaderMapHash": "4B531D65A5E3C43A",
+			"Assets": [
+				"/Landmass/Landscape/BlueprintBrushes/Materials/Sprite/M_BrushSprite_01"
+			]
+		},
+		{
+			"ShaderMapHash": "F2C59B03AAC90F31",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/Main"
+			]
+		},
+		{
+			"ShaderMapHash": "66BDD1FEAB72EA14",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_ClearCoat_Mask"
+			]
+		},
+		{
+			"ShaderMapHash": "4A93CBDBAEA619AB",
+			"Assets": [
+				"/Game/RozaFile/Rozas_Tile_Collection_Try1/Sis/M_Plane_Inst"
+			]
+		},
+		{
+			"ShaderMapHash": "217A23A8AFE91485",
+			"Assets": [
+				"/MeshModelingToolsetExp/Materials/LineSetOverlaidComponentMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "3471DED0B1616F16",
+			"Assets": [
+				"/Engine/EditorMaterials/PhAT_NoCollisionMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "C483AD7FB553DAEE",
+			"Assets": [
+				"/Engine/EditorLandscapeResources/MaskBrushMaterial",
+				"/Engine/EditorLandscapeResources/MaskBrushMaterial_MaskedRegion"
+			]
+		},
+		{
+			"ShaderMapHash": "F24AD7F2B7F37244",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Masked"
+			]
+		},
+		{
+			"ShaderMapHash": "42A93EAEBAE2423A",
+			"Assets": [
+				"/InterchangeAssets/gltf/M_ClearCoat"
+			]
+		},
+		{
+			"ShaderMapHash": "FB9C4CD6BB4F494E",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/M_SimpleUnlitTranslucent"
+			]
+		},
+		{
+			"ShaderMapHash": "A6AB8FB1BD5F8892",
+			"Assets": [
+				"/Engine/EngineMaterials/M_InvalidLightmapSettings"
+			]
+		},
+		{
+			"ShaderMapHash": "35E46806C3247E4C",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_SpecularGlossiness_Blend_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "6A7B0216C3808B19",
+			"Assets": [
+				"/Engine/EditorLandscapeResources/SelectBrushMaterial_SelectedRegion"
+			]
+		},
+		{
+			"ShaderMapHash": "345EBB6DC5BDDDCC",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Unlit_Opaque_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "FB3B9695C5FB9BA1",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_ClearCoat_Blend_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "F68D3F07C768FE45",
+			"Assets": [
+				"/Engine/EngineMaterials/FlattenMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "1B93FB01C86B8842",
+			"Assets": [
+				"/InterchangeAssets/gltf/M_Transmission"
+			]
+		},
+		{
+			"ShaderMapHash": "8DE820DACFCB058A",
+			"Assets": [
+				"/Engine/EditorMaterials/Dataflow/DataflowSelection"
+			]
+		},
+		{
+			"ShaderMapHash": "2DAEEDB8D01793D7",
+			"Assets": [
+				"/Engine/EditorMaterials/Cascade/CASC_ModuleDisable_MAT"
+			]
+		},
+		{
+			"ShaderMapHash": "F5C16829D3CCC6E0",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Unlit_Blend_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "67C89745D42D732B",
+			"Assets": [
+				"/MeshModelingToolsetExp/Materials/PointSetOverlaidComponentMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "78B54B79D5CB9013",
+			"Assets": [
+				"/Engine/EngineMaterials/GizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "B703C9EAD6CF95A4",
+			"Assets": [
+				"/InterchangeAssets/gltf/M_SpecularGlossiness"
+			]
+		},
+		{
+			"ShaderMapHash": "84CA8A90D94CDB30",
+			"Assets": [
+				"/Game/RozaFile/Outline3/M_Outline_Non_Glowing"
+			]
+		},
+		{
+			"ShaderMapHash": "EAA98FCBDAC661AE",
+			"Assets": [
+				"/Game/RozaFile/Outline/M_ToonOutline"
+			]
+		},
+		{
+			"ShaderMapHash": "CB2DFBFBDAEAA6AC",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/M_VolumeRenderSphereTracePP"
+			]
+		},
+		{
+			"ShaderMapHash": "DD8C0BBFDBC08E2B",
+			"Assets": [
+				"/Engine/EditorMaterials/Camera/CineMat"
+			]
+		},
+		{
+			"ShaderMapHash": "DE2FA0F7DDCDE77D",
+			"Assets": [
+				"/Game/RozaFile/ToonShader/M_ToonShaderColor"
+			]
+		},
+		{
+			"ShaderMapHash": "C48436C0DFE0BE88",
+			"Assets": [
+				"/Engine/EngineMaterials/RemoveSurfaceMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "22611A1FE6395527",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Default_Opaque_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "AB1492DBE8392E36",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_ClearCoat_Blend"
+			]
+		},
+		{
+			"ShaderMapHash": "8E6C4C09E87DFEA4",
+			"Assets": [
+				"/Game/RozaFile/Rozas_Tile_Collection_Try1/Base/M_ToonShader_Wall",
+				"/Game/RozaFile/ToonShader/M_ToonShader"
+			]
+		},
+		{
+			"ShaderMapHash": "6B6DC80DEC2F4D7E",
+			"Assets": [
+				"/Game/RozaFile/NewGrass/M_MeshGrass"
+			]
+		},
+		{
+			"ShaderMapHash": "57B3F47FED14A4F5",
+			"Assets": [
+				"/Engine/BasicShapes/BasicShapeMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "1DDF5CD8FAB7DE6C",
+			"Assets": [
+				"/Paper2D/DefaultSpriteMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "BD520FC8FBBFAE6E",
+			"Assets": [
+				"/SpeedTreeImporter/SpeedTree9/SpeedTreeMaster"
+			]
+		}
+	]
+}

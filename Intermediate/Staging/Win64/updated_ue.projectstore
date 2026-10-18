@@ -1,0 +1,18 @@
+{
+	"zenserver": {
+		"islocalhost": true,
+		"hostname": "[::1]",
+		"remotehostnames": [
+			"10.208.184.146",
+			"hostname://DESKTOP-NBAMORC"
+		],
+		"hostport": 8558,
+		"hostauth": {
+			"type": "password",
+			"username": "ue",
+			"password": "C0E59F6141897082554D41B0C8F83DF6"
+		},
+		"projectid": "CivilGameJamProject.93a29480",
+		"oplogid": "Windows"
+	}
+}
