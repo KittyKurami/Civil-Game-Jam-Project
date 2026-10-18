@@ -4477,3 +4477,777 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.10.18-02.08.14:882][654]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/RozaFile/Rozas_Tile_Collection_Try1/Sis/M_Plane_Inst_Auto6
 [2026.10.18-02.08.14:882][654]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/M_Plane_Inst_Auto681A53B734D9120672BB567AE69BF2CCD.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/Autosaves/Game/RozaFile/Rozas_Tile_Collection_Try1/Sis/M_Plane_Inst_Auto6.uasset'
 [2026.10.18-02.08.14:883][654]LogFileHelpers: Auto-saving content packages took 0.621
+[2026.10.18-02.08.53:234][930]LogSlate: Window 'Message' being destroyed
+[2026.10.18-02.08.53:242][930]Message dialog closed, result: Yes, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/RozaFile/Mountain/M_Snow.M_Snow
+(Selecting 'No' will cause all changes to be lost!)
+[2026.10.18-02.08.53:380][930]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2026.10.18-02.08.53:982][930]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2026.10.18-02.08.54:967][930]LogSlate: Window 'Message' being destroyed
+[2026.10.18-02.08.54:975][930]Message dialog closed, result: Yes, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/RozaFile/Mountain/Dark_Stone.Dark_Stone
+(Selecting 'No' will cause all changes to be lost!)
+[2026.10.18-02.08.55:104][930]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2026.10.18-02.08.55:808][930]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2026.10.18-02.08.56:362][930]LogSlate: Window 'Message' being destroyed
+[2026.10.18-02.08.56:370][930]Message dialog closed, result: Yes, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/RozaFile/Grass_Material/GrassMaterial.GrassMaterial
+(Selecting 'No' will cause all changes to be lost!)
+[2026.10.18-02.08.56:474][930]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2026.10.18-02.08.56:673][930]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2026.10.18-02.08.57:313][930]LogSlate: Window 'Message' being destroyed
+[2026.10.18-02.08.57:320][930]Message dialog closed, result: Yes, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/RozaFile/Rozas_Tile_Collection_Try1/BurnedForest/GrassMaterial_Base.GrassMaterial_Base
+(Selecting 'No' will cause all changes to be lost!)
+[2026.10.18-02.08.57:421][930]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2026.10.18-02.08.58:222][930]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2026.10.18-02.08.58:539][930]LogSlate: Window 'Message' being destroyed
+[2026.10.18-02.08.58:547][930]Message dialog closed, result: Yes, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/RozaFile/WaterShader/M_StylizedWater.M_StylizedWater
+(Selecting 'No' will cause all changes to be lost!)
+[2026.10.18-02.08.58:694][930]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2026.10.18-02.08.58:891][930]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2026.10.18-02.08.58:931][930]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2026.10.18-02.09.00:481][930]LogSlate: Window 'Save Content' being destroyed
+[2026.10.18-02.09.00:493][930]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.10.18-02.09.02:397][930]LogSlate: Window 'Save Level As' being destroyed
+[2026.10.18-02.09.02:412][930]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.91 sec (total: 5.66 sec)
+[2026.10.18-02.09.03:714][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2026.10.18-02.09.04:694][ 17]LogSlate: Window 'Save Content' being destroyed
+[2026.10.18-02.09.04:706][ 17]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.10.18-02.09.08:559][ 17]LogSlate: Window 'Save Level As' being destroyed
+[2026.10.18-02.09.08:571][ 17]LogFileHelpers: Saving Map: /Temp/Untitled_1
+[2026.10.18-02.09.08:831][ 17]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/RozaFile/Untitled] ([1] browsable assets)...
+[2026.10.18-02.09.08:831][ 17]OBJ SavePackage: Finished generating thumbnails for package [/Game/RozaFile/Untitled]
+[2026.10.18-02.09.08:906][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2026.10.18-02.09.08:926][ 17]LogSavePackage: Moving output files for package: /Game/RozaFile/Untitled
+[2026.10.18-02.09.08:927][ 17]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/Untitled0BED24F84717C91DF7E72EBCC909C850.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Content/RozaFile/Untitled.umap'
+[2026.10.18-02.09.08:956][ 17]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.10.18-02.09.09:000][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2026.10.18-02.09.09:026][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2026.10.18-02.09.09:050][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2026.10.18-02.09.09:053][ 17]LogFileHelpers: Saving Package: /Game/RozaFile/Untitled_HLOD0_Instancing
+[2026.10.18-02.09.09:053][ 17]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/RozaFile/Untitled_HLOD0_Instancing] ([1] browsable assets)...
+[2026.10.18-02.09.09:053][ 17]OBJ SavePackage: Finished generating thumbnails for package [/Game/RozaFile/Untitled_HLOD0_Instancing]
+[2026.10.18-02.09.09:061][ 17]LogSavePackage: Moving output files for package: /Game/RozaFile/Untitled_HLOD0_Instancing
+[2026.10.18-02.09.09:061][ 17]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/Untitled_HLOD0_Instancing9AB2F88B4AA5FF9F6C23C8BD93822452.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Content/RozaFile/Untitled_HLOD0_Instancing.uasset'
+[2026.10.18-02.09.09:062][ 17]LogFileHelpers: Saving Package: /Game/__ExternalActors__/RozaFile/Untitled/E/DC/O776GR1YQCZV5PEH14ZEF5
+[2026.10.18-02.09.09:075][ 17]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/RozaFile/Untitled/E/DC/O776GR1YQCZV5PEH14ZEF5
+[2026.10.18-02.09.09:075][ 17]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/O776GR1YQCZV5PEH14ZEF5F3135C5D4FD0901010052AAEE80E5AAD.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Content/__ExternalActors__/RozaFile/Untitled/E/DC/O776GR1YQCZV5PEH14ZEF5.uasset'
+[2026.10.18-02.09.09:079][ 17]LogFileHelpers: Saving Package: /Game/__ExternalObjects__/RozaFile/Untitled/3/56/RAK3E2ZHKJ18W0TI1SIM25
+[2026.10.18-02.09.09:086][ 17]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/RozaFile/Untitled/3/56/RAK3E2ZHKJ18W0TI1SIM25
+[2026.10.18-02.09.09:086][ 17]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/RAK3E2ZHKJ18W0TI1SIM25F9FF0BBD4ED0CAB07076FCBF95159908.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Content/__ExternalObjects__/RozaFile/Untitled/3/56/RAK3E2ZHKJ18W0TI1SIM25.uasset'
+[2026.10.18-02.09.09:087][ 17]LogFileHelpers: Saving Package: /Game/__ExternalObjects__/RozaFile/Untitled/2/HJ/I4B4BQ3SJMGBMUV4BMRPG3
+[2026.10.18-02.09.09:094][ 17]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/RozaFile/Untitled/2/HJ/I4B4BQ3SJMGBMUV4BMRPG3
+[2026.10.18-02.09.09:094][ 17]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/I4B4BQ3SJMGBMUV4BMRPG32E0A00114C2A94628AFF5E8E88085E37.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Content/__ExternalObjects__/RozaFile/Untitled/2/HJ/I4B4BQ3SJMGBMUV4BMRPG3.uasset'
+[2026.10.18-02.09.09:095][ 17]LogFileHelpers: Saving Package: /Game/__ExternalObjects__/RozaFile/Untitled/A/JO/ORB9YCL4DT9QIH0Q5JM7Y9
+[2026.10.18-02.09.09:102][ 17]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/RozaFile/Untitled/A/JO/ORB9YCL4DT9QIH0Q5JM7Y9
+[2026.10.18-02.09.09:102][ 17]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/ORB9YCL4DT9QIH0Q5JM7Y96AC7B3CD461ABC7D0FE1749F43939FBF.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Content/__ExternalObjects__/RozaFile/Untitled/A/JO/ORB9YCL4DT9QIH0Q5JM7Y9.uasset'
+[2026.10.18-02.09.09:103][ 17]LogFileHelpers: Saving Package: /Game/__ExternalObjects__/RozaFile/Untitled/4/VI/PAM8U0R80VUUQVB9BOLQ06
+[2026.10.18-02.09.09:109][ 17]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/RozaFile/Untitled/4/VI/PAM8U0R80VUUQVB9BOLQ06
+[2026.10.18-02.09.09:109][ 17]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/PAM8U0R80VUUQVB9BOLQ0611D4D3124F6EF5FD806DCFA1AFF29EAB.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Content/__ExternalObjects__/RozaFile/Untitled/4/VI/PAM8U0R80VUUQVB9BOLQ06.uasset'
+[2026.10.18-02.09.09:111][ 17]LogFileHelpers: Saving Package: /Game/__ExternalObjects__/RozaFile/Untitled/E/H7/IGIRIVN0RTTIV02QNRC8QE
+[2026.10.18-02.09.09:117][ 17]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/RozaFile/Untitled/E/H7/IGIRIVN0RTTIV02QNRC8QE
+[2026.10.18-02.09.09:117][ 17]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/IGIRIVN0RTTIV02QNRC8QEB838F8074663A69F1A7ACFB3365A95BD.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Content/__ExternalObjects__/RozaFile/Untitled/E/H7/IGIRIVN0RTTIV02QNRC8QE.uasset'
+[2026.10.18-02.09.09:118][ 17]LogFileHelpers: Saving Package: /Game/__ExternalActors__/RozaFile/Untitled/C/IG/7NKLM6DJ6XT9KOJ829XNNG
+[2026.10.18-02.09.09:184][ 17]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/RozaFile/Untitled/C/IG/7NKLM6DJ6XT9KOJ829XNNG
+[2026.10.18-02.09.09:184][ 17]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/7NKLM6DJ6XT9KOJ829XNNG6933BB3643060611C5830F97D2EA9329.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Content/__ExternalActors__/RozaFile/Untitled/C/IG/7NKLM6DJ6XT9KOJ829XNNG.uasset'
+[2026.10.18-02.09.09:187][ 17]LogFileHelpers: Saving Package: /Game/__ExternalActors__/RozaFile/Untitled/1/W9/3S9Z6W306VKGCUD1XBKUUI
+[2026.10.18-02.09.09:196][ 17]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/RozaFile/Untitled/1/W9/3S9Z6W306VKGCUD1XBKUUI
+[2026.10.18-02.09.09:196][ 17]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/3S9Z6W306VKGCUD1XBKUUIF7433AED4ACBDC0E86084488C0B8BE48.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Content/__ExternalActors__/RozaFile/Untitled/1/W9/3S9Z6W306VKGCUD1XBKUUI.uasset'
+[2026.10.18-02.09.09:197][ 17]LogFileHelpers: Saving Package: /Game/__ExternalActors__/RozaFile/Untitled/0/8P/07J8VC3MO7WCT4GJT9JHWX
+[2026.10.18-02.09.09:205][ 17]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/RozaFile/Untitled/0/8P/07J8VC3MO7WCT4GJT9JHWX
+[2026.10.18-02.09.09:205][ 17]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/07J8VC3MO7WCT4GJT9JHWX36A54A8A4C73DCE44B8FF6A8D6E102DD.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Content/__ExternalActors__/RozaFile/Untitled/0/8P/07J8VC3MO7WCT4GJT9JHWX.uasset'
+[2026.10.18-02.09.09:206][ 17]LogFileHelpers: Saving Package: /Game/__ExternalActors__/RozaFile/Untitled/1/7A/I0L78UOX85XRUZWHME363I
+[2026.10.18-02.09.09:214][ 17]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/RozaFile/Untitled/1/7A/I0L78UOX85XRUZWHME363I
+[2026.10.18-02.09.09:214][ 17]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/I0L78UOX85XRUZWHME363IBCD5AE094631081282169D83AA16C8F3.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Content/__ExternalActors__/RozaFile/Untitled/1/7A/I0L78UOX85XRUZWHME363I.uasset'
+[2026.10.18-02.09.09:216][ 17]LogFileHelpers: Saving Package: /Game/__ExternalActors__/RozaFile/Untitled/0/MK/BVWEQ6YDYD45JAJ534AVV6
+[2026.10.18-02.09.09:223][ 17]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/RozaFile/Untitled/0/MK/BVWEQ6YDYD45JAJ534AVV6
+[2026.10.18-02.09.09:223][ 17]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/BVWEQ6YDYD45JAJ534AVV6C8AC537B432BFED6A40DF8AF114B3B1E.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Content/__ExternalActors__/RozaFile/Untitled/0/MK/BVWEQ6YDYD45JAJ534AVV6.uasset'
+[2026.10.18-02.09.09:224][ 17]LogFileHelpers: Saving Package: /Game/__ExternalActors__/RozaFile/Untitled/0/RN/FGEX5Q4IP7I0W0AJT9AI99
+[2026.10.18-02.09.09:229][ 17]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/RozaFile/Untitled/0/RN/FGEX5Q4IP7I0W0AJT9AI99
+[2026.10.18-02.09.09:229][ 17]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/FGEX5Q4IP7I0W0AJT9AI9925875C83444823F138745880E6BD761C.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Content/__ExternalActors__/RozaFile/Untitled/0/RN/FGEX5Q4IP7I0W0AJT9AI99.uasset'
+[2026.10.18-02.09.09:231][ 17]LogFileHelpers: Saving Package: /Game/__ExternalActors__/RozaFile/Untitled/4/0A/NDBRVUQGO169TFW8OW0Y2Z
+[2026.10.18-02.09.09:237][ 17]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/RozaFile/Untitled/4/0A/NDBRVUQGO169TFW8OW0Y2Z
+[2026.10.18-02.09.09:237][ 17]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/NDBRVUQGO169TFW8OW0Y2Z7EAD6F6049C92BA411F81CA79B33233A.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Content/__ExternalActors__/RozaFile/Untitled/4/0A/NDBRVUQGO169TFW8OW0Y2Z.uasset'
+[2026.10.18-02.09.09:238][ 17]LogFileHelpers: Saving Package: /Game/__ExternalActors__/RozaFile/Untitled/0/OI/O878FCU05EEPQ0VDQADKIM
+[2026.10.18-02.09.16:934][ 17]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/RozaFile/Untitled/0/OI/O878FCU05EEPQ0VDQADKIM
+[2026.10.18-02.09.16:934][ 17]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/O878FCU05EEPQ0VDQADKIME1770D4943117F67170A65B429BAD6AF.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Content/__ExternalActors__/RozaFile/Untitled/0/OI/O878FCU05EEPQ0VDQADKIM.uasset'
+[2026.10.18-02.09.16:937][ 17]LogFileHelpers: Saving Package: /Game/__ExternalActors__/RozaFile/Untitled/8/MU/TX6UJN3A2ZZJI7E8J0HLKS
+[2026.10.18-02.09.16:947][ 17]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/RozaFile/Untitled/8/MU/TX6UJN3A2ZZJI7E8J0HLKS
+[2026.10.18-02.09.16:947][ 17]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/TX6UJN3A2ZZJI7E8J0HLKS9506C71C48D2CE00DDB865A47A60ED34.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Content/__ExternalActors__/RozaFile/Untitled/8/MU/TX6UJN3A2ZZJI7E8J0HLKS.uasset'
+[2026.10.18-02.09.16:950][ 17]LogFileHelpers: Saving Package: /Game/__ExternalActors__/RozaFile/Untitled/7/UI/99CSW844WJSNMLWFD05FS8
+[2026.10.18-02.09.16:985][ 17]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/RozaFile/Untitled/7/UI/99CSW844WJSNMLWFD05FS8
+[2026.10.18-02.09.16:985][ 17]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/99CSW844WJSNMLWFD05FS86B251C5F456DA6058FB5CF92705B8DF2.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Content/__ExternalActors__/RozaFile/Untitled/7/UI/99CSW844WJSNMLWFD05FS8.uasset'
+[2026.10.18-02.09.16:988][ 17]LogFileHelpers: Saving Package: /Game/__ExternalActors__/RozaFile/Untitled/5/WR/ICIX2MR4YRTCXWAQTLVEB7
+[2026.10.18-02.09.17:015][ 17]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/RozaFile/Untitled/5/WR/ICIX2MR4YRTCXWAQTLVEB7
+[2026.10.18-02.09.17:015][ 17]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/ICIX2MR4YRTCXWAQTLVEB7957C3AFF4CF3FC59816CE0A5E1D31F57.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Content/__ExternalActors__/RozaFile/Untitled/5/WR/ICIX2MR4YRTCXWAQTLVEB7.uasset'
+[2026.10.18-02.09.17:018][ 17]LogFileHelpers: Saving Package: /Game/__ExternalActors__/RozaFile/Untitled/B/2Q/PZGMZQT7WGQOS609WQCQZA
+[2026.10.18-02.09.17:047][ 17]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/RozaFile/Untitled/B/2Q/PZGMZQT7WGQOS609WQCQZA
+[2026.10.18-02.09.17:047][ 17]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/PZGMZQT7WGQOS609WQCQZA4DF1154B4CBABC88A42DBCAC608945CB.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Content/__ExternalActors__/RozaFile/Untitled/B/2Q/PZGMZQT7WGQOS609WQCQZA.uasset'
+[2026.10.18-02.09.17:048][ 17]LogFileHelpers: Saving Package: /Game/__ExternalActors__/RozaFile/Untitled/E/OH/YMBVCJCLWXRL6CSMMBR6RZ
+[2026.10.18-02.09.17:077][ 17]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/RozaFile/Untitled/E/OH/YMBVCJCLWXRL6CSMMBR6RZ
+[2026.10.18-02.09.17:077][ 17]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/YMBVCJCLWXRL6CSMMBR6RZ5AD019E1440516607FDE95AF214DCF4A.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Content/__ExternalActors__/RozaFile/Untitled/E/OH/YMBVCJCLWXRL6CSMMBR6RZ.uasset'
+[2026.10.18-02.09.17:079][ 17]LogFileHelpers: Saving Package: /Game/__ExternalActors__/RozaFile/Untitled/7/0C/8W7YX4MTARFXPQVLQY4L5B
+[2026.10.18-02.09.17:104][ 17]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/RozaFile/Untitled/7/0C/8W7YX4MTARFXPQVLQY4L5B
+[2026.10.18-02.09.17:104][ 17]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/8W7YX4MTARFXPQVLQY4L5B011CC6DC4764FF619C1E52A5A23B852A.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Content/__ExternalActors__/RozaFile/Untitled/7/0C/8W7YX4MTARFXPQVLQY4L5B.uasset'
+[2026.10.18-02.09.17:106][ 17]LogFileHelpers: Saving Package: /Game/__ExternalActors__/RozaFile/Untitled/9/NE/H8QC8XM3FMKK0BUTYH82OR
+[2026.10.18-02.09.17:131][ 17]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/RozaFile/Untitled/9/NE/H8QC8XM3FMKK0BUTYH82OR
+[2026.10.18-02.09.17:131][ 17]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/H8QC8XM3FMKK0BUTYH82OR7EBAC1D4409133C0E2EBD5AA2A83DA24.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Content/__ExternalActors__/RozaFile/Untitled/9/NE/H8QC8XM3FMKK0BUTYH82OR.uasset'
+[2026.10.18-02.09.17:133][ 17]LogFileHelpers: Saving Package: /Game/__ExternalActors__/RozaFile/Untitled/6/HR/K4CT2ANUSZ60OJJQSE8RCC
+[2026.10.18-02.09.17:155][ 17]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/RozaFile/Untitled/6/HR/K4CT2ANUSZ60OJJQSE8RCC
+[2026.10.18-02.09.17:155][ 17]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/K4CT2ANUSZ60OJJQSE8RCCD54E3F0D43BB0FA5175A13AAA828BE34.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Content/__ExternalActors__/RozaFile/Untitled/6/HR/K4CT2ANUSZ60OJJQSE8RCC.uasset'
+[2026.10.18-02.09.17:156][ 17]LogFileHelpers: Saving Package: /Game/__ExternalActors__/RozaFile/Untitled/5/HR/I7NB5VBL6D2O18URALR288
+[2026.10.18-02.09.17:183][ 17]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/RozaFile/Untitled/5/HR/I7NB5VBL6D2O18URALR288
+[2026.10.18-02.09.17:183][ 17]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/I7NB5VBL6D2O18URALR28859B4265B47F7A8899D1FBA851A7FB6E8.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Content/__ExternalActors__/RozaFile/Untitled/5/HR/I7NB5VBL6D2O18URALR288.uasset'
+[2026.10.18-02.09.17:185][ 17]LogFileHelpers: Saving Package: /Game/__ExternalActors__/RozaFile/Untitled/1/TP/JCL1AXIK7E594PVPM825K5
+[2026.10.18-02.09.17:210][ 17]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/RozaFile/Untitled/1/TP/JCL1AXIK7E594PVPM825K5
+[2026.10.18-02.09.17:210][ 17]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/JCL1AXIK7E594PVPM825K5010130C5492DA4E81CB23BB64399E984.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Content/__ExternalActors__/RozaFile/Untitled/1/TP/JCL1AXIK7E594PVPM825K5.uasset'
+[2026.10.18-02.09.17:212][ 17]LogFileHelpers: Saving Package: /Game/__ExternalActors__/RozaFile/Untitled/D/7U/V63LHOZJJAHDDU0WBTL41W
+[2026.10.18-02.09.17:237][ 17]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/RozaFile/Untitled/D/7U/V63LHOZJJAHDDU0WBTL41W
+[2026.10.18-02.09.17:237][ 17]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/V63LHOZJJAHDDU0WBTL41W02770F534F7F3AA4E18411966BBBCAC4.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Content/__ExternalActors__/RozaFile/Untitled/D/7U/V63LHOZJJAHDDU0WBTL41W.uasset'
+[2026.10.18-02.09.17:238][ 17]LogFileHelpers: Saving Package: /Game/__ExternalActors__/RozaFile/Untitled/1/9F/NLLUPN09LICET51Z5JEIJJ
+[2026.10.18-02.09.17:265][ 17]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/RozaFile/Untitled/1/9F/NLLUPN09LICET51Z5JEIJJ
+[2026.10.18-02.09.17:265][ 17]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/NLLUPN09LICET51Z5JEIJJA305D53F439B8ED8002C16AD39799F73.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Content/__ExternalActors__/RozaFile/Untitled/1/9F/NLLUPN09LICET51Z5JEIJJ.uasset'
+[2026.10.18-02.09.17:268][ 17]LogFileHelpers: Saving Package: /Game/__ExternalActors__/RozaFile/Untitled/0/BM/VTR40LXQ72FOC6DRXCZISX
+[2026.10.18-02.09.17:297][ 17]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/RozaFile/Untitled/0/BM/VTR40LXQ72FOC6DRXCZISX
+[2026.10.18-02.09.17:297][ 17]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/VTR40LXQ72FOC6DRXCZISX6CC381AA4B86A6D831B6AAB075A95F3C.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Content/__ExternalActors__/RozaFile/Untitled/0/BM/VTR40LXQ72FOC6DRXCZISX.uasset'
+[2026.10.18-02.09.17:298][ 17]LogFileHelpers: Saving Package: /Game/__ExternalActors__/RozaFile/Untitled/D/TK/ZRG08MCNGPKD2H4XINL181
+[2026.10.18-02.09.17:324][ 17]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/RozaFile/Untitled/D/TK/ZRG08MCNGPKD2H4XINL181
+[2026.10.18-02.09.17:324][ 17]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/ZRG08MCNGPKD2H4XINL1815C92510E4563E9979C7E8ABA6A86DE44.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Content/__ExternalActors__/RozaFile/Untitled/D/TK/ZRG08MCNGPKD2H4XINL181.uasset'
+[2026.10.18-02.09.17:326][ 17]LogFileHelpers: Saving Package: /Game/__ExternalActors__/RozaFile/Untitled/8/Z2/EUMM94TNZNHFQ7BSIRFZRZ
+[2026.10.18-02.09.17:352][ 17]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/RozaFile/Untitled/8/Z2/EUMM94TNZNHFQ7BSIRFZRZ
+[2026.10.18-02.09.17:352][ 17]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/EUMM94TNZNHFQ7BSIRFZRZ8296318F4D99A8487DED9AAA110667E5.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Content/__ExternalActors__/RozaFile/Untitled/8/Z2/EUMM94TNZNHFQ7BSIRFZRZ.uasset'
+[2026.10.18-02.09.17:354][ 17]LogFileHelpers: Saving Package: /Game/__ExternalActors__/RozaFile/Untitled/E/FH/N2BVCMVNLFWOM07TZABNJS
+[2026.10.18-02.09.17:378][ 17]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/RozaFile/Untitled/E/FH/N2BVCMVNLFWOM07TZABNJS
+[2026.10.18-02.09.17:378][ 17]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/N2BVCMVNLFWOM07TZABNJS22BDB11D46A67F31ECA6D488B2DC1EBC.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Content/__ExternalActors__/RozaFile/Untitled/E/FH/N2BVCMVNLFWOM07TZABNJS.uasset'
+[2026.10.18-02.09.17:380][ 17]LogFileHelpers: Saving Package: /Game/__ExternalActors__/RozaFile/Untitled/D/S0/6D7SGPNJ3SKCA6O4OZ9M5S
+[2026.10.18-02.09.17:404][ 17]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/RozaFile/Untitled/D/S0/6D7SGPNJ3SKCA6O4OZ9M5S
+[2026.10.18-02.09.17:404][ 17]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/6D7SGPNJ3SKCA6O4OZ9M5SDA168E3C43AE266C826C9EBC7D4B2FD0.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Content/__ExternalActors__/RozaFile/Untitled/D/S0/6D7SGPNJ3SKCA6O4OZ9M5S.uasset'
+[2026.10.18-02.09.17:405][ 17]LogFileHelpers: Saving Package: /Game/__ExternalActors__/RozaFile/Untitled/E/IG/UXK6NGA3JE27PE36UVMTHW
+[2026.10.18-02.09.17:430][ 17]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/RozaFile/Untitled/E/IG/UXK6NGA3JE27PE36UVMTHW
+[2026.10.18-02.09.17:430][ 17]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/UXK6NGA3JE27PE36UVMTHW7B63EBC04DC1FF211769F29F3A1E07CE.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Content/__ExternalActors__/RozaFile/Untitled/E/IG/UXK6NGA3JE27PE36UVMTHW.uasset'
+[2026.10.18-02.09.17:431][ 17]LogFileHelpers: Saving Package: /Game/__ExternalActors__/RozaFile/Untitled/0/6O/QS6M7RHKS0NYIHDNYIOSKD
+[2026.10.18-02.09.17:455][ 17]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/RozaFile/Untitled/0/6O/QS6M7RHKS0NYIHDNYIOSKD
+[2026.10.18-02.09.17:455][ 17]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/QS6M7RHKS0NYIHDNYIOSKDA32F995B470660014114EC930CFA3F93.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Content/__ExternalActors__/RozaFile/Untitled/0/6O/QS6M7RHKS0NYIHDNYIOSKD.uasset'
+[2026.10.18-02.09.17:457][ 17]LogFileHelpers: Saving Package: /Game/__ExternalActors__/RozaFile/Untitled/2/DP/1M4N8YZ6LWYBPQ1ECYRQQO
+[2026.10.18-02.09.17:483][ 17]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/RozaFile/Untitled/2/DP/1M4N8YZ6LWYBPQ1ECYRQQO
+[2026.10.18-02.09.17:483][ 17]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/1M4N8YZ6LWYBPQ1ECYRQQO1FCF94884089FF7D87C1AD8372BEAB9A.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Content/__ExternalActors__/RozaFile/Untitled/2/DP/1M4N8YZ6LWYBPQ1ECYRQQO.uasset'
+[2026.10.18-02.09.17:484][ 17]LogFileHelpers: Saving Package: /Game/__ExternalActors__/RozaFile/Untitled/3/0A/6PGPW50ZTBCBTCGRZDZ3RW
+[2026.10.18-02.09.17:509][ 17]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/RozaFile/Untitled/3/0A/6PGPW50ZTBCBTCGRZDZ3RW
+[2026.10.18-02.09.17:509][ 17]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/6PGPW50ZTBCBTCGRZDZ3RWC4F1A9424775F15D069F5E8D2D64D9A2.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Content/__ExternalActors__/RozaFile/Untitled/3/0A/6PGPW50ZTBCBTCGRZDZ3RW.uasset'
+[2026.10.18-02.09.17:511][ 17]LogFileHelpers: Saving Package: /Game/__ExternalActors__/RozaFile/Untitled/1/S2/OEUT9OLZWJ7MX30QDJK1OY
+[2026.10.18-02.09.17:533][ 17]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/RozaFile/Untitled/1/S2/OEUT9OLZWJ7MX30QDJK1OY
+[2026.10.18-02.09.17:533][ 17]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/OEUT9OLZWJ7MX30QDJK1OY2910A24A4A3C7764CDAB398F3E1E2308.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Content/__ExternalActors__/RozaFile/Untitled/1/S2/OEUT9OLZWJ7MX30QDJK1OY.uasset'
+[2026.10.18-02.09.17:536][ 17]LogFileHelpers: Saving Package: /Game/__ExternalActors__/RozaFile/Untitled/9/18/CCG3GZ4YMD3PGS8SI4DFJM
+[2026.10.18-02.09.17:562][ 17]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/RozaFile/Untitled/9/18/CCG3GZ4YMD3PGS8SI4DFJM
+[2026.10.18-02.09.17:562][ 17]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/CCG3GZ4YMD3PGS8SI4DFJM7257C68E410FCC6027C05487E24877E6.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Content/__ExternalActors__/RozaFile/Untitled/9/18/CCG3GZ4YMD3PGS8SI4DFJM.uasset'
+[2026.10.18-02.09.17:563][ 17]LogFileHelpers: Saving Package: /Game/__ExternalActors__/RozaFile/Untitled/A/B0/IUZRC00B2J12A9VQ63QFOV
+[2026.10.18-02.09.17:588][ 17]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/RozaFile/Untitled/A/B0/IUZRC00B2J12A9VQ63QFOV
+[2026.10.18-02.09.17:588][ 17]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/IUZRC00B2J12A9VQ63QFOVD06F4FB747D6FA977CC20EAD44CF1AD2.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Content/__ExternalActors__/RozaFile/Untitled/A/B0/IUZRC00B2J12A9VQ63QFOV.uasset'
+[2026.10.18-02.09.17:590][ 17]LogFileHelpers: Saving Package: /Game/__ExternalActors__/RozaFile/Untitled/9/3B/S5OM8C2V5N7RGX9L51ZGDX
+[2026.10.18-02.09.17:616][ 17]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/RozaFile/Untitled/9/3B/S5OM8C2V5N7RGX9L51ZGDX
+[2026.10.18-02.09.17:616][ 17]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/S5OM8C2V5N7RGX9L51ZGDX74574ECE43EDC4949FC53EA15481CE56.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Content/__ExternalActors__/RozaFile/Untitled/9/3B/S5OM8C2V5N7RGX9L51ZGDX.uasset'
+[2026.10.18-02.09.17:618][ 17]LogFileHelpers: Saving Package: /Game/__ExternalActors__/RozaFile/Untitled/8/T8/B9K4HOIJ5FQYXW0UDSXOO0
+[2026.10.18-02.09.17:642][ 17]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/RozaFile/Untitled/8/T8/B9K4HOIJ5FQYXW0UDSXOO0
+[2026.10.18-02.09.17:642][ 17]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/B9K4HOIJ5FQYXW0UDSXOO0CE7D69104B7DB2712EEB678D12833694.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Content/__ExternalActors__/RozaFile/Untitled/8/T8/B9K4HOIJ5FQYXW0UDSXOO0.uasset'
+[2026.10.18-02.09.17:644][ 17]LogFileHelpers: Saving Package: /Game/__ExternalActors__/RozaFile/Untitled/2/9I/WUW7WYM9Z56K6X0SR0CZ6E
+[2026.10.18-02.09.17:672][ 17]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/RozaFile/Untitled/2/9I/WUW7WYM9Z56K6X0SR0CZ6E
+[2026.10.18-02.09.17:672][ 17]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/WUW7WYM9Z56K6X0SR0CZ6EFF459A38483668938D027B8C8DED2135.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Content/__ExternalActors__/RozaFile/Untitled/2/9I/WUW7WYM9Z56K6X0SR0CZ6E.uasset'
+[2026.10.18-02.09.17:673][ 17]LogFileHelpers: Saving Package: /Game/__ExternalActors__/RozaFile/Untitled/3/AO/YTN030WWQS8Y2DS25N1NNN
+[2026.10.18-02.09.17:697][ 17]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/RozaFile/Untitled/3/AO/YTN030WWQS8Y2DS25N1NNN
+[2026.10.18-02.09.17:697][ 17]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/YTN030WWQS8Y2DS25N1NNN5785C4B14D4EB8E30FA337A741D05850.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Content/__ExternalActors__/RozaFile/Untitled/3/AO/YTN030WWQS8Y2DS25N1NNN.uasset'
+[2026.10.18-02.09.17:699][ 17]LogFileHelpers: Saving Package: /Game/__ExternalActors__/RozaFile/Untitled/C/1W/S8QZQ0FUCWN8DND6R5BXVB
+[2026.10.18-02.09.17:723][ 17]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/RozaFile/Untitled/C/1W/S8QZQ0FUCWN8DND6R5BXVB
+[2026.10.18-02.09.17:724][ 17]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/S8QZQ0FUCWN8DND6R5BXVB4C3A2A114FF0F4DEF4CABDB4E83F2A11.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Content/__ExternalActors__/RozaFile/Untitled/C/1W/S8QZQ0FUCWN8DND6R5BXVB.uasset'
+[2026.10.18-02.09.17:725][ 17]LogFileHelpers: Saving Package: /Game/__ExternalActors__/RozaFile/Untitled/2/IF/WLBBP93LAKUYBHJ9HRBD57
+[2026.10.18-02.09.17:751][ 17]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/RozaFile/Untitled/2/IF/WLBBP93LAKUYBHJ9HRBD57
+[2026.10.18-02.09.17:751][ 17]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/WLBBP93LAKUYBHJ9HRBD57569AF90E48C42F9FFF353981F220149B.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Content/__ExternalActors__/RozaFile/Untitled/2/IF/WLBBP93LAKUYBHJ9HRBD57.uasset'
+[2026.10.18-02.09.17:752][ 17]LogFileHelpers: Saving Package: /Game/__ExternalActors__/RozaFile/Untitled/0/ZO/GC8RPIRT5PUX3E7HDGA490
+[2026.10.18-02.09.17:778][ 17]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/RozaFile/Untitled/0/ZO/GC8RPIRT5PUX3E7HDGA490
+[2026.10.18-02.09.17:778][ 17]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/GC8RPIRT5PUX3E7HDGA4901EAEE7794A0E01BF018CF6BC82C5097A.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Content/__ExternalActors__/RozaFile/Untitled/0/ZO/GC8RPIRT5PUX3E7HDGA490.uasset'
+[2026.10.18-02.09.17:780][ 17]LogFileHelpers: Saving Package: /Game/__ExternalActors__/RozaFile/Untitled/B/C6/6LYDE1SRVCMIOJ5SSNUONR
+[2026.10.18-02.09.17:806][ 17]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/RozaFile/Untitled/B/C6/6LYDE1SRVCMIOJ5SSNUONR
+[2026.10.18-02.09.17:806][ 17]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/6LYDE1SRVCMIOJ5SSNUONRDA8A83244A8EE5CABCAA2A9BEBBCFCB1.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Content/__ExternalActors__/RozaFile/Untitled/B/C6/6LYDE1SRVCMIOJ5SSNUONR.uasset'
+[2026.10.18-02.09.17:807][ 17]LogFileHelpers: Saving Package: /Game/__ExternalActors__/RozaFile/Untitled/9/2E/Q41G9LTD4I6X612608D7VS
+[2026.10.18-02.09.17:833][ 17]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/RozaFile/Untitled/9/2E/Q41G9LTD4I6X612608D7VS
+[2026.10.18-02.09.17:833][ 17]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/Q41G9LTD4I6X612608D7VS6E6CFD88478759AD60FFCCB1734CB53F.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Content/__ExternalActors__/RozaFile/Untitled/9/2E/Q41G9LTD4I6X612608D7VS.uasset'
+[2026.10.18-02.09.17:835][ 17]LogFileHelpers: Saving Package: /Game/__ExternalActors__/RozaFile/Untitled/E/AR/1J6VY57X796VT26JCDFJ2M
+[2026.10.18-02.09.17:862][ 17]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/RozaFile/Untitled/E/AR/1J6VY57X796VT26JCDFJ2M
+[2026.10.18-02.09.17:862][ 17]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/1J6VY57X796VT26JCDFJ2M5E89B2B24AEF77328D57618020DDBC9C.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Content/__ExternalActors__/RozaFile/Untitled/E/AR/1J6VY57X796VT26JCDFJ2M.uasset'
+[2026.10.18-02.09.17:863][ 17]LogFileHelpers: Saving Package: /Game/__ExternalActors__/RozaFile/Untitled/8/6T/WIA63A5ABVXOAWH1L1YOMF
+[2026.10.18-02.09.17:888][ 17]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/RozaFile/Untitled/8/6T/WIA63A5ABVXOAWH1L1YOMF
+[2026.10.18-02.09.17:888][ 17]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/WIA63A5ABVXOAWH1L1YOMF7E4D23654997745F492CA99E8E6E0318.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Content/__ExternalActors__/RozaFile/Untitled/8/6T/WIA63A5ABVXOAWH1L1YOMF.uasset'
+[2026.10.18-02.09.17:889][ 17]LogFileHelpers: Saving Package: /Game/__ExternalActors__/RozaFile/Untitled/8/KI/NZTBOAQPVX3R7MKVQNOWGL
+[2026.10.18-02.09.17:916][ 17]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/RozaFile/Untitled/8/KI/NZTBOAQPVX3R7MKVQNOWGL
+[2026.10.18-02.09.17:916][ 17]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/NZTBOAQPVX3R7MKVQNOWGL8A42D969417B142DCE6A86A67DE4A625.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Content/__ExternalActors__/RozaFile/Untitled/8/KI/NZTBOAQPVX3R7MKVQNOWGL.uasset'
+[2026.10.18-02.09.17:918][ 17]LogFileHelpers: Saving Package: /Game/__ExternalActors__/RozaFile/Untitled/B/AA/A2QCUY1BG55KRM8X0WIT2V
+[2026.10.18-02.09.17:946][ 17]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/RozaFile/Untitled/B/AA/A2QCUY1BG55KRM8X0WIT2V
+[2026.10.18-02.09.17:946][ 17]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/A2QCUY1BG55KRM8X0WIT2V1B8E626C4F7F9B4E97C131BE01242256.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Content/__ExternalActors__/RozaFile/Untitled/B/AA/A2QCUY1BG55KRM8X0WIT2V.uasset'
+[2026.10.18-02.09.17:948][ 17]LogFileHelpers: Saving Package: /Game/__ExternalActors__/RozaFile/Untitled/D/XN/225I0S885478K1BLXCE3F2
+[2026.10.18-02.09.17:974][ 17]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/RozaFile/Untitled/D/XN/225I0S885478K1BLXCE3F2
+[2026.10.18-02.09.17:974][ 17]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/225I0S885478K1BLXCE3F2549ACF0A497EA4C4E9CA72978A4664BD.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Content/__ExternalActors__/RozaFile/Untitled/D/XN/225I0S885478K1BLXCE3F2.uasset'
+[2026.10.18-02.09.17:977][ 17]LogFileHelpers: Saving Package: /Game/__ExternalActors__/RozaFile/Untitled/A/9I/42NLDT3DDPQFYAEHJL3TND
+[2026.10.18-02.09.18:004][ 17]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/RozaFile/Untitled/A/9I/42NLDT3DDPQFYAEHJL3TND
+[2026.10.18-02.09.18:004][ 17]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/42NLDT3DDPQFYAEHJL3TNDFB8521D54CAB2F8FFA27E69FBA97235F.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Content/__ExternalActors__/RozaFile/Untitled/A/9I/42NLDT3DDPQFYAEHJL3TND.uasset'
+[2026.10.18-02.09.18:006][ 17]LogFileHelpers: Saving Package: /Game/__ExternalActors__/RozaFile/Untitled/E/FU/5FRD2OU6SJC0K5B9105SHG
+[2026.10.18-02.09.18:034][ 17]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/RozaFile/Untitled/E/FU/5FRD2OU6SJC0K5B9105SHG
+[2026.10.18-02.09.18:034][ 17]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/5FRD2OU6SJC0K5B9105SHG288C371E42409749C9AB66B8C719B125.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Content/__ExternalActors__/RozaFile/Untitled/E/FU/5FRD2OU6SJC0K5B9105SHG.uasset'
+[2026.10.18-02.09.18:035][ 17]LogFileHelpers: Saving Package: /Game/__ExternalActors__/RozaFile/Untitled/4/4Q/MHWUMQYARXUVFQEG372QQG
+[2026.10.18-02.09.18:063][ 17]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/RozaFile/Untitled/4/4Q/MHWUMQYARXUVFQEG372QQG
+[2026.10.18-02.09.18:064][ 17]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/MHWUMQYARXUVFQEG372QQGF5D9AAC14995AFA1EF8CD188A7EB9C63.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Content/__ExternalActors__/RozaFile/Untitled/4/4Q/MHWUMQYARXUVFQEG372QQG.uasset'
+[2026.10.18-02.09.18:066][ 17]LogFileHelpers: Saving Package: /Game/__ExternalActors__/RozaFile/Untitled/A/7X/8TM7I7W1O505KJ7QKNBG1D
+[2026.10.18-02.09.18:094][ 17]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/RozaFile/Untitled/A/7X/8TM7I7W1O505KJ7QKNBG1D
+[2026.10.18-02.09.18:094][ 17]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/8TM7I7W1O505KJ7QKNBG1D7451FFB5459FAB3C60911381CF9BBFB0.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Content/__ExternalActors__/RozaFile/Untitled/A/7X/8TM7I7W1O505KJ7QKNBG1D.uasset'
+[2026.10.18-02.09.18:096][ 17]LogFileHelpers: Saving Package: /Game/__ExternalActors__/RozaFile/Untitled/E/DL/5E8CQI61ZJ847RSBF1MRXD
+[2026.10.18-02.09.18:129][ 17]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/RozaFile/Untitled/E/DL/5E8CQI61ZJ847RSBF1MRXD
+[2026.10.18-02.09.18:129][ 17]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/5E8CQI61ZJ847RSBF1MRXD2C8BE79B4B47BC8167F4729378B47BB3.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Content/__ExternalActors__/RozaFile/Untitled/E/DL/5E8CQI61ZJ847RSBF1MRXD.uasset'
+[2026.10.18-02.09.18:130][ 17]LogFileHelpers: Saving Package: /Game/__ExternalActors__/RozaFile/Untitled/4/HI/IAMH1KE5HXDAWK2OB1G0P5
+[2026.10.18-02.09.18:169][ 17]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/RozaFile/Untitled/4/HI/IAMH1KE5HXDAWK2OB1G0P5
+[2026.10.18-02.09.18:169][ 17]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/IAMH1KE5HXDAWK2OB1G0P597D947964D7F57F08F480686BD5C0917.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Content/__ExternalActors__/RozaFile/Untitled/4/HI/IAMH1KE5HXDAWK2OB1G0P5.uasset'
+[2026.10.18-02.09.18:171][ 17]LogFileHelpers: Saving Package: /Game/__ExternalActors__/RozaFile/Untitled/C/D1/PS5BR3C150CN1TOY1F07TO
+[2026.10.18-02.09.18:214][ 17]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/RozaFile/Untitled/C/D1/PS5BR3C150CN1TOY1F07TO
+[2026.10.18-02.09.18:214][ 17]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/PS5BR3C150CN1TOY1F07TODD3F26CE4AFF9BB28772D7BC2163DFBB.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Content/__ExternalActors__/RozaFile/Untitled/C/D1/PS5BR3C150CN1TOY1F07TO.uasset'
+[2026.10.18-02.09.18:216][ 17]LogFileHelpers: Saving Package: /Game/__ExternalActors__/RozaFile/Untitled/E/PN/0Z6MU4UK5Y8TB48EWRM9WO
+[2026.10.18-02.09.18:253][ 17]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/RozaFile/Untitled/E/PN/0Z6MU4UK5Y8TB48EWRM9WO
+[2026.10.18-02.09.18:253][ 17]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/0Z6MU4UK5Y8TB48EWRM9WOAA542CB348DB0B3BB84864A5B65465CC.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Content/__ExternalActors__/RozaFile/Untitled/E/PN/0Z6MU4UK5Y8TB48EWRM9WO.uasset'
+[2026.10.18-02.09.18:255][ 17]LogFileHelpers: Saving Package: /Game/__ExternalActors__/RozaFile/Untitled/D/4Q/JW4MRZ605UAPBOE9V9W3QK
+[2026.10.18-02.09.18:291][ 17]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/RozaFile/Untitled/D/4Q/JW4MRZ605UAPBOE9V9W3QK
+[2026.10.18-02.09.18:291][ 17]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/JW4MRZ605UAPBOE9V9W3QK32B75E224DCACEAE7ED6FBA920A23472.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Content/__ExternalActors__/RozaFile/Untitled/D/4Q/JW4MRZ605UAPBOE9V9W3QK.uasset'
+[2026.10.18-02.09.18:292][ 17]LogFileHelpers: Saving Package: /Game/__ExternalActors__/RozaFile/Untitled/7/XA/SLWDFQKS04UK1V6KFVW28M
+[2026.10.18-02.09.18:325][ 17]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/RozaFile/Untitled/7/XA/SLWDFQKS04UK1V6KFVW28M
+[2026.10.18-02.09.18:325][ 17]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/SLWDFQKS04UK1V6KFVW28M81F6013848A34E094B2D0BB901AFA829.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Content/__ExternalActors__/RozaFile/Untitled/7/XA/SLWDFQKS04UK1V6KFVW28M.uasset'
+[2026.10.18-02.09.18:328][ 17]LogFileHelpers: Saving Package: /Game/__ExternalActors__/RozaFile/Untitled/0/AH/VBR4BR2A0VLZ7BHRW6JD6I
+[2026.10.18-02.09.18:357][ 17]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/RozaFile/Untitled/0/AH/VBR4BR2A0VLZ7BHRW6JD6I
+[2026.10.18-02.09.18:357][ 17]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/VBR4BR2A0VLZ7BHRW6JD6IC51E13A4489BE3C1A2C1128549316562.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Content/__ExternalActors__/RozaFile/Untitled/0/AH/VBR4BR2A0VLZ7BHRW6JD6I.uasset'
+[2026.10.18-02.09.18:358][ 17]LogFileHelpers: Saving Package: /Game/__ExternalActors__/RozaFile/Untitled/E/A4/EGUN66U68L4XZLD5WH7J4V
+[2026.10.18-02.09.18:388][ 17]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/RozaFile/Untitled/E/A4/EGUN66U68L4XZLD5WH7J4V
+[2026.10.18-02.09.18:388][ 17]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/EGUN66U68L4XZLD5WH7J4V599154CA45CFDF7959EF8DB56CE6E2E5.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Content/__ExternalActors__/RozaFile/Untitled/E/A4/EGUN66U68L4XZLD5WH7J4V.uasset'
+[2026.10.18-02.09.18:390][ 17]LogFileHelpers: Saving Package: /Game/__ExternalActors__/RozaFile/Untitled/3/83/4XRCPENJ8MS0W5H278YY25
+[2026.10.18-02.09.18:418][ 17]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/RozaFile/Untitled/3/83/4XRCPENJ8MS0W5H278YY25
+[2026.10.18-02.09.18:418][ 17]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/4XRCPENJ8MS0W5H278YY25A709D68041B83016A962FB8BABA8F8BD.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Content/__ExternalActors__/RozaFile/Untitled/3/83/4XRCPENJ8MS0W5H278YY25.uasset'
+[2026.10.18-02.09.18:420][ 17]LogFileHelpers: Saving Package: /Game/__ExternalActors__/RozaFile/Untitled/0/45/YUEI2QSQSC7ZKRFFQNYHPM
+[2026.10.18-02.09.18:447][ 17]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/RozaFile/Untitled/0/45/YUEI2QSQSC7ZKRFFQNYHPM
+[2026.10.18-02.09.18:447][ 17]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/YUEI2QSQSC7ZKRFFQNYHPM6A9B7C7A4B6BA0FF2D072E8AD976FBF4.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Content/__ExternalActors__/RozaFile/Untitled/0/45/YUEI2QSQSC7ZKRFFQNYHPM.uasset'
+[2026.10.18-02.09.18:448][ 17]LogFileHelpers: Saving Package: /Game/__ExternalActors__/RozaFile/Untitled/E/62/QYC1OB35B0IQSLK5NS52DR
+[2026.10.18-02.09.18:474][ 17]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/RozaFile/Untitled/E/62/QYC1OB35B0IQSLK5NS52DR
+[2026.10.18-02.09.18:474][ 17]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/QYC1OB35B0IQSLK5NS52DR064937D045A4E5BEF23DB6BDF347535C.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Content/__ExternalActors__/RozaFile/Untitled/E/62/QYC1OB35B0IQSLK5NS52DR.uasset'
+[2026.10.18-02.09.18:475][ 17]LogFileHelpers: Saving Package: /Game/__ExternalActors__/RozaFile/Untitled/1/7V/XO53UAQYF1HZSD8VKUE2H4
+[2026.10.18-02.09.18:500][ 17]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/RozaFile/Untitled/1/7V/XO53UAQYF1HZSD8VKUE2H4
+[2026.10.18-02.09.18:500][ 17]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/XO53UAQYF1HZSD8VKUE2H4467D1300438613BC103F10921166A068.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Content/__ExternalActors__/RozaFile/Untitled/1/7V/XO53UAQYF1HZSD8VKUE2H4.uasset'
+[2026.10.18-02.09.18:501][ 17]LogFileHelpers: Saving Package: /Game/__ExternalActors__/RozaFile/Untitled/C/FS/B3680DZOXQKWZBNEOHR134
+[2026.10.18-02.09.18:528][ 17]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/RozaFile/Untitled/C/FS/B3680DZOXQKWZBNEOHR134
+[2026.10.18-02.09.18:528][ 17]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/B3680DZOXQKWZBNEOHR1345A75DC7643782D4EA891FFB9094B5237.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Content/__ExternalActors__/RozaFile/Untitled/C/FS/B3680DZOXQKWZBNEOHR134.uasset'
+[2026.10.18-02.09.18:529][ 17]LogFileHelpers: Saving Package: /Game/__ExternalActors__/RozaFile/Untitled/E/KU/7C4OY1VOZKT4MG3U2H4XGK
+[2026.10.18-02.09.18:556][ 17]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/RozaFile/Untitled/E/KU/7C4OY1VOZKT4MG3U2H4XGK
+[2026.10.18-02.09.18:556][ 17]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/7C4OY1VOZKT4MG3U2H4XGK9AB5F02946B5654CB46D8BB41F59C700.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Content/__ExternalActors__/RozaFile/Untitled/E/KU/7C4OY1VOZKT4MG3U2H4XGK.uasset'
+[2026.10.18-02.09.18:558][ 17]LogFileHelpers: Saving Package: /Game/__ExternalActors__/RozaFile/Untitled/0/B6/K0WVZZOL0DBXHQF4LGNZRI
+[2026.10.18-02.09.18:585][ 17]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/RozaFile/Untitled/0/B6/K0WVZZOL0DBXHQF4LGNZRI
+[2026.10.18-02.09.18:587][ 17]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/K0WVZZOL0DBXHQF4LGNZRIC40E056846E80E59460A62896213C93C.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Content/__ExternalActors__/RozaFile/Untitled/0/B6/K0WVZZOL0DBXHQF4LGNZRI.uasset'
+[2026.10.18-02.09.18:588][ 17]LogFileHelpers: Saving Package: /Game/__ExternalActors__/RozaFile/Untitled/7/II/A1B7106U6VH6QF3O8W6W5W
+[2026.10.18-02.09.18:618][ 17]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/RozaFile/Untitled/7/II/A1B7106U6VH6QF3O8W6W5W
+[2026.10.18-02.09.18:618][ 17]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/A1B7106U6VH6QF3O8W6W5W5D73C5FE4AEAC8037B2872A5C6274F49.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Content/__ExternalActors__/RozaFile/Untitled/7/II/A1B7106U6VH6QF3O8W6W5W.uasset'
+[2026.10.18-02.09.18:620][ 17]LogFileHelpers: Saving Package: /Game/__ExternalActors__/RozaFile/Untitled/3/IK/SRWA49TFQLITO55DN6BIPK
+[2026.10.18-02.09.18:647][ 17]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/RozaFile/Untitled/3/IK/SRWA49TFQLITO55DN6BIPK
+[2026.10.18-02.09.18:647][ 17]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/SRWA49TFQLITO55DN6BIPKF580A05740EF09674D011D9F3FA8D924.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Content/__ExternalActors__/RozaFile/Untitled/3/IK/SRWA49TFQLITO55DN6BIPK.uasset'
+[2026.10.18-02.09.18:649][ 17]LogFileHelpers: Saving Package: /Game/__ExternalActors__/RozaFile/Untitled/5/EQ/8NO9PJSCGON7F2TEKV3R2T
+[2026.10.18-02.09.18:677][ 17]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/RozaFile/Untitled/5/EQ/8NO9PJSCGON7F2TEKV3R2T
+[2026.10.18-02.09.18:679][ 17]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/8NO9PJSCGON7F2TEKV3R2TE8332931437C5DFA36F67FA05617B0A7.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Content/__ExternalActors__/RozaFile/Untitled/5/EQ/8NO9PJSCGON7F2TEKV3R2T.uasset'
+[2026.10.18-02.09.18:680][ 17]LogFileHelpers: Saving Package: /Game/__ExternalActors__/RozaFile/Untitled/8/H6/MTGTUAMYEYIU4STFS68135
+[2026.10.18-02.09.18:707][ 17]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/RozaFile/Untitled/8/H6/MTGTUAMYEYIU4STFS68135
+[2026.10.18-02.09.18:707][ 17]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/MTGTUAMYEYIU4STFS68135B1EBF35C4FCD0B3E4E630E956E682F91.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Content/__ExternalActors__/RozaFile/Untitled/8/H6/MTGTUAMYEYIU4STFS68135.uasset'
+[2026.10.18-02.09.18:708][ 17]LogFileHelpers: Saving Package: /Game/__ExternalActors__/RozaFile/Untitled/4/K9/SAB3BUFC9FOGV1RLDBGPWF
+[2026.10.18-02.09.18:732][ 17]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/RozaFile/Untitled/4/K9/SAB3BUFC9FOGV1RLDBGPWF
+[2026.10.18-02.09.18:733][ 17]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/SAB3BUFC9FOGV1RLDBGPWFAA709B044C6AD179BB48D2B5DAEE8614.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Content/__ExternalActors__/RozaFile/Untitled/4/K9/SAB3BUFC9FOGV1RLDBGPWF.uasset'
+[2026.10.18-02.09.18:734][ 17]LogFileHelpers: Saving Package: /Game/__ExternalActors__/RozaFile/Untitled/E/3D/TZ6JDVMHFD0KK2INF11JZD
+[2026.10.18-02.09.18:758][ 17]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/RozaFile/Untitled/E/3D/TZ6JDVMHFD0KK2INF11JZD
+[2026.10.18-02.09.18:758][ 17]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/TZ6JDVMHFD0KK2INF11JZD3AA49C914B0823A18DCAE9BEFDF4EA70.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Content/__ExternalActors__/RozaFile/Untitled/E/3D/TZ6JDVMHFD0KK2INF11JZD.uasset'
+[2026.10.18-02.09.18:760][ 17]LogFileHelpers: Saving Package: /Game/__ExternalActors__/RozaFile/Untitled/8/F2/82YIMQ4DZS7XNHUOZYOOYN
+[2026.10.18-02.09.18:785][ 17]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/RozaFile/Untitled/8/F2/82YIMQ4DZS7XNHUOZYOOYN
+[2026.10.18-02.09.18:785][ 17]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/82YIMQ4DZS7XNHUOZYOOYNC7ED36BF441A7DAA778E33A7FB4D831C.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Content/__ExternalActors__/RozaFile/Untitled/8/F2/82YIMQ4DZS7XNHUOZYOOYN.uasset'
+[2026.10.18-02.09.18:786][ 17]LogFileHelpers: Saving Package: /Game/__ExternalActors__/RozaFile/Untitled/D/FV/5TXIUDIQQF4KSJL3OCZHU8
+[2026.10.18-02.09.18:812][ 17]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/RozaFile/Untitled/D/FV/5TXIUDIQQF4KSJL3OCZHU8
+[2026.10.18-02.09.18:812][ 17]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/5TXIUDIQQF4KSJL3OCZHU8E993745E4B3E002E13869983B6774F5C.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Content/__ExternalActors__/RozaFile/Untitled/D/FV/5TXIUDIQQF4KSJL3OCZHU8.uasset'
+[2026.10.18-02.09.18:813][ 17]LogFileHelpers: Saving Package: /Game/__ExternalActors__/RozaFile/Untitled/1/FI/MJ5XE9AD8VOI41JT1E5BCG
+[2026.10.18-02.09.18:831][ 17]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/RozaFile/Untitled/1/FI/MJ5XE9AD8VOI41JT1E5BCG
+[2026.10.18-02.09.18:831][ 17]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/MJ5XE9AD8VOI41JT1E5BCG308D415A43640500358FB8957BFFD742.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Content/__ExternalActors__/RozaFile/Untitled/1/FI/MJ5XE9AD8VOI41JT1E5BCG.uasset'
+[2026.10.18-02.09.18:832][ 17]LogFileHelpers: Saving Package: /Game/__ExternalActors__/RozaFile/Untitled/E/NY/0QFIUMD2X9M2BFSTE4REPZ
+[2026.10.18-02.09.18:853][ 17]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/RozaFile/Untitled/E/NY/0QFIUMD2X9M2BFSTE4REPZ
+[2026.10.18-02.09.18:853][ 17]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/0QFIUMD2X9M2BFSTE4REPZ2B6611B1448FA996431C6D9C63F73BA7.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Content/__ExternalActors__/RozaFile/Untitled/E/NY/0QFIUMD2X9M2BFSTE4REPZ.uasset'
+[2026.10.18-02.09.18:855][ 17]LogFileHelpers: Saving Package: /Game/__ExternalActors__/RozaFile/Untitled/7/F2/206VX12RCY0DG6BFOAKNH5
+[2026.10.18-02.09.18:874][ 17]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/RozaFile/Untitled/7/F2/206VX12RCY0DG6BFOAKNH5
+[2026.10.18-02.09.18:874][ 17]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/206VX12RCY0DG6BFOAKNH513B08393407BD59C5A6B959D0E892602.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Content/__ExternalActors__/RozaFile/Untitled/7/F2/206VX12RCY0DG6BFOAKNH5.uasset'
+[2026.10.18-02.09.18:876][ 17]LogFileHelpers: Saving Package: /Game/__ExternalActors__/RozaFile/Untitled/3/8V/7I8EVL06EM9JUX30D4K3Z4
+[2026.10.18-02.09.18:896][ 17]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/RozaFile/Untitled/3/8V/7I8EVL06EM9JUX30D4K3Z4
+[2026.10.18-02.09.18:896][ 17]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/7I8EVL06EM9JUX30D4K3Z46C465AA845C8F528E82E7CB12A0DE6B0.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Content/__ExternalActors__/RozaFile/Untitled/3/8V/7I8EVL06EM9JUX30D4K3Z4.uasset'
+[2026.10.18-02.09.18:897][ 17]LogFileHelpers: Saving Package: /Game/__ExternalActors__/RozaFile/Untitled/0/9I/6USP3N7XGTPCTHK7A9WZVT
+[2026.10.18-02.09.18:915][ 17]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/RozaFile/Untitled/0/9I/6USP3N7XGTPCTHK7A9WZVT
+[2026.10.18-02.09.18:915][ 17]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/6USP3N7XGTPCTHK7A9WZVT985AC86D4C39770B6FFA9D9E33C54F8E.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Content/__ExternalActors__/RozaFile/Untitled/0/9I/6USP3N7XGTPCTHK7A9WZVT.uasset'
+[2026.10.18-02.09.18:917][ 17]LogFileHelpers: Saving Package: /Game/__ExternalActors__/RozaFile/Untitled/6/YK/J3071WKL9JVYB5JPX88SI2
+[2026.10.18-02.09.18:936][ 17]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/RozaFile/Untitled/6/YK/J3071WKL9JVYB5JPX88SI2
+[2026.10.18-02.09.18:936][ 17]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/J3071WKL9JVYB5JPX88SI28C4B1ECF4D8F2583929E3F8811CE8363.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Content/__ExternalActors__/RozaFile/Untitled/6/YK/J3071WKL9JVYB5JPX88SI2.uasset'
+[2026.10.18-02.09.18:937][ 17]LogFileHelpers: Saving Package: /Game/__ExternalActors__/RozaFile/Untitled/B/UW/W3AE8NBVHKBT4NYRJ83WC6
+[2026.10.18-02.09.18:958][ 17]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/RozaFile/Untitled/B/UW/W3AE8NBVHKBT4NYRJ83WC6
+[2026.10.18-02.09.18:958][ 17]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/W3AE8NBVHKBT4NYRJ83WC697DCAD88410A6B505F7549B4EF07AFDF.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Content/__ExternalActors__/RozaFile/Untitled/B/UW/W3AE8NBVHKBT4NYRJ83WC6.uasset'
+[2026.10.18-02.09.18:960][ 17]LogFileHelpers: Saving Package: /Game/__ExternalActors__/RozaFile/Untitled/1/NF/6V4P8WICQFIHXQLGE16I7G
+[2026.10.18-02.09.18:977][ 17]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/RozaFile/Untitled/1/NF/6V4P8WICQFIHXQLGE16I7G
+[2026.10.18-02.09.18:978][ 17]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/6V4P8WICQFIHXQLGE16I7G68AC87D34311987A618C32966B5D62E5.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Content/__ExternalActors__/RozaFile/Untitled/1/NF/6V4P8WICQFIHXQLGE16I7G.uasset'
+[2026.10.18-02.09.18:980][ 17]LogFileHelpers: Saving Package: /Game/__ExternalActors__/RozaFile/Untitled/3/GX/802D8VC2Q77SKTGRQTFBGF
+[2026.10.18-02.09.18:997][ 17]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/RozaFile/Untitled/3/GX/802D8VC2Q77SKTGRQTFBGF
+[2026.10.18-02.09.18:997][ 17]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/802D8VC2Q77SKTGRQTFBGF1C1F73C24269942D5A5E828E35084711.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Content/__ExternalActors__/RozaFile/Untitled/3/GX/802D8VC2Q77SKTGRQTFBGF.uasset'
+[2026.10.18-02.09.18:999][ 17]LogFileHelpers: Saving Package: /Game/__ExternalActors__/RozaFile/Untitled/6/SU/6VIY5A5FTX21Z0C98WLKZL
+[2026.10.18-02.09.19:015][ 17]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/RozaFile/Untitled/6/SU/6VIY5A5FTX21Z0C98WLKZL
+[2026.10.18-02.09.19:015][ 17]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/6VIY5A5FTX21Z0C98WLKZL0BA2992E4EAD6170C0E09C8BB7AF57D8.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Content/__ExternalActors__/RozaFile/Untitled/6/SU/6VIY5A5FTX21Z0C98WLKZL.uasset'
+[2026.10.18-02.09.19:016][ 17]LogFileHelpers: Saving Package: /Game/__ExternalActors__/RozaFile/Untitled/0/BQ/X2BFEZWVLUQ41I2QLXOADG
+[2026.10.18-02.09.19:033][ 17]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/RozaFile/Untitled/0/BQ/X2BFEZWVLUQ41I2QLXOADG
+[2026.10.18-02.09.19:034][ 17]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/X2BFEZWVLUQ41I2QLXOADGA998CCF94DC028708B41C0A2D89DC6B6.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Content/__ExternalActors__/RozaFile/Untitled/0/BQ/X2BFEZWVLUQ41I2QLXOADG.uasset'
+[2026.10.18-02.09.19:036][ 17]LogFileHelpers: Saving Package: /Game/__ExternalActors__/RozaFile/Untitled/2/9D/657Z4LNT9FEQHEA0Z2U49Q
+[2026.10.18-02.09.19:053][ 17]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/RozaFile/Untitled/2/9D/657Z4LNT9FEQHEA0Z2U49Q
+[2026.10.18-02.09.19:053][ 17]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/657Z4LNT9FEQHEA0Z2U49QCAED35E54AEBCBDBA5D995ADD4957B97.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Content/__ExternalActors__/RozaFile/Untitled/2/9D/657Z4LNT9FEQHEA0Z2U49Q.uasset'
+[2026.10.18-02.09.19:055][ 17]LogFileHelpers: Saving Package: /Game/__ExternalActors__/RozaFile/Untitled/7/1B/UCUAL02OFGLUM8D3LIBIUT
+[2026.10.18-02.09.19:071][ 17]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/RozaFile/Untitled/7/1B/UCUAL02OFGLUM8D3LIBIUT
+[2026.10.18-02.09.19:071][ 17]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/UCUAL02OFGLUM8D3LIBIUT0D02F7EA4A53A4AD11739EB2238870AB.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Content/__ExternalActors__/RozaFile/Untitled/7/1B/UCUAL02OFGLUM8D3LIBIUT.uasset'
+[2026.10.18-02.09.19:072][ 17]LogFileHelpers: Saving Package: /Game/__ExternalActors__/RozaFile/Untitled/B/01/0OK7CVMFMNU2Y4JC36DY1M
+[2026.10.18-02.09.19:089][ 17]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/RozaFile/Untitled/B/01/0OK7CVMFMNU2Y4JC36DY1M
+[2026.10.18-02.09.19:089][ 17]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/0OK7CVMFMNU2Y4JC36DY1M6044E00E4EACEB934917B0AE47F015BE.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Content/__ExternalActors__/RozaFile/Untitled/B/01/0OK7CVMFMNU2Y4JC36DY1M.uasset'
+[2026.10.18-02.09.19:090][ 17]LogFileHelpers: Saving Package: /Game/__ExternalActors__/RozaFile/Untitled/D/HQ/7NKH1AOG1TGYGMT7HVFECS
+[2026.10.18-02.09.19:105][ 17]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/RozaFile/Untitled/D/HQ/7NKH1AOG1TGYGMT7HVFECS
+[2026.10.18-02.09.19:105][ 17]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/7NKH1AOG1TGYGMT7HVFECS970E8D7745F93F88A0369888BCC71BCF.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Content/__ExternalActors__/RozaFile/Untitled/D/HQ/7NKH1AOG1TGYGMT7HVFECS.uasset'
+[2026.10.18-02.09.19:106][ 17]LogFileHelpers: Saving Package: /Game/__ExternalActors__/RozaFile/Untitled/6/TT/U4LAOGH4JTHORO5KM8T0RJ
+[2026.10.18-02.09.19:125][ 17]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/RozaFile/Untitled/6/TT/U4LAOGH4JTHORO5KM8T0RJ
+[2026.10.18-02.09.19:125][ 17]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/U4LAOGH4JTHORO5KM8T0RJB8EAD0A9400128B6B79513B75FD6AD9E.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Content/__ExternalActors__/RozaFile/Untitled/6/TT/U4LAOGH4JTHORO5KM8T0RJ.uasset'
+[2026.10.18-02.09.19:126][ 17]LogFileHelpers: Saving Package: /Game/__ExternalActors__/RozaFile/Untitled/2/HW/UTQBDAOCXE8B1M664KZCQM
+[2026.10.18-02.09.19:142][ 17]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/RozaFile/Untitled/2/HW/UTQBDAOCXE8B1M664KZCQM
+[2026.10.18-02.09.19:142][ 17]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/UTQBDAOCXE8B1M664KZCQM0EA901BA4FBE8D9F8F65BEBB00AEB2AF.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Content/__ExternalActors__/RozaFile/Untitled/2/HW/UTQBDAOCXE8B1M664KZCQM.uasset'
+[2026.10.18-02.09.19:144][ 17]LogFileHelpers: Saving Package: /Game/__ExternalActors__/RozaFile/Untitled/2/IM/TPVE928670OUCFHFH9AOJQ
+[2026.10.18-02.09.19:161][ 17]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/RozaFile/Untitled/2/IM/TPVE928670OUCFHFH9AOJQ
+[2026.10.18-02.09.19:161][ 17]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/TPVE928670OUCFHFH9AOJQ1EE2F7AD4912AB9E90A52BB28128BA8E.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Content/__ExternalActors__/RozaFile/Untitled/2/IM/TPVE928670OUCFHFH9AOJQ.uasset'
+[2026.10.18-02.09.19:162][ 17]LogFileHelpers: Saving Package: /Game/__ExternalActors__/RozaFile/Untitled/2/IV/FYWFTOZTFHGY3VUXVT1VMY
+[2026.10.18-02.09.19:177][ 17]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/RozaFile/Untitled/2/IV/FYWFTOZTFHGY3VUXVT1VMY
+[2026.10.18-02.09.19:177][ 17]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/FYWFTOZTFHGY3VUXVT1VMYDC12D79943BCC833EF1C50B8899695A6.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Content/__ExternalActors__/RozaFile/Untitled/2/IV/FYWFTOZTFHGY3VUXVT1VMY.uasset'
+[2026.10.18-02.09.19:179][ 17]LogFileHelpers: Saving Package: /Game/__ExternalActors__/RozaFile/Untitled/A/1R/B5NIPBL3BBMGSAG37EMC5J
+[2026.10.18-02.09.19:193][ 17]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/RozaFile/Untitled/A/1R/B5NIPBL3BBMGSAG37EMC5J
+[2026.10.18-02.09.19:193][ 17]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/B5NIPBL3BBMGSAG37EMC5J371CA0AD47C81ED9499B66A08402E0B5.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Content/__ExternalActors__/RozaFile/Untitled/A/1R/B5NIPBL3BBMGSAG37EMC5J.uasset'
+[2026.10.18-02.09.19:194][ 17]LogFileHelpers: Saving Package: /Game/__ExternalActors__/RozaFile/Untitled/0/4B/LV5GKY4OQ8S26W0MXMHO5Q
+[2026.10.18-02.09.19:208][ 17]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/RozaFile/Untitled/0/4B/LV5GKY4OQ8S26W0MXMHO5Q
+[2026.10.18-02.09.19:208][ 17]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/LV5GKY4OQ8S26W0MXMHO5Q53317C3149E9D44A8EFC39A88709FE9A.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Content/__ExternalActors__/RozaFile/Untitled/0/4B/LV5GKY4OQ8S26W0MXMHO5Q.uasset'
+[2026.10.18-02.09.19:210][ 17]LogFileHelpers: Saving Package: /Game/__ExternalActors__/RozaFile/Untitled/6/XL/5KGHXH889HYUMSBB48ETGK
+[2026.10.18-02.09.19:225][ 17]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/RozaFile/Untitled/6/XL/5KGHXH889HYUMSBB48ETGK
+[2026.10.18-02.09.19:225][ 17]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/5KGHXH889HYUMSBB48ETGK8AABEA984D8B2AC775523296C180DA3E.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Content/__ExternalActors__/RozaFile/Untitled/6/XL/5KGHXH889HYUMSBB48ETGK.uasset'
+[2026.10.18-02.09.19:227][ 17]LogFileHelpers: Saving Package: /Game/__ExternalActors__/RozaFile/Untitled/2/KC/GYGZEUSAQNPFHR40CCDB5F
+[2026.10.18-02.09.19:242][ 17]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/RozaFile/Untitled/2/KC/GYGZEUSAQNPFHR40CCDB5F
+[2026.10.18-02.09.19:242][ 17]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/GYGZEUSAQNPFHR40CCDB5F3F667F0C4D725E39E70A7CA195727428.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Content/__ExternalActors__/RozaFile/Untitled/2/KC/GYGZEUSAQNPFHR40CCDB5F.uasset'
+[2026.10.18-02.09.19:244][ 17]LogFileHelpers: Saving Package: /Game/__ExternalActors__/RozaFile/Untitled/C/M4/P6NB26K1UOZVEWRZ4TRIZ4
+[2026.10.18-02.09.19:259][ 17]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/RozaFile/Untitled/C/M4/P6NB26K1UOZVEWRZ4TRIZ4
+[2026.10.18-02.09.19:259][ 17]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/P6NB26K1UOZVEWRZ4TRIZ4C72A13694FB46D33BDFE328D7ABD751A.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Content/__ExternalActors__/RozaFile/Untitled/C/M4/P6NB26K1UOZVEWRZ4TRIZ4.uasset'
+[2026.10.18-02.09.19:260][ 17]LogFileHelpers: Saving Package: /Game/__ExternalActors__/RozaFile/Untitled/7/KW/AF3F182QRR15H36S0RJBUT
+[2026.10.18-02.09.19:275][ 17]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/RozaFile/Untitled/7/KW/AF3F182QRR15H36S0RJBUT
+[2026.10.18-02.09.19:275][ 17]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/AF3F182QRR15H36S0RJBUTF1305EB1430A7D6F0BFA059EBB05BA82.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Content/__ExternalActors__/RozaFile/Untitled/7/KW/AF3F182QRR15H36S0RJBUT.uasset'
+[2026.10.18-02.09.19:276][ 17]LogFileHelpers: Saving Package: /Game/__ExternalActors__/RozaFile/Untitled/0/ZC/X1BXM0YH9DFLFFIUJ3P43J
+[2026.10.18-02.09.19:291][ 17]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/RozaFile/Untitled/0/ZC/X1BXM0YH9DFLFFIUJ3P43J
+[2026.10.18-02.09.19:291][ 17]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/X1BXM0YH9DFLFFIUJ3P43J1C667B4F41190A5ABB86B6B17B9DCC2E.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Content/__ExternalActors__/RozaFile/Untitled/0/ZC/X1BXM0YH9DFLFFIUJ3P43J.uasset'
+[2026.10.18-02.09.19:292][ 17]LogFileHelpers: Saving Package: /Game/__ExternalActors__/RozaFile/Untitled/C/MH/13QZJ22LDS8JQBTWLY1N0G
+[2026.10.18-02.09.19:308][ 17]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/RozaFile/Untitled/C/MH/13QZJ22LDS8JQBTWLY1N0G
+[2026.10.18-02.09.19:308][ 17]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/13QZJ22LDS8JQBTWLY1N0G4F93EEE847589DEC3125C885A4AE596D.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Content/__ExternalActors__/RozaFile/Untitled/C/MH/13QZJ22LDS8JQBTWLY1N0G.uasset'
+[2026.10.18-02.09.19:309][ 17]LogFileHelpers: Saving Package: /Game/__ExternalActors__/RozaFile/Untitled/5/72/49FP7ZX1ZVZ84EH1FQNPF1
+[2026.10.18-02.09.19:327][ 17]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/RozaFile/Untitled/5/72/49FP7ZX1ZVZ84EH1FQNPF1
+[2026.10.18-02.09.19:327][ 17]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/49FP7ZX1ZVZ84EH1FQNPF1A6C082214A4CB04A5B8AAA8A6A1E7EA3.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Content/__ExternalActors__/RozaFile/Untitled/5/72/49FP7ZX1ZVZ84EH1FQNPF1.uasset'
+[2026.10.18-02.09.19:328][ 17]LogFileHelpers: Saving Package: /Game/__ExternalActors__/RozaFile/Untitled/7/OU/WLKO26RRDQOQ8D87L7QD12
+[2026.10.18-02.09.19:342][ 17]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/RozaFile/Untitled/7/OU/WLKO26RRDQOQ8D87L7QD12
+[2026.10.18-02.09.19:342][ 17]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/WLKO26RRDQOQ8D87L7QD12F224D5494EC31C21543974A38D47C46B.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Content/__ExternalActors__/RozaFile/Untitled/7/OU/WLKO26RRDQOQ8D87L7QD12.uasset'
+[2026.10.18-02.09.19:344][ 17]LogFileHelpers: Saving Package: /Game/__ExternalActors__/RozaFile/Untitled/0/HZ/NX2462XTV79JN6N335YSSW
+[2026.10.18-02.09.19:360][ 17]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/RozaFile/Untitled/0/HZ/NX2462XTV79JN6N335YSSW
+[2026.10.18-02.09.19:360][ 17]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/NX2462XTV79JN6N335YSSW5DB027D8447A345CB0B948B881224E1E.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Content/__ExternalActors__/RozaFile/Untitled/0/HZ/NX2462XTV79JN6N335YSSW.uasset'
+[2026.10.18-02.09.19:363][ 17]LogFileHelpers: Saving Package: /Game/__ExternalActors__/RozaFile/Untitled/4/06/7NPWRV79LOUA09GULMTPLF
+[2026.10.18-02.09.19:378][ 17]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/RozaFile/Untitled/4/06/7NPWRV79LOUA09GULMTPLF
+[2026.10.18-02.09.19:380][ 17]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/7NPWRV79LOUA09GULMTPLFD409CB574A1E0C480BACB2899CF56DB9.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Content/__ExternalActors__/RozaFile/Untitled/4/06/7NPWRV79LOUA09GULMTPLF.uasset'
+[2026.10.18-02.09.19:381][ 17]LogFileHelpers: Saving Package: /Game/__ExternalActors__/RozaFile/Untitled/C/IM/0C70KO2GHSBWJ4N1M5WX1O
+[2026.10.18-02.09.19:396][ 17]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/RozaFile/Untitled/C/IM/0C70KO2GHSBWJ4N1M5WX1O
+[2026.10.18-02.09.19:396][ 17]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/0C70KO2GHSBWJ4N1M5WX1O6669BBB34701736783B58882677EE3EC.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Content/__ExternalActors__/RozaFile/Untitled/C/IM/0C70KO2GHSBWJ4N1M5WX1O.uasset'
+[2026.10.18-02.09.19:398][ 17]LogFileHelpers: Saving Package: /Game/__ExternalActors__/RozaFile/Untitled/4/4X/25ZCXYUGHLNZK5BASGS68T
+[2026.10.18-02.09.19:416][ 17]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/RozaFile/Untitled/4/4X/25ZCXYUGHLNZK5BASGS68T
+[2026.10.18-02.09.19:416][ 17]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/25ZCXYUGHLNZK5BASGS68T11F156F64D263D4B9B12AAB490508284.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Content/__ExternalActors__/RozaFile/Untitled/4/4X/25ZCXYUGHLNZK5BASGS68T.uasset'
+[2026.10.18-02.09.19:417][ 17]LogFileHelpers: Saving Package: /Game/__ExternalActors__/RozaFile/Untitled/1/8K/L3PC5KMSRF8WWN427RY1TN
+[2026.10.18-02.09.19:435][ 17]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/RozaFile/Untitled/1/8K/L3PC5KMSRF8WWN427RY1TN
+[2026.10.18-02.09.19:435][ 17]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/L3PC5KMSRF8WWN427RY1TNF01E127446758339DCEE10A232866B81.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Content/__ExternalActors__/RozaFile/Untitled/1/8K/L3PC5KMSRF8WWN427RY1TN.uasset'
+[2026.10.18-02.09.19:436][ 17]LogFileHelpers: Saving Package: /Game/__ExternalActors__/RozaFile/Untitled/5/C4/MCX418NR5L6TV06CR2M7N5
+[2026.10.18-02.09.19:453][ 17]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/RozaFile/Untitled/5/C4/MCX418NR5L6TV06CR2M7N5
+[2026.10.18-02.09.19:453][ 17]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/MCX418NR5L6TV06CR2M7N5E148803D443F0613688888A97D59D405.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Content/__ExternalActors__/RozaFile/Untitled/5/C4/MCX418NR5L6TV06CR2M7N5.uasset'
+[2026.10.18-02.09.19:455][ 17]LogFileHelpers: Saving Package: /Game/__ExternalActors__/RozaFile/Untitled/3/6X/U5VRTUCPFF4SMWOT72YZCZ
+[2026.10.18-02.09.19:470][ 17]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/RozaFile/Untitled/3/6X/U5VRTUCPFF4SMWOT72YZCZ
+[2026.10.18-02.09.19:470][ 17]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/U5VRTUCPFF4SMWOT72YZCZABBBCCEE4CC0622C6E4FBA8262720A5C.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Content/__ExternalActors__/RozaFile/Untitled/3/6X/U5VRTUCPFF4SMWOT72YZCZ.uasset'
+[2026.10.18-02.09.19:472][ 17]LogFileHelpers: Saving Package: /Game/__ExternalActors__/RozaFile/Untitled/4/ER/EE2HUE3LHB8SM79FAK7O0O
+[2026.10.18-02.09.19:487][ 17]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/RozaFile/Untitled/4/ER/EE2HUE3LHB8SM79FAK7O0O
+[2026.10.18-02.09.19:487][ 17]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/EE2HUE3LHB8SM79FAK7O0O020689A447972C689E01BD896B570EC3.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Content/__ExternalActors__/RozaFile/Untitled/4/ER/EE2HUE3LHB8SM79FAK7O0O.uasset'
+[2026.10.18-02.09.19:488][ 17]LogFileHelpers: Saving Package: /Game/__ExternalActors__/RozaFile/Untitled/B/LH/LW29KC44LKQKJ5RP8W2QFL
+[2026.10.18-02.09.19:505][ 17]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/RozaFile/Untitled/B/LH/LW29KC44LKQKJ5RP8W2QFL
+[2026.10.18-02.09.19:505][ 17]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/LW29KC44LKQKJ5RP8W2QFL9E172CDB4CE6EE92164CFFBB06646A3E.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Content/__ExternalActors__/RozaFile/Untitled/B/LH/LW29KC44LKQKJ5RP8W2QFL.uasset'
+[2026.10.18-02.09.19:506][ 17]LogFileHelpers: Saving Package: /Game/__ExternalActors__/RozaFile/Untitled/E/DX/RIHEF8DD0R60B4RYCFMZN4
+[2026.10.18-02.09.19:523][ 17]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/RozaFile/Untitled/E/DX/RIHEF8DD0R60B4RYCFMZN4
+[2026.10.18-02.09.19:523][ 17]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/RIHEF8DD0R60B4RYCFMZN48C10A625452E7E35E52A59B77B863365.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Content/__ExternalActors__/RozaFile/Untitled/E/DX/RIHEF8DD0R60B4RYCFMZN4.uasset'
+[2026.10.18-02.09.19:524][ 17]LogFileHelpers: Saving Package: /Game/__ExternalActors__/RozaFile/Untitled/3/2N/ZAQ38KXJX2VG3RCSEZ5Y9K
+[2026.10.18-02.09.19:541][ 17]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/RozaFile/Untitled/3/2N/ZAQ38KXJX2VG3RCSEZ5Y9K
+[2026.10.18-02.09.19:541][ 17]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/ZAQ38KXJX2VG3RCSEZ5Y9K708B5FEB4961CDA64717F8946EBE9C56.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Content/__ExternalActors__/RozaFile/Untitled/3/2N/ZAQ38KXJX2VG3RCSEZ5Y9K.uasset'
+[2026.10.18-02.09.19:542][ 17]LogFileHelpers: Saving Package: /Game/__ExternalActors__/RozaFile/Untitled/A/N5/X6W91RJCR0A5AKKDE2UKDB
+[2026.10.18-02.09.19:569][ 17]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/RozaFile/Untitled/A/N5/X6W91RJCR0A5AKKDE2UKDB
+[2026.10.18-02.09.19:569][ 17]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/X6W91RJCR0A5AKKDE2UKDB059C129343AB870D85A7C4B680460DC7.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Content/__ExternalActors__/RozaFile/Untitled/A/N5/X6W91RJCR0A5AKKDE2UKDB.uasset'
+[2026.10.18-02.09.19:570][ 17]LogFileHelpers: Saving Package: /Game/__ExternalActors__/RozaFile/Untitled/4/0J/M2DX4009STQKWKX0SPN75T
+[2026.10.18-02.09.19:587][ 17]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/RozaFile/Untitled/4/0J/M2DX4009STQKWKX0SPN75T
+[2026.10.18-02.09.19:587][ 17]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/M2DX4009STQKWKX0SPN75T47740CB44DF5ACF16AA1E494371B4126.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Content/__ExternalActors__/RozaFile/Untitled/4/0J/M2DX4009STQKWKX0SPN75T.uasset'
+[2026.10.18-02.09.19:588][ 17]LogFileHelpers: Saving Package: /Game/__ExternalActors__/RozaFile/Untitled/8/TZ/YRSW3CVCKB31OOJQIYD8RB
+[2026.10.18-02.09.19:606][ 17]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/RozaFile/Untitled/8/TZ/YRSW3CVCKB31OOJQIYD8RB
+[2026.10.18-02.09.19:606][ 17]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/YRSW3CVCKB31OOJQIYD8RBA52782F640A6AB2EA259078DA7AFD4D9.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Content/__ExternalActors__/RozaFile/Untitled/8/TZ/YRSW3CVCKB31OOJQIYD8RB.uasset'
+[2026.10.18-02.09.19:607][ 17]LogFileHelpers: Saving Package: /Game/__ExternalActors__/RozaFile/Untitled/7/74/8QC55EAXA2OPETF4FMVXAS
+[2026.10.18-02.09.19:625][ 17]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/RozaFile/Untitled/7/74/8QC55EAXA2OPETF4FMVXAS
+[2026.10.18-02.09.19:625][ 17]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/8QC55EAXA2OPETF4FMVXAS2A95CA644E2245EA2E5894BF9D303F35.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Content/__ExternalActors__/RozaFile/Untitled/7/74/8QC55EAXA2OPETF4FMVXAS.uasset'
+[2026.10.18-02.09.19:627][ 17]LogFileHelpers: Saving Package: /Game/__ExternalActors__/RozaFile/Untitled/2/4P/IZS0CNBNPMR42ZCPV6XTPU
+[2026.10.18-02.09.19:646][ 17]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/RozaFile/Untitled/2/4P/IZS0CNBNPMR42ZCPV6XTPU
+[2026.10.18-02.09.19:646][ 17]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/IZS0CNBNPMR42ZCPV6XTPUC674746840C95FB42C2AA7AFBAB150F9.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Content/__ExternalActors__/RozaFile/Untitled/2/4P/IZS0CNBNPMR42ZCPV6XTPU.uasset'
+[2026.10.18-02.09.19:648][ 17]LogFileHelpers: Saving Package: /Game/__ExternalActors__/RozaFile/Untitled/7/TQ/WESUYMU896VFG9FUZUBF9O
+[2026.10.18-02.09.19:667][ 17]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/RozaFile/Untitled/7/TQ/WESUYMU896VFG9FUZUBF9O
+[2026.10.18-02.09.19:667][ 17]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/WESUYMU896VFG9FUZUBF9O392BBE4F4624BB1EFEA2E2BBFC41B386.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Content/__ExternalActors__/RozaFile/Untitled/7/TQ/WESUYMU896VFG9FUZUBF9O.uasset'
+[2026.10.18-02.09.19:667][ 17]LogFileHelpers: Saving Package: /Game/__ExternalActors__/RozaFile/Untitled/F/35/72K1RUVWILGWPO10MIG6OD
+[2026.10.18-02.09.19:684][ 17]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/RozaFile/Untitled/F/35/72K1RUVWILGWPO10MIG6OD
+[2026.10.18-02.09.19:684][ 17]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/72K1RUVWILGWPO10MIG6OD1D083CBE48965436521301A241F5527F.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Content/__ExternalActors__/RozaFile/Untitled/F/35/72K1RUVWILGWPO10MIG6OD.uasset'
+[2026.10.18-02.09.19:686][ 17]LogFileHelpers: Saving Package: /Game/__ExternalActors__/RozaFile/Untitled/0/BW/5M9P67CT9G1GB6A25W9Z3B
+[2026.10.18-02.09.19:703][ 17]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/RozaFile/Untitled/0/BW/5M9P67CT9G1GB6A25W9Z3B
+[2026.10.18-02.09.19:703][ 17]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/5M9P67CT9G1GB6A25W9Z3BE605AE0243045EC179F49AB7763FFA66.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Content/__ExternalActors__/RozaFile/Untitled/0/BW/5M9P67CT9G1GB6A25W9Z3B.uasset'
+[2026.10.18-02.09.19:704][ 17]LogFileHelpers: Saving Package: /Game/__ExternalActors__/RozaFile/Untitled/A/Y0/3FR42Q9WGO7IG632HGVGC9
+[2026.10.18-02.09.19:719][ 17]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/RozaFile/Untitled/A/Y0/3FR42Q9WGO7IG632HGVGC9
+[2026.10.18-02.09.19:719][ 17]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/3FR42Q9WGO7IG632HGVGC9401B6D4246B81E8F16D929A702A63D9F.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Content/__ExternalActors__/RozaFile/Untitled/A/Y0/3FR42Q9WGO7IG632HGVGC9.uasset'
+[2026.10.18-02.09.19:721][ 17]LogFileHelpers: Saving Package: /Game/__ExternalActors__/RozaFile/Untitled/3/LS/YBNNSA36FF0LU0E9OJE3RY
+[2026.10.18-02.09.19:737][ 17]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/RozaFile/Untitled/3/LS/YBNNSA36FF0LU0E9OJE3RY
+[2026.10.18-02.09.19:737][ 17]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/YBNNSA36FF0LU0E9OJE3RY50B5F865471CDC22A29AC5A2E0650DA6.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Content/__ExternalActors__/RozaFile/Untitled/3/LS/YBNNSA36FF0LU0E9OJE3RY.uasset'
+[2026.10.18-02.09.19:738][ 17]LogFileHelpers: Saving Package: /Game/__ExternalActors__/RozaFile/Untitled/B/HB/BQJ34484IRGJCRW2ZIY01F
+[2026.10.18-02.09.19:753][ 17]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/RozaFile/Untitled/B/HB/BQJ34484IRGJCRW2ZIY01F
+[2026.10.18-02.09.19:753][ 17]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/BQJ34484IRGJCRW2ZIY01FBC13EBC04211329FA93D8C94DE5328D3.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Content/__ExternalActors__/RozaFile/Untitled/B/HB/BQJ34484IRGJCRW2ZIY01F.uasset'
+[2026.10.18-02.09.19:755][ 17]LogFileHelpers: Saving Package: /Game/__ExternalActors__/RozaFile/Untitled/E/TY/QP34B53OASMXG2ZOLUQPJP
+[2026.10.18-02.09.19:774][ 17]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/RozaFile/Untitled/E/TY/QP34B53OASMXG2ZOLUQPJP
+[2026.10.18-02.09.19:774][ 17]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/QP34B53OASMXG2ZOLUQPJP67DE6F3541E1E25AD84291BA825AD1AC.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Content/__ExternalActors__/RozaFile/Untitled/E/TY/QP34B53OASMXG2ZOLUQPJP.uasset'
+[2026.10.18-02.09.19:774][ 17]LogFileHelpers: Saving Package: /Game/__ExternalActors__/RozaFile/Untitled/D/7W/VQG5Q2ZHBPNTDUMI0PYKEI
+[2026.10.18-02.09.19:791][ 17]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/RozaFile/Untitled/D/7W/VQG5Q2ZHBPNTDUMI0PYKEI
+[2026.10.18-02.09.19:791][ 17]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/VQG5Q2ZHBPNTDUMI0PYKEI17C7CAB240F1A3D44E90B5914239EFC3.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Content/__ExternalActors__/RozaFile/Untitled/D/7W/VQG5Q2ZHBPNTDUMI0PYKEI.uasset'
+[2026.10.18-02.09.19:794][ 17]LogFileHelpers: Saving Package: /Game/__ExternalActors__/RozaFile/Untitled/9/QP/F09POOTSU1IYF1Y717FJ3L
+[2026.10.18-02.09.19:811][ 17]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/RozaFile/Untitled/9/QP/F09POOTSU1IYF1Y717FJ3L
+[2026.10.18-02.09.19:811][ 17]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/F09POOTSU1IYF1Y717FJ3LDF9E29D941AB51E2670208BB3E9E1743.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Content/__ExternalActors__/RozaFile/Untitled/9/QP/F09POOTSU1IYF1Y717FJ3L.uasset'
+[2026.10.18-02.09.19:812][ 17]LogFileHelpers: Saving Package: /Game/__ExternalActors__/RozaFile/Untitled/7/9O/WH8OXK0EOB8W5JCDQBREOA
+[2026.10.18-02.09.19:826][ 17]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/RozaFile/Untitled/7/9O/WH8OXK0EOB8W5JCDQBREOA
+[2026.10.18-02.09.19:826][ 17]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/WH8OXK0EOB8W5JCDQBREOAD0B7C4BE4C58E6C83ABA43988900B394.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Content/__ExternalActors__/RozaFile/Untitled/7/9O/WH8OXK0EOB8W5JCDQBREOA.uasset'
+[2026.10.18-02.09.19:829][ 17]LogFileHelpers: Saving Package: /Game/__ExternalActors__/RozaFile/Untitled/E/IC/FNR4FASO30TIDIAE3DKG9I
+[2026.10.18-02.09.19:843][ 17]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/RozaFile/Untitled/E/IC/FNR4FASO30TIDIAE3DKG9I
+[2026.10.18-02.09.19:844][ 17]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/FNR4FASO30TIDIAE3DKG9IE778981A4804F43149BD9F855417C0FC.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Content/__ExternalActors__/RozaFile/Untitled/E/IC/FNR4FASO30TIDIAE3DKG9I.uasset'
+[2026.10.18-02.09.19:845][ 17]LogFileHelpers: Saving Package: /Game/__ExternalActors__/RozaFile/Untitled/B/JS/OIYHZ27IDB2Q6N5HC23AQI
+[2026.10.18-02.09.19:862][ 17]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/RozaFile/Untitled/B/JS/OIYHZ27IDB2Q6N5HC23AQI
+[2026.10.18-02.09.19:862][ 17]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/OIYHZ27IDB2Q6N5HC23AQIE48E71AE46F1F95612BF33863B1E3F7D.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Content/__ExternalActors__/RozaFile/Untitled/B/JS/OIYHZ27IDB2Q6N5HC23AQI.uasset'
+[2026.10.18-02.09.19:863][ 17]LogFileHelpers: Saving Package: /Game/__ExternalActors__/RozaFile/Untitled/3/QY/KLULQNJGA104GAAGTDFUXE
+[2026.10.18-02.09.19:880][ 17]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/RozaFile/Untitled/3/QY/KLULQNJGA104GAAGTDFUXE
+[2026.10.18-02.09.19:880][ 17]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/KLULQNJGA104GAAGTDFUXEAFCA7A92434939E931F6418DA3A03D8D.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Content/__ExternalActors__/RozaFile/Untitled/3/QY/KLULQNJGA104GAAGTDFUXE.uasset'
+[2026.10.18-02.09.19:881][ 17]LogFileHelpers: Saving Package: /Game/__ExternalActors__/RozaFile/Untitled/8/RB/SHFD1WSMZW1ZV09I5YDH0O
+[2026.10.18-02.09.19:896][ 17]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/RozaFile/Untitled/8/RB/SHFD1WSMZW1ZV09I5YDH0O
+[2026.10.18-02.09.19:896][ 17]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/SHFD1WSMZW1ZV09I5YDH0O9C4403BF498E8C5A7696BBA7D15D443F.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Content/__ExternalActors__/RozaFile/Untitled/8/RB/SHFD1WSMZW1ZV09I5YDH0O.uasset'
+[2026.10.18-02.09.19:897][ 17]LogFileHelpers: Saving Package: /Game/__ExternalActors__/RozaFile/Untitled/D/7E/JJRYGHEOZVGU0HGWZYGY9O
+[2026.10.18-02.09.19:915][ 17]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/RozaFile/Untitled/D/7E/JJRYGHEOZVGU0HGWZYGY9O
+[2026.10.18-02.09.19:916][ 17]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/JJRYGHEOZVGU0HGWZYGY9O51A01E65494FAD6BC218CBBE8CF37B96.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Content/__ExternalActors__/RozaFile/Untitled/D/7E/JJRYGHEOZVGU0HGWZYGY9O.uasset'
+[2026.10.18-02.09.19:916][ 17]LogFileHelpers: Saving Package: /Game/__ExternalActors__/RozaFile/Untitled/0/RZ/WHEZ4AI2E2WCAEHTFHRC4T
+[2026.10.18-02.09.19:935][ 17]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/RozaFile/Untitled/0/RZ/WHEZ4AI2E2WCAEHTFHRC4T
+[2026.10.18-02.09.19:935][ 17]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/WHEZ4AI2E2WCAEHTFHRC4T6193FFC04776E409360E86A10903EB07.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Content/__ExternalActors__/RozaFile/Untitled/0/RZ/WHEZ4AI2E2WCAEHTFHRC4T.uasset'
+[2026.10.18-02.09.19:936][ 17]LogFileHelpers: Saving Package: /Game/__ExternalActors__/RozaFile/Untitled/E/UU/G1U2JI8AHXJA3X4UMN5EX1
+[2026.10.18-02.09.19:953][ 17]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/RozaFile/Untitled/E/UU/G1U2JI8AHXJA3X4UMN5EX1
+[2026.10.18-02.09.19:953][ 17]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/G1U2JI8AHXJA3X4UMN5EX122961625402700F2FE0471AED4BD6747.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Content/__ExternalActors__/RozaFile/Untitled/E/UU/G1U2JI8AHXJA3X4UMN5EX1.uasset'
+[2026.10.18-02.09.19:954][ 17]LogFileHelpers: Saving Package: /Game/__ExternalActors__/RozaFile/Untitled/0/CC/8890P6X7CYWZS4XDUEO2HY
+[2026.10.18-02.09.19:973][ 17]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/RozaFile/Untitled/0/CC/8890P6X7CYWZS4XDUEO2HY
+[2026.10.18-02.09.19:973][ 17]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/8890P6X7CYWZS4XDUEO2HY6A1A6CE946CCB8D3C1384B95C347797B.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Content/__ExternalActors__/RozaFile/Untitled/0/CC/8890P6X7CYWZS4XDUEO2HY.uasset'
+[2026.10.18-02.09.19:974][ 17]LogFileHelpers: Saving Package: /Game/__ExternalActors__/RozaFile/Untitled/1/U4/GF7576E1ZF9PHXS20F79SN
+[2026.10.18-02.09.19:991][ 17]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/RozaFile/Untitled/1/U4/GF7576E1ZF9PHXS20F79SN
+[2026.10.18-02.09.19:991][ 17]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/GF7576E1ZF9PHXS20F79SNEA064AE54022D7158E05C2A90099ECBA.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Content/__ExternalActors__/RozaFile/Untitled/1/U4/GF7576E1ZF9PHXS20F79SN.uasset'
+[2026.10.18-02.09.19:993][ 17]LogFileHelpers: Saving Package: /Game/__ExternalActors__/RozaFile/Untitled/B/XU/GN467BKO273B50XZZB7ZQL
+[2026.10.18-02.09.19:999][ 17]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/RozaFile/Untitled/B/XU/GN467BKO273B50XZZB7ZQL
+[2026.10.18-02.09.19:999][ 17]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/GN467BKO273B50XZZB7ZQL3AD216BE43C97903207A428BF1A178E1.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Content/__ExternalActors__/RozaFile/Untitled/B/XU/GN467BKO273B50XZZB7ZQL.uasset'
+[2026.10.18-02.09.20:001][ 17]LogFileHelpers: Saving Package: /Game/__ExternalActors__/RozaFile/Untitled/4/0R/8IEGZA8PT7P4CA5TVBAT2C
+[2026.10.18-02.09.20:009][ 17]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/RozaFile/Untitled/4/0R/8IEGZA8PT7P4CA5TVBAT2C
+[2026.10.18-02.09.20:009][ 17]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/8IEGZA8PT7P4CA5TVBAT2C12164E644DEDF3B39C7BC7B0B2BA9612.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Content/__ExternalActors__/RozaFile/Untitled/4/0R/8IEGZA8PT7P4CA5TVBAT2C.uasset'
+[2026.10.18-02.09.20:015][ 17]LogFileHelpers: InternalPromptForCheckoutAndSave took 11.0 sec (total: 16.7 sec)
+[2026.10.18-02.09.20:065][ 17]LogFileHelpers: Saving Package: /Game/RozaFile/Mountain/Dark_Stone
+[2026.10.18-02.09.20:065][ 17]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/RozaFile/Mountain/Dark_Stone] ([1] browsable assets)...
+[2026.10.18-02.09.20:120][ 17]OBJ SavePackage:     Rendered thumbnail for [Material /Game/RozaFile/Mountain/Dark_Stone.Dark_Stone]
+[2026.10.18-02.09.20:120][ 17]OBJ SavePackage: Finished generating thumbnails for package [/Game/RozaFile/Mountain/Dark_Stone]
+[2026.10.18-02.09.20:120][ 17]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RozaFile/Mountain/Dark_Stone" FILE="../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Content/RozaFile/Mountain/Dark_Stone.uasset" SILENT=true
+[2026.10.18-02.09.20:128][ 17]LogSavePackage: Moving output files for package: /Game/RozaFile/Mountain/Dark_Stone
+[2026.10.18-02.09.20:129][ 17]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/Dark_StoneC0C6F26343CE8455BD24FB8FC5E2F7E1.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Content/RozaFile/Mountain/Dark_Stone.uasset'
+[2026.10.18-02.09.20:130][ 17]LogFileHelpers: Saving Package: /Game/RozaFile/Grass_Material/GrassMaterial
+[2026.10.18-02.09.20:130][ 17]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/RozaFile/Grass_Material/GrassMaterial] ([1] browsable assets)...
+[2026.10.18-02.09.20:138][ 17]OBJ SavePackage:     Rendered thumbnail for [Material /Game/RozaFile/Grass_Material/GrassMaterial.GrassMaterial]
+[2026.10.18-02.09.20:138][ 17]OBJ SavePackage: Finished generating thumbnails for package [/Game/RozaFile/Grass_Material/GrassMaterial]
+[2026.10.18-02.09.20:148][ 17]LogSavePackage: Moving output files for package: /Game/RozaFile/Grass_Material/GrassMaterial
+[2026.10.18-02.09.20:149][ 17]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/GrassMaterialFFC91F4B4213781B3092CC9888F13547.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Content/RozaFile/Grass_Material/GrassMaterial.uasset'
+[2026.10.18-02.09.20:151][ 17]LogFileHelpers: Saving Package: /Game/RozaFile/Rozas_Tile_Collection_Try1/BurnedForest/GrassMaterial_Base
+[2026.10.18-02.09.20:151][ 17]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/RozaFile/Rozas_Tile_Collection_Try1/BurnedForest/GrassMaterial_Base] ([1] browsable assets)...
+[2026.10.18-02.09.20:159][ 17]OBJ SavePackage:     Rendered thumbnail for [Material /Game/RozaFile/Rozas_Tile_Collection_Try1/BurnedForest/GrassMaterial_Base.GrassMaterial_Base]
+[2026.10.18-02.09.20:159][ 17]OBJ SavePackage: Finished generating thumbnails for package [/Game/RozaFile/Rozas_Tile_Collection_Try1/BurnedForest/GrassMaterial_Base]
+[2026.10.18-02.09.20:171][ 17]LogSavePackage: Moving output files for package: /Game/RozaFile/Rozas_Tile_Collection_Try1/BurnedForest/GrassMaterial_Base
+[2026.10.18-02.09.20:172][ 17]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/GrassMaterial_Base94DB55D54F38374559643D8669E4C937.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Content/RozaFile/Rozas_Tile_Collection_Try1/BurnedForest/GrassMaterial_Base.uasset'
+[2026.10.18-02.09.20:173][ 17]LogFileHelpers: Saving Package: /Game/RozaFile/Rozas_Tile_Collection_Try1/Hydrant/GrassMaterial_Base
+[2026.10.18-02.09.20:173][ 17]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/RozaFile/Rozas_Tile_Collection_Try1/Hydrant/GrassMaterial_Base] ([1] browsable assets)...
+[2026.10.18-02.09.20:173][ 17]OBJ SavePackage: Finished generating thumbnails for package [/Game/RozaFile/Rozas_Tile_Collection_Try1/Hydrant/GrassMaterial_Base]
+[2026.10.18-02.09.20:183][ 17]LogSavePackage: Moving output files for package: /Game/RozaFile/Rozas_Tile_Collection_Try1/Hydrant/GrassMaterial_Base
+[2026.10.18-02.09.20:183][ 17]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/GrassMaterial_BaseC904030C4EED3E8C2115CEA61ACDDF03.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Content/RozaFile/Rozas_Tile_Collection_Try1/Hydrant/GrassMaterial_Base.uasset'
+[2026.10.18-02.09.20:185][ 17]LogFileHelpers: Saving Package: /Game/RozaFile/Rozas_Tile_Collection_Try1/Sis/M_Plane_Inst
+[2026.10.18-02.09.20:185][ 17]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/RozaFile/Rozas_Tile_Collection_Try1/Sis/M_Plane_Inst] ([1] browsable assets)...
+[2026.10.18-02.09.20:185][ 17]OBJ SavePackage: Finished generating thumbnails for package [/Game/RozaFile/Rozas_Tile_Collection_Try1/Sis/M_Plane_Inst]
+[2026.10.18-02.09.20:191][ 17]LogSavePackage: Moving output files for package: /Game/RozaFile/Rozas_Tile_Collection_Try1/Sis/M_Plane_Inst
+[2026.10.18-02.09.20:192][ 17]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/M_Plane_Inst10E323A04E2080C9AFB3D0BF52AD4D51.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Content/RozaFile/Rozas_Tile_Collection_Try1/Sis/M_Plane_Inst.uasset'
+[2026.10.18-02.09.20:193][ 17]LogFileHelpers: Saving Package: /Game/RozaFile/Mountain/M_Snow
+[2026.10.18-02.09.20:193][ 17]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/RozaFile/Mountain/M_Snow] ([1] browsable assets)...
+[2026.10.18-02.09.20:201][ 17]OBJ SavePackage:     Rendered thumbnail for [Material /Game/RozaFile/Mountain/M_Snow.M_Snow]
+[2026.10.18-02.09.20:201][ 17]OBJ SavePackage: Finished generating thumbnails for package [/Game/RozaFile/Mountain/M_Snow]
+[2026.10.18-02.09.20:201][ 17]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RozaFile/Mountain/M_Snow" FILE="../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Content/RozaFile/Mountain/M_Snow.uasset" SILENT=true
+[2026.10.18-02.09.20:208][ 17]LogSavePackage: Moving output files for package: /Game/RozaFile/Mountain/M_Snow
+[2026.10.18-02.09.20:208][ 17]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/M_Snow65FC695F4E0FBFBDC0A545B6A615E444.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Content/RozaFile/Mountain/M_Snow.uasset'
+[2026.10.18-02.09.20:210][ 17]LogFileHelpers: Saving Package: /Game/RozaFile/WaterShader/M_StylizedWater
+[2026.10.18-02.09.20:210][ 17]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/RozaFile/WaterShader/M_StylizedWater] ([1] browsable assets)...
+[2026.10.18-02.09.20:218][ 17]OBJ SavePackage:     Rendered thumbnail for [Material /Game/RozaFile/WaterShader/M_StylizedWater.M_StylizedWater]
+[2026.10.18-02.09.20:218][ 17]OBJ SavePackage: Finished generating thumbnails for package [/Game/RozaFile/WaterShader/M_StylizedWater]
+[2026.10.18-02.09.20:230][ 17]LogSavePackage: Moving output files for package: /Game/RozaFile/WaterShader/M_StylizedWater
+[2026.10.18-02.09.20:231][ 17]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/M_StylizedWater003E4FF945180E100E81BE90A5A0DF0E.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Content/RozaFile/WaterShader/M_StylizedWater.uasset'
+[2026.10.18-02.09.20:232][ 17]LogFileHelpers: Saving Package: /Game/RozaFile/Rozas_Tile_Collection_Try1/Hydrant/M_ToonShaderColor_Grayig
+[2026.10.18-02.09.20:233][ 17]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/RozaFile/Rozas_Tile_Collection_Try1/Hydrant/M_ToonShaderColor_Grayig] ([1] browsable assets)...
+[2026.10.18-02.09.20:233][ 17]OBJ SavePackage: Finished generating thumbnails for package [/Game/RozaFile/Rozas_Tile_Collection_Try1/Hydrant/M_ToonShaderColor_Grayig]
+[2026.10.18-02.09.20:255][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2026.10.18-02.09.20:282][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2026.10.18-02.09.20:292][ 17]LogSavePackage: Moving output files for package: /Game/RozaFile/Rozas_Tile_Collection_Try1/Hydrant/M_ToonShaderColor_Grayig
+[2026.10.18-02.09.20:292][ 17]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/M_ToonShaderColor_Grayig4C5D3E104C4F551587617EA03B40FF1B.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Content/RozaFile/Rozas_Tile_Collection_Try1/Hydrant/M_ToonShaderColor_Grayig.uasset'
+[2026.10.18-02.09.20:294][ 17]LogFileHelpers: Saving Package: /Game/RozaFile/Rozas_Tile_Collection_Try1/Hydrant/M_ToonShaderColor_Grayig1
+[2026.10.18-02.09.20:294][ 17]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/RozaFile/Rozas_Tile_Collection_Try1/Hydrant/M_ToonShaderColor_Grayig1] ([1] browsable assets)...
+[2026.10.18-02.09.20:294][ 17]OBJ SavePackage: Finished generating thumbnails for package [/Game/RozaFile/Rozas_Tile_Collection_Try1/Hydrant/M_ToonShaderColor_Grayig1]
+[2026.10.18-02.09.20:314][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2026.10.18-02.09.20:338][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2026.10.18-02.09.20:347][ 17]LogSavePackage: Moving output files for package: /Game/RozaFile/Rozas_Tile_Collection_Try1/Hydrant/M_ToonShaderColor_Grayig1
+[2026.10.18-02.09.20:347][ 17]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/M_ToonShaderColor_Grayig19AEBD7294FC3AC6BC07BE99886EEDBCE.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Content/RozaFile/Rozas_Tile_Collection_Try1/Hydrant/M_ToonShaderColor_Grayig1.uasset'
+[2026.10.18-02.09.20:348][ 17]LogFileHelpers: Saving Package: /Game/RozaFile/Rozas_Tile_Collection_Try1/BurnedForest/M_Truck_AzAğaç
+[2026.10.18-02.09.20:348][ 17]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/RozaFile/Rozas_Tile_Collection_Try1/BurnedForest/M_Truck_AzAğaç] ([1] browsable assets)...
+[2026.10.18-02.09.20:348][ 17]OBJ SavePackage: Finished generating thumbnails for package [/Game/RozaFile/Rozas_Tile_Collection_Try1/BurnedForest/M_Truck_AzAğaç]
+[2026.10.18-02.09.20:356][ 17]LogSavePackage: Moving output files for package: /Game/RozaFile/Rozas_Tile_Collection_Try1/BurnedForest/M_Truck_AzAğaç
+[2026.10.18-02.09.20:356][ 17]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/M_Truck_AzAğaçA1E6A3574C594E6A982165B2E2862D52.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Content/RozaFile/Rozas_Tile_Collection_Try1/BurnedForest/M_Truck_AzAğaç.uasset'
+[2026.10.18-02.09.20:357][ 17]LogFileHelpers: Saving Package: /Game/RozaFile/Rozas_Tile_Collection_Try1/Sis/SisBase
+[2026.10.18-02.09.20:357][ 17]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/RozaFile/Rozas_Tile_Collection_Try1/Sis/SisBase] ([1] browsable assets)...
+[2026.10.18-02.09.20:357][ 17]OBJ SavePackage: Finished generating thumbnails for package [/Game/RozaFile/Rozas_Tile_Collection_Try1/Sis/SisBase]
+[2026.10.18-02.09.20:371][ 17]LogSavePackage: Moving output files for package: /Game/RozaFile/Rozas_Tile_Collection_Try1/Sis/SisBase
+[2026.10.18-02.09.20:371][ 17]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/SisBaseB57F8D3D424107FB2E458B83FF51CA23.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Content/RozaFile/Rozas_Tile_Collection_Try1/Sis/SisBase.uasset'
+[2026.10.18-02.09.20:373][ 17]LogFileHelpers: Saving Package: /Game/RozaFile/Mountain/dark_rock_ao_1k
+[2026.10.18-02.09.20:373][ 17]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/RozaFile/Mountain/dark_rock_ao_1k] ([1] browsable assets)...
+[2026.10.18-02.09.20:373][ 17]OBJ SavePackage: Finished generating thumbnails for package [/Game/RozaFile/Mountain/dark_rock_ao_1k]
+[2026.10.18-02.09.20:391][ 17]LogSavePackage: Moving output files for package: /Game/RozaFile/Mountain/dark_rock_ao_1k
+[2026.10.18-02.09.20:392][ 17]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/dark_rock_ao_1k8C127A944C1BAB83C934EE80F36AF507.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Content/RozaFile/Mountain/dark_rock_ao_1k.uasset'
+[2026.10.18-02.09.20:397][ 17]LogFileHelpers: Saving Package: /Game/RozaFile/Mountain/dark_rock_arm_1k
+[2026.10.18-02.09.20:397][ 17]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/RozaFile/Mountain/dark_rock_arm_1k] ([1] browsable assets)...
+[2026.10.18-02.09.20:397][ 17]OBJ SavePackage: Finished generating thumbnails for package [/Game/RozaFile/Mountain/dark_rock_arm_1k]
+[2026.10.18-02.09.20:430][ 17]LogSavePackage: Moving output files for package: /Game/RozaFile/Mountain/dark_rock_arm_1k
+[2026.10.18-02.09.20:430][ 17]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/dark_rock_arm_1kFBE669604FD7A7B5F5B70296AC0EB782.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Content/RozaFile/Mountain/dark_rock_arm_1k.uasset'
+[2026.10.18-02.09.20:433][ 17]LogFileHelpers: Saving Package: /Game/RozaFile/Mountain/dark_rock_diff_1k
+[2026.10.18-02.09.20:433][ 17]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/RozaFile/Mountain/dark_rock_diff_1k] ([1] browsable assets)...
+[2026.10.18-02.09.20:433][ 17]OBJ SavePackage: Finished generating thumbnails for package [/Game/RozaFile/Mountain/dark_rock_diff_1k]
+[2026.10.18-02.09.20:464][ 17]LogSavePackage: Moving output files for package: /Game/RozaFile/Mountain/dark_rock_diff_1k
+[2026.10.18-02.09.20:464][ 17]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/dark_rock_diff_1k3EE9596F45D0640CB524C0B3DE956A15.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Content/RozaFile/Mountain/dark_rock_diff_1k.uasset'
+[2026.10.18-02.09.20:466][ 17]LogFileHelpers: Saving Package: /Game/RozaFile/Mountain/dark_rock_disp_1k
+[2026.10.18-02.09.20:466][ 17]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/RozaFile/Mountain/dark_rock_disp_1k] ([1] browsable assets)...
+[2026.10.18-02.09.20:466][ 17]OBJ SavePackage: Finished generating thumbnails for package [/Game/RozaFile/Mountain/dark_rock_disp_1k]
+[2026.10.18-02.09.20:480][ 17]LogSavePackage: Moving output files for package: /Game/RozaFile/Mountain/dark_rock_disp_1k
+[2026.10.18-02.09.20:480][ 17]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/dark_rock_disp_1k62C1935640D91718C9FA86AF472A9431.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Content/RozaFile/Mountain/dark_rock_disp_1k.uasset'
+[2026.10.18-02.09.20:482][ 17]LogFileHelpers: Saving Package: /Game/RozaFile/Mountain/dark_rock_nor_dx_1k
+[2026.10.18-02.09.20:482][ 17]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/RozaFile/Mountain/dark_rock_nor_dx_1k] ([1] browsable assets)...
+[2026.10.18-02.09.20:482][ 17]OBJ SavePackage: Finished generating thumbnails for package [/Game/RozaFile/Mountain/dark_rock_nor_dx_1k]
+[2026.10.18-02.09.20:514][ 17]LogSavePackage: Moving output files for package: /Game/RozaFile/Mountain/dark_rock_nor_dx_1k
+[2026.10.18-02.09.20:514][ 17]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/dark_rock_nor_dx_1k2A7ECC93402B28D5E5E64AAF9C628200.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Content/RozaFile/Mountain/dark_rock_nor_dx_1k.uasset'
+[2026.10.18-02.09.20:515][ 17]LogFileHelpers: Saving Package: /Game/RozaFile/Mountain/dark_rock_nor_gl_1k
+[2026.10.18-02.09.20:515][ 17]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/RozaFile/Mountain/dark_rock_nor_gl_1k] ([1] browsable assets)...
+[2026.10.18-02.09.20:515][ 17]OBJ SavePackage: Finished generating thumbnails for package [/Game/RozaFile/Mountain/dark_rock_nor_gl_1k]
+[2026.10.18-02.09.20:548][ 17]LogSavePackage: Moving output files for package: /Game/RozaFile/Mountain/dark_rock_nor_gl_1k
+[2026.10.18-02.09.20:548][ 17]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/dark_rock_nor_gl_1k2FC61E454380A02407E2649DF9DD7B54.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Content/RozaFile/Mountain/dark_rock_nor_gl_1k.uasset'
+[2026.10.18-02.09.20:550][ 17]LogFileHelpers: Saving Package: /Game/RozaFile/Mountain/dark_rock_rough_1k
+[2026.10.18-02.09.20:550][ 17]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/RozaFile/Mountain/dark_rock_rough_1k] ([1] browsable assets)...
+[2026.10.18-02.09.20:550][ 17]OBJ SavePackage: Finished generating thumbnails for package [/Game/RozaFile/Mountain/dark_rock_rough_1k]
+[2026.10.18-02.09.20:564][ 17]LogSavePackage: Moving output files for package: /Game/RozaFile/Mountain/dark_rock_rough_1k
+[2026.10.18-02.09.20:564][ 17]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/dark_rock_rough_1k857A655945C359C8D4E57B825C7E252F.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Content/RozaFile/Mountain/dark_rock_rough_1k.uasset'
+[2026.10.18-02.09.20:566][ 17]LogFileHelpers: Saving Package: /Game/RozaFile/Rozas_Tile_Collection_Try1/Hydrant/gri_tanker
+[2026.10.18-02.09.20:567][ 17]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/RozaFile/Rozas_Tile_Collection_Try1/Hydrant/gri_tanker] ([1] browsable assets)...
+[2026.10.18-02.09.20:567][ 17]OBJ SavePackage: Finished generating thumbnails for package [/Game/RozaFile/Rozas_Tile_Collection_Try1/Hydrant/gri_tanker]
+[2026.10.18-02.09.20:578][ 17]LogSavePackage: Moving output files for package: /Game/RozaFile/Rozas_Tile_Collection_Try1/Hydrant/gri_tanker
+[2026.10.18-02.09.20:578][ 17]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/gri_tankerC9DEB19E43EC35F13A8C3E95C56F8494.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Content/RozaFile/Rozas_Tile_Collection_Try1/Hydrant/gri_tanker.uasset'
+[2026.10.18-02.09.20:580][ 17]LogFileHelpers: Saving Package: /Game/RozaFile/Mountain/snow_01_ambient_occlusion_1k
+[2026.10.18-02.09.20:580][ 17]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/RozaFile/Mountain/snow_01_ambient_occlusion_1k] ([1] browsable assets)...
+[2026.10.18-02.09.20:580][ 17]OBJ SavePackage: Finished generating thumbnails for package [/Game/RozaFile/Mountain/snow_01_ambient_occlusion_1k]
+[2026.10.18-02.09.20:596][ 17]LogSavePackage: Moving output files for package: /Game/RozaFile/Mountain/snow_01_ambient_occlusion_1k
+[2026.10.18-02.09.20:596][ 17]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/snow_01_ambient_occlusion_1k766DCFCB4D79D887000098989798B0F4.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Content/RozaFile/Mountain/snow_01_ambient_occlusion_1k.uasset'
+[2026.10.18-02.09.20:598][ 17]LogFileHelpers: Saving Package: /Game/RozaFile/Mountain/snow_01_color_1k
+[2026.10.18-02.09.20:598][ 17]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/RozaFile/Mountain/snow_01_color_1k] ([1] browsable assets)...
+[2026.10.18-02.09.20:598][ 17]OBJ SavePackage: Finished generating thumbnails for package [/Game/RozaFile/Mountain/snow_01_color_1k]
+[2026.10.18-02.09.20:613][ 17]LogSavePackage: Moving output files for package: /Game/RozaFile/Mountain/snow_01_color_1k
+[2026.10.18-02.09.20:613][ 17]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/snow_01_color_1k2C5490A7414502566E8E1D954DE03501.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Content/RozaFile/Mountain/snow_01_color_1k.uasset'
+[2026.10.18-02.09.20:614][ 17]LogFileHelpers: Saving Package: /Game/RozaFile/Mountain/snow_01_height_1k
+[2026.10.18-02.09.20:614][ 17]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/RozaFile/Mountain/snow_01_height_1k] ([1] browsable assets)...
+[2026.10.18-02.09.20:614][ 17]OBJ SavePackage: Finished generating thumbnails for package [/Game/RozaFile/Mountain/snow_01_height_1k]
+[2026.10.18-02.09.20:628][ 17]LogSavePackage: Moving output files for package: /Game/RozaFile/Mountain/snow_01_height_1k
+[2026.10.18-02.09.20:628][ 17]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/snow_01_height_1k544240E9412A097D1AA5F0AB913D7E24.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Content/RozaFile/Mountain/snow_01_height_1k.uasset'
+[2026.10.18-02.09.20:630][ 17]LogFileHelpers: Saving Package: /Game/RozaFile/Mountain/snow_01_normal_dx_1k
+[2026.10.18-02.09.20:630][ 17]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/RozaFile/Mountain/snow_01_normal_dx_1k] ([1] browsable assets)...
+[2026.10.18-02.09.20:630][ 17]OBJ SavePackage: Finished generating thumbnails for package [/Game/RozaFile/Mountain/snow_01_normal_dx_1k]
+[2026.10.18-02.09.20:650][ 17]LogSavePackage: Moving output files for package: /Game/RozaFile/Mountain/snow_01_normal_dx_1k
+[2026.10.18-02.09.20:650][ 17]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/snow_01_normal_dx_1k392A0102462D0CB54954AC8A4A85E7D5.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Content/RozaFile/Mountain/snow_01_normal_dx_1k.uasset'
+[2026.10.18-02.09.20:651][ 17]LogFileHelpers: Saving Package: /Game/RozaFile/Mountain/snow_01_normal_gl_1k
+[2026.10.18-02.09.20:651][ 17]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/RozaFile/Mountain/snow_01_normal_gl_1k] ([1] browsable assets)...
+[2026.10.18-02.09.20:652][ 17]OBJ SavePackage: Finished generating thumbnails for package [/Game/RozaFile/Mountain/snow_01_normal_gl_1k]
+[2026.10.18-02.09.20:671][ 17]LogSavePackage: Moving output files for package: /Game/RozaFile/Mountain/snow_01_normal_gl_1k
+[2026.10.18-02.09.20:671][ 17]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/snow_01_normal_gl_1kE04B3FFC42C5332ACB015699E75647B1.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Content/RozaFile/Mountain/snow_01_normal_gl_1k.uasset'
+[2026.10.18-02.09.20:673][ 17]LogFileHelpers: Saving Package: /Game/RozaFile/Mountain/snow_01_roughness_1k
+[2026.10.18-02.09.20:673][ 17]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/RozaFile/Mountain/snow_01_roughness_1k] ([1] browsable assets)...
+[2026.10.18-02.09.20:673][ 17]OBJ SavePackage: Finished generating thumbnails for package [/Game/RozaFile/Mountain/snow_01_roughness_1k]
+[2026.10.18-02.09.20:697][ 17]LogSavePackage: Moving output files for package: /Game/RozaFile/Mountain/snow_01_roughness_1k
+[2026.10.18-02.09.20:697][ 17]LogSavePackage: Moving '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/snow_01_roughness_1kCEA9328142237ADFE6A6F685B4C417F9.tmp' to '../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Content/RozaFile/Mountain/snow_01_roughness_1k.uasset'
+[2026.10.18-02.09.20:705][ 17]LogFileHelpers: InternalPromptForCheckoutAndSave took 15.9 sec (total: 32.7 sec)
+[2026.10.18-02.09.20:769][ 17]LogStall: Shutdown...
+[2026.10.18-02.09.20:782][ 17]LogStall: Shutdown complete.
+[2026.10.18-02.09.20:974][ 17]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2026.10.18-02.09.20:979][ 17]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.18-02.09.21:242][ 17]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2026.10.18-02.09.21:242][ 17]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.18-02.09.21:397][ 17]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2026.10.18-02.09.21:397][ 17]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.18-02.09.21:504][ 17]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2026.10.18-02.09.21:504][ 17]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.18-02.09.21:584][ 17]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2026.10.18-02.09.21:584][ 17]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.18-02.09.21:657][ 17]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2026.10.18-02.09.21:658][ 17]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.18-02.09.21:741][ 17]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2026.10.18-02.09.21:741][ 17]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.18-02.09.21:814][ 17]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2026.10.18-02.09.21:815][ 17]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.18-02.09.21:871][ 17]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2026.10.18-02.09.21:871][ 17]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.18-02.09.21:919][ 17]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2026.10.18-02.09.21:919][ 17]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.18-02.09.21:961][ 17]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2026.10.18-02.09.21:962][ 17]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.18-02.09.22:030][ 17]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2026.10.18-02.09.22:030][ 17]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.18-02.09.22:068][ 17]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2026.10.18-02.09.22:068][ 17]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.18-02.09.22:083][ 17]LogSlate: Window 'CivilGameJamProject - Unreal Editor' being destroyed
+[2026.10.18-02.09.23:476][ 17]LogContentValidation: Enabled validators:
+[2026.10.18-02.09.23:476][ 17]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.10.18-02.09.23:476][ 17]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.10.18-02.09.23:476][ 17]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.10.18-02.09.23:476][ 17]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.10.18-02.09.23:476][ 17]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.10.18-02.09.23:476][ 17]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.10.18-02.09.23:476][ 17]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.10.18-02.09.23:476][ 17]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.10.18-02.09.23:476][ 17]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.10.18-02.09.23:476][ 17]LogContentValidation: Display: Starting to validate 27 assets (145 associated objects such as actors)
+[2026.10.18-02.09.23:476][ 17]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.10.18-02.09.23:478][ 17]AssetCheck: /Game/RozaFile/Untitled Validating asset
+[2026.10.18-02.09.23:478][ 17]AssetCheck: /Game/RozaFile/Untitled_HLOD0_Instancing Validating asset
+[2026.10.18-02.09.23:478][ 17]AssetCheck: /Game/RozaFile/Mountain/Dark_Stone Validating asset
+[2026.10.18-02.09.23:478][ 17]AssetCheck: /Game/RozaFile/Grass_Material/GrassMaterial Validating asset
+[2026.10.18-02.09.23:478][ 17]AssetCheck: /Game/RozaFile/Rozas_Tile_Collection_Try1/BurnedForest/GrassMaterial_Base Validating asset
+[2026.10.18-02.09.23:478][ 17]AssetCheck: /Game/RozaFile/Rozas_Tile_Collection_Try1/Hydrant/GrassMaterial_Base Validating asset
+[2026.10.18-02.09.23:478][ 17]AssetCheck: /Game/RozaFile/Rozas_Tile_Collection_Try1/Sis/M_Plane_Inst Validating asset
+[2026.10.18-02.09.23:478][ 17]AssetCheck: /Game/RozaFile/Mountain/M_Snow Validating asset
+[2026.10.18-02.09.23:478][ 17]AssetCheck: /Game/RozaFile/WaterShader/M_StylizedWater Validating asset
+[2026.10.18-02.09.23:478][ 17]AssetCheck: /Game/RozaFile/Rozas_Tile_Collection_Try1/Hydrant/M_ToonShaderColor_Grayig Validating asset
+[2026.10.18-02.09.23:478][ 17]AssetCheck: /Game/RozaFile/Rozas_Tile_Collection_Try1/Hydrant/M_ToonShaderColor_Grayig1 Validating asset
+[2026.10.18-02.09.23:478][ 17]AssetCheck: /Game/RozaFile/Rozas_Tile_Collection_Try1/BurnedForest/M_Truck_AzAğaç Validating asset
+[2026.10.18-02.09.23:478][ 17]AssetCheck: /Game/RozaFile/Rozas_Tile_Collection_Try1/Sis/SisBase Validating asset
+[2026.10.18-02.09.23:478][ 17]AssetCheck: /Game/RozaFile/Mountain/dark_rock_ao_1k Validating asset
+[2026.10.18-02.09.23:478][ 17]AssetCheck: /Game/RozaFile/Mountain/dark_rock_arm_1k Validating asset
+[2026.10.18-02.09.23:478][ 17]AssetCheck: /Game/RozaFile/Mountain/dark_rock_diff_1k Validating asset
+[2026.10.18-02.09.23:478][ 17]AssetCheck: /Game/RozaFile/Mountain/dark_rock_disp_1k Validating asset
+[2026.10.18-02.09.23:478][ 17]AssetCheck: /Game/RozaFile/Mountain/dark_rock_nor_dx_1k Validating asset
+[2026.10.18-02.09.23:478][ 17]AssetCheck: /Game/RozaFile/Mountain/dark_rock_nor_gl_1k Validating asset
+[2026.10.18-02.09.23:478][ 17]AssetCheck: /Game/RozaFile/Mountain/dark_rock_rough_1k Validating asset
+[2026.10.18-02.09.23:479][ 17]AssetCheck: /Game/RozaFile/Rozas_Tile_Collection_Try1/Hydrant/gri_tanker Validating asset
+[2026.10.18-02.09.23:479][ 17]AssetCheck: /Game/RozaFile/Mountain/snow_01_ambient_occlusion_1k Validating asset
+[2026.10.18-02.09.23:479][ 17]AssetCheck: /Game/RozaFile/Mountain/snow_01_color_1k Validating asset
+[2026.10.18-02.09.23:479][ 17]AssetCheck: /Game/RozaFile/Mountain/snow_01_height_1k Validating asset
+[2026.10.18-02.09.23:479][ 17]AssetCheck: /Game/RozaFile/Mountain/snow_01_normal_dx_1k Validating asset
+[2026.10.18-02.09.23:479][ 17]AssetCheck: /Game/RozaFile/Mountain/snow_01_normal_gl_1k Validating asset
+[2026.10.18-02.09.23:479][ 17]AssetCheck: /Game/RozaFile/Mountain/snow_01_roughness_1k Validating asset
+[2026.10.18-02.09.23:479][ 17]LogContentValidation: Validated asset counts for 9 validators:
+[2026.10.18-02.09.23:479][ 17]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.10.18-02.09.23:479][ 17]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.10.18-02.09.23:479][ 17]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 27
+[2026.10.18-02.09.23:479][ 17]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.10.18-02.09.23:479][ 17]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.10.18-02.09.23:479][ 17]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.10.18-02.09.23:479][ 17]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.10.18-02.09.23:479][ 17]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.10.18-02.09.23:479][ 17]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.10.18-02.09.23:630][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2026.10.18-02.09.23:721][ 17]Cmd: QUIT_EDITOR
+[2026.10.18-02.09.23:722][ 17]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2026.10.18-02.09.23:731][ 17]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/DELL/Desktop/GameJam/Civil-Game-Jam-Project/Saved/SourceControl/UncontrolledChangelists.json
+[2026.10.18-02.09.23:748][ 18]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2026.10.18-02.09.23:757][ 18]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2026.10.18-02.09.23:757][ 18]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2026.10.18-02.09.23:846][ 18]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2026.10.18-02.09.23:849][ 18]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.18-02.09.23:849][ 18]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/RozaFile/Untitled.Untitled
+[2026.10.18-02.09.23:872][ 18]LogMovieScene: USequencerBakeSubsystem subsystem deinitialized.
+[2026.10.18-02.09.23:912][ 18]LogTedsSettings: UTedsSettingsEditorSubsystem::Deinitialize
+[2026.10.18-02.09.23:961][ 18]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2026.10.18-02.09.24:140][ 18]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2026.10.18-02.09.24:140][ 18]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.18-02.09.24:140][ 18]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2026.10.18-02.09.24:140][ 18]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.18-02.09.24:161][ 18]LogRuntimeTelemetry: Recording EnginePreExit events
+[2026.10.18-02.09.24:171][ 18]LogAnalytics: Display: [UEEditor.Rocket.Release] AnalyticsET::EndSession
+[2026.10.18-02.09.24:181][ 18]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerWasapi)...
+[2026.10.18-02.09.24:181][ 18]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2026.10.18-02.09.24:182][ 18]LogAudio: Display: Audio Device unregistered from world 'Untitled'.
+[2026.10.18-02.09.24:183][ 18]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2026.10.18-02.09.24:188][ 18]LogAudioMixer: Display: FAudioMixerWasapi::StopAudioStream() InstanceID=1, StreamState=4
+[2026.10.18-02.09.24:222][ 18]LogAudioMixerWasapi: Display: FWasapiServiceWatcher stopped.
+[2026.10.18-02.09.24:254][ 18]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2026.10.18-02.09.24:254][ 18]LogAudio: Display: Audio Device Manager Shutdown
+[2026.10.18-02.09.24:280][ 18]LogWindowsTextInputMethodSystem: Activated input method: Türkçe (Türkiye) - (Keyboard).
+[2026.10.18-02.09.24:318][ 18]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2026.10.18-02.09.24:318][ 18]LogExit: Preparing to exit.
+[2026.10.18-02.09.25:541][ 18]LogUObjectHash: Compacting FUObjectHashTables data took   3.74ms
+[2026.10.18-02.09.26:086][ 18]LogAssetRegistry: Display: CleanupOrphanedCacheFiles (PostWrite): 1 .ref files found, 1 referenced binaries
+[2026.10.18-02.09.26:086][ 18]LogAssetRegistry: Display: CleanupOrphanedCacheFiles: 0 total binaries, 0 referenced (kept), 0 old-style pre-migration (kept), 0 orphans deleted, 0 orphans locked (kept)
+[2026.10.18-02.09.26:097][ 18]LogEditorDataStorage: Deinitializing
+[2026.10.18-02.09.26:105][ 18]LogEditorDataStorage: De-initializing TEDS Compatibility.
+[2026.10.18-02.09.26:105][ 18]LogEditorDataStorage: De-initialized TEDS Compatibility.
+[2026.10.18-02.09.26:105][ 18]LogEditorDataStorage: De-initializing TEDS Core.
+[2026.10.18-02.09.26:105][ 18]LogEditorDataStorage: Resetting TEDS Core.
+[2026.10.18-02.09.26:116][ 18]LogEditorDataStorage: Reset TEDS Core.
+[2026.10.18-02.09.26:116][ 18]LogEditorDataStorage: De-initialized TEDS Core.
+[2026.10.18-02.09.26:353][ 18]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2026.10.18-02.09.26:544][ 18]LogExit: Editor shut down
+[2026.10.18-02.09.26:573][ 18]LogExit: Transaction tracking system shut down
+[2026.10.18-02.09.27:440][ 18]LogEditorDataStorage: Destroyed TEDS Core.
+[2026.10.18-02.09.27:442][ 18]LogEditorDataStorage: Destroyed TEDS Compatibility.
+[2026.10.18-02.09.27:601][ 18]LogEditorDataStorage: Destroyed TEDS Core.
+[2026.10.18-02.09.27:601][ 18]LogEditorDataStorage: Destroyed TEDS Compatibility.
+[2026.10.18-02.09.27:849][ 18]LogExit: Object subsystem successfully closed.
+[2026.10.18-02.09.27:933][ 18]LogShaderCompilers: Display: Exiting ShaderCompilingThread
+[2026.10.18-02.09.28:750][ 18]LogObjectProfiler: Shutdown
+[2026.10.18-02.09.28:750][ 18]LogMemoryProfiler: Shutdown
+[2026.10.18-02.09.28:752][ 18]LogNetworkingProfiler: Shutdown
+[2026.10.18-02.09.28:752][ 18]LogLoadingProfiler: Shutdown
+[2026.10.18-02.09.28:753][ 18]LogTimingProfiler: Shutdown
+[2026.10.18-02.09.28:763][ 18]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDGenericDebugDrawExtension] ...
+[2026.10.18-02.09.28:763][ 18]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDAccelerationStructuresExtension] ...
+[2026.10.18-02.09.28:763][ 18]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDCameraTracesExtension] ...
+[2026.10.18-02.09.28:763][ 18]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDParticleExtraDataExtension] ...
+[2026.10.18-02.09.28:763][ 18]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FPerformanceMetricsExtension] ...
+[2026.10.18-02.09.30:204][ 18]LogChaosDD: Chaos Debug Draw Shutdown
+[2026.10.18-02.09.30:239][ 18]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2026.10.18-02.09.30:239][ 18]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B38B8C11F-4E27-B322-B592-E7BE70318767%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.8.3-58210709%2B%2B%2BUE5%2BRelease-5.8&UserID=c98dc8e04ddae487c1df37b432bd1e2d%7Cc9535c3a79134922b45ad7472b74fc9e%7C6a639b21-0860-4687-80c7-c61e7cea6804&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2026.10.18-02.09.31:345][ 18]LogEOSShared: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2026.10.18-02.09.31:348][ 18]LogNFORDenoise: NFORDenoise function shutting down
+[2026.10.18-02.09.31:352][ 18]RenderDocPlugin: plugin has been unloaded.
+[2026.10.18-02.09.31:384][ 18]LogPakFile: Destroying PakPlatformFile
+[2026.10.18-02.09.32:085][ 18]LogD3D12RHI: ~FD3D12DynamicRHI
+[2026.10.18-02.09.32:168][ 18]LogExit: Exiting.
+[2026.10.18-02.09.32:232][ 18]Log file closed, 10/18/26 05:09:32
